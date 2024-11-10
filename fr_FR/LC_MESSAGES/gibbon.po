@@ -2294,7 +2294,7 @@ msgid "First Language"
 msgstr "Première langue"
 
 msgid "Employment"
-msgstr "Employeur"
+msgstr "Emploi"
 
 msgid "Profession"
 msgstr "Profession"
@@ -3205,7 +3205,7 @@ msgid "Contact 1 Name"
 msgstr "Nom du contact 1"
 
 msgid "Contact 1 Relationship"
-msgstr "Relation du contact 1"
+msgstr "Lien avec contact 1"
 
 msgid "Spouse"
 msgstr "Épouse"
@@ -3229,7 +3229,7 @@ msgid "Contact 2 Name"
 msgstr "Nom du contact 2"
 
 msgid "Contact 2 Relationship"
-msgstr "Parenté au contact 2"
+msgstr "Lien avec contact 2"
 
 msgid "Contact 2 Number 1"
 msgstr "1er numéro du contact 2"
@@ -22157,3 +22157,15 @@ msgstr "Pas d'historique trouvé!"
 
 msgid "No Invoices Found !"
 msgstr "Pas de Factures Trouvés!"
+
+msgid "Defined by the system"
+msgstr "Sera défini par le système"
+
+msgid "To change the school year, return to the home screen and select the desired school year."
+msgstr "Pour changer l'année scolaire, retournez à l'accueil et sélectionnez l'année scolaire souhaitée."
+
+msgid "Profile Information"
+msgstr "Information sur le Profil"
+
+msgid "Expected to graduate"
+msgstr "Diplôme prévu pour"
