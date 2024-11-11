@@ -2681,7 +2681,7 @@ msgid "Emergency 2 Relationship"
 msgstr "Relations d'urgence 2"
 
 msgid "Vehicle Registration"
-msgstr "N° matricule"
+msgstr "N° matricule Vehicule"
 
 msgid "Image Privacy"
 msgstr "Image de confidentialité"
@@ -22169,3 +22169,9 @@ msgstr "Information sur le Profil"
 
 msgid "Expected to graduate"
 msgstr "Diplôme prévu pour"
+
+msgid "Add Student Enrolment Now?"
+msgstr "Ajouter la fiche étudiante maintenant ?"
+
+msgid "Add Staff Profile Now?"
+msgstr "Ajouter le fiche personnel maintenant ?"
