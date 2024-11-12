@@ -22175,3 +22175,9 @@ msgstr "Ajouter la fiche étudiante maintenant ?"
 
 msgid "Add Staff Profile Now?"
 msgstr "Ajouter le fiche personnel maintenant ?"
+
+msgid "On-site Day Boarder, On-site Evening Boarder, On-site External Student, On-site Midday Boarder, Online Student"
+msgstr "Interne, Demi-Pensionnaire, Externe, En Ligne"
+
+msgid "No comment"
+msgstr "Pas de commentaire"
