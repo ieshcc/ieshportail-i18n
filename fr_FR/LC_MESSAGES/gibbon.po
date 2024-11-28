@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 3.4.4\n"
+"X-Generator: Poedit 3.5\n"
 
 msgid "Today's Lessons"
 msgstr "Mes leçons du jour"
@@ -19,7 +19,7 @@ msgid "My Timetable"
 msgstr "Mon Emploi du temps"
 
 msgid "My Form Group"
-msgstr "Mon groupe-repère"
+msgstr "Ma classe"
 
 msgid "Error"
 msgstr "Erreur"
@@ -1059,7 +1059,7 @@ msgid "Resource Settings"
 msgstr "Gérer les paramètres de ressource"
 
 msgid "Manage Form Groups"
-msgstr "Gérer les groupes-repères"
+msgstr "Gérer les Classes"
 
 msgid "Form Tutors"
 msgstr "Mentor"
@@ -1069,25 +1069,25 @@ msgstr "Espace"
 
 #, fuzzy
 msgid "Add Form Group"
-msgstr "Ajouter un groupe-repère"
+msgstr "Ajouter une classe"
 
 msgid "Tutors"
 msgstr "Mentor"
 
 #, fuzzy
 msgid "Up to 3 per form group. The first-listed will be marked as \"Main Tutor\"."
-msgstr "Pas plus de 3 par groupe-repère. Le premier de la liste sera comme étant \"Mentor principal\"."
+msgstr "Pas plus de 3 par classe. Le premier de la liste sera comme étant \"Mentor principal\"."
 
 #, fuzzy
 msgid "Next Form Group"
-msgstr "Prochain groupe-repère"
+msgstr "Prochaine classe"
 
 msgid "Sets student progression on rollover."
 msgstr "Détermine le passage à l'année scolaire suivante."
 
 #, fuzzy
 msgid "Edit Form Group"
-msgstr "Modifier un groupe-repère"
+msgstr "Modifier une classe"
 
 msgid "Sequence"
 msgstr "Séquence"
@@ -1407,7 +1407,7 @@ msgid "Download the latest commits, and unzip it on your computer."
 msgstr "Télécharger les dernières versions, et décompressez-les sur votre ordinateur."
 
 msgid "Manage Courses & Classes"
-msgstr "Gérer les cursus et les classes"
+msgstr "Gérer les Cursus & les Modules"
 
 msgid "Learning Area"
 msgstr "Zone d'étude et d'apprentissage"
@@ -1530,13 +1530,11 @@ msgstr "Participants actuels"
 msgid "Former Participants"
 msgstr "Participants précédents"
 
-#, fuzzy
 msgid "Class Enrolment by Form Group"
-msgstr "Inscription à une leçon par groupe-repère"
+msgstr "Elèves par Classes"
 
-#, fuzzy
 msgid "Choose Form Group"
-msgstr "Veuillez choisir un groupe-repère"
+msgstr "Veuillez choisir une classe"
 
 msgid "Class Count"
 msgstr "Compteur de leçons"
@@ -1915,7 +1913,7 @@ msgstr "Créer un compte d'utilisateur Gibbon pour l'élève."
 
 #, fuzzy
 msgid "Enrol the student in the selected school year (as the student has not been assigned to a form group)."
-msgstr "Inscrire l'élève dans l'année scolaire sélectionnée (jusqu'à ce que l'élève ait été assigné à un groupe-repère)."
+msgstr "Inscrire l'élève dans l'année scolaire sélectionnée (jusqu'à ce que l'élève ait été assigné à un classe)."
 
 msgid "Save the student's payment preferences."
 msgstr "Enregistrer les préférences de paiement de l'élève."
@@ -1963,7 +1961,7 @@ msgstr "L'élève ne peut pas être inscrit, la procédure doit donc être effec
 
 #, fuzzy
 msgid "The student has successfully been enrolled in the specified school year, year group and form group."
-msgstr "L'élève a été inscrit avec succès dans l'année scolaire spécifiée, le palier et le groupe-repère."
+msgstr "L'élève a été inscrit avec succès dans l'année scolaire spécifiée, le palier et le classe."
 
 msgid "Student payment details could not be saved, but we will continue, as this is a minor issue."
 msgstr "Les détails de paiement de l'élève n'ont pas été enregistrés, mais se poursuivra plus tard, il s'agit d'une erreur mineure."
@@ -2094,7 +2092,7 @@ msgstr "Type de jour"
 
 #, fuzzy
 msgid "Form Group at Entry"
-msgstr "Groupe-repère à l'entrée"
+msgstr "Classe à l'entrée"
 
 #, fuzzy
 msgid "If set, the student will automatically be enrolled on Accept."
@@ -2994,7 +2992,7 @@ msgstr "Enregistre les élèves qui sont marqués comme Attendus et les inscrits
 
 #, fuzzy
 msgid "Year groups or form groups are not properly set up, so you cannot proceed with this section."
-msgstr "Les paliers ou les groupes-repères ne sont pas correctement configurés, vous ne pouvez donc continuer dans cette section"
+msgstr "Les paliers ou les Classes ne sont pas correctement configurés, vous ne pouvez donc continuer dans cette section"
 
 msgid "Enrol"
 msgstr "Inscrire"
@@ -3492,7 +3490,7 @@ msgstr "Choisir un élève"
 
 #, fuzzy
 msgid "Students by Form Group"
-msgstr "Élèves par groupe-repère"
+msgstr "Élèves par classe"
 
 msgid "Students by Name"
 msgstr "Élèves par nom"
@@ -3511,14 +3509,14 @@ msgstr "Inconnu(e)"
 
 #, fuzzy
 msgid "Activity Spread by Form Group"
-msgstr "Activité par groupe-repère"
+msgstr "Activité par classe"
 
 msgid "Some activities not accepted."
 msgstr "Certaines activités non acceptées."
 
 #, fuzzy
 msgid "Activity Type by Form Group"
-msgstr "Type d'activité par groupe-repère"
+msgstr "Type d'activité par classe"
 
 msgid "No Type"
 msgstr "Aucun type"
@@ -3914,7 +3912,7 @@ msgid "Catalog"
 msgstr "Catalogue"
 
 msgid "Courses & Classes"
-msgstr "Cursus et classes"
+msgstr "Cursus et modules"
 
 msgid "Data Updater"
 msgstr "Mise à jour des données"
@@ -4002,7 +4000,7 @@ msgstr "Planificateur de leçon"
 
 #, fuzzy
 msgid "Letters Home by Form Group"
-msgstr "Résumé par groupe-repère"
+msgstr "Résumé par classe"
 
 msgid "Manage Applications"
 msgstr "Gérer les demandes"
@@ -4064,11 +4062,11 @@ msgstr "Choix de confidentialité par élève"
 
 #, fuzzy
 msgid "Form Group Summary"
-msgstr "Résumé du groupe-repère"
+msgstr "Résumé du classe"
 
 #, fuzzy
 msgid "Form Groups Not Registered"
-msgstr "Groupe-repère non enregistré"
+msgstr "Classe non enregistrée"
 
 msgid "Set Future Absence"
 msgstr "Définir une prochaine absence"
@@ -4126,7 +4124,7 @@ msgstr "Consulter les factures en retard"
 
 #, fuzzy
 msgid "View Form Groups"
-msgstr "Consulter les groupes-repères"
+msgstr "Consulter les Classes"
 
 msgid "View Staff Profile"
 msgstr "Consulter le profil d'un membre du personnel"
@@ -4139,7 +4137,7 @@ msgstr "Consulter un emploi du temps par personne"
 
 #, fuzzy
 msgid "Work Summary by Form Group"
-msgstr "Résumé du travail par groupe-repère"
+msgstr "Résumé du travail par classe"
 
 msgid "High"
 msgstr "Élevé"
@@ -5340,7 +5338,7 @@ msgstr "Ressources"
 
 #, fuzzy
 msgid "Form Groups"
-msgstr "Groupes-repères"
+msgstr "Classes"
 
 msgid "School Admin"
 msgstr "École"
@@ -5383,7 +5381,7 @@ msgstr "Permet aux utilisateurs de créer des rubriques d'évaluation"
 
 #, fuzzy
 msgid "Allows users to view a listing of form groups"
-msgstr "Permet aux utilisateurs de consulter une liste des groupes-repères"
+msgstr "Permet aux utilisateurs de consulter une liste des classes"
 
 msgid "Allows users to view staff information"
 msgstr "Permet aux utilisateurs de consulter les informations du personnel"
@@ -7126,7 +7124,7 @@ msgstr "Parti - Plus tôt"
 
 #, fuzzy
 msgid "Take Attendance by Form Group"
-msgstr "Saisir une présence par groupe-repère"
+msgstr "Saisir une présence par classe"
 
 msgid "School is closed on the specified date, and so attendance information cannot be recorded."
 msgstr "L'école est fermée la date spécifiée, les informations de présences ne peuvent donc pas être enregistrées."
@@ -7199,7 +7197,7 @@ msgstr "Mentor"
 
 #, fuzzy
 msgid "All form groups have been registered."
-msgstr "Tous les groupes-repères ont été enregistrés."
+msgstr "Tous les Classes ont été enregistrées."
 
 msgid "Choose"
 msgstr "Choisir"
@@ -7505,10 +7503,10 @@ msgid "Are you sure you wish to process this action? It cannot be undone."
 msgstr "Voulez-vous vraiment procéder à cette action ? Elle ne pourra pas être annulée."
 
 msgid "Issue"
-msgstr "Échéance"
+msgstr "Émettre"
 
 msgid "Issue Reminders"
-msgstr "Rappels d'échéance"
+msgstr "Émettre des rappels"
 
 msgid "Export"
 msgstr "Exporter"
@@ -7551,13 +7549,12 @@ msgstr "Destinataires de factures"
 msgid "Visit %1$sManage Invoicees%2$s to automatically generate missing students."
 msgstr "Aller à %1$s Gérer les destinataires de facture %2$s pour générer automatiquement les élèves manquants."
 
-#, fuzzy
 msgid "All Enrolled Students by Form Group"
-msgstr "Tous les élèves inscrits par groupe-repère"
+msgstr "Tous les élèves inscrits par classe"
 
 #, fuzzy
 msgid "Students by Form Groups"
-msgstr "Élèves par groupes-repères"
+msgstr "Élèves par classes"
 
 msgid "All Enrolled Students by Alphabet"
 msgstr "Tous les élèves inscrits par ordre alphabétique"
@@ -7605,7 +7602,7 @@ msgid "Invoice Total:"
 msgstr "Total de la facture :"
 
 msgid "Email Receipt"
-msgstr "Destinataire du courriel"
+msgstr "Envoyer un reçu par mail"
 
 msgid "An outgoing email address has not been set up under Invoice & Receipt Settings, and so no emails can be sent."
 msgstr "Un courriel sortant n'a pas été défini dans les paramètres de Facture et Destinataire, aucun courriel ne peut donc être envoyé."
@@ -7821,7 +7818,7 @@ msgstr "Qui sera responsable du prochain statut ?"
 
 #, fuzzy
 msgid "Students By Form Group"
-msgstr "Élèves par groupe-repère"
+msgstr "Élèves par classe"
 
 msgid "Renew Item"
 msgstr "Renouveler l'élément"
@@ -8072,7 +8069,7 @@ msgstr "Mentors."
 
 #, fuzzy
 msgid "Select Form Groups"
-msgstr "Sélectionner les groupes-repères"
+msgstr "Sélectionner les classes"
 
 msgid "Members of a course of study."
 msgstr "Membres d'un cours d'étude."
@@ -8782,7 +8779,7 @@ msgstr "Âge moyen"
 
 #, fuzzy
 msgid "All Form Groups"
-msgstr "Tous les groupes-repères"
+msgstr "Toutes les classes"
 
 msgid "This report allows a user to select a range of students and check whether or not they have had their personal and medical data updated after a specified date."
 msgstr "Cet état permet à un utilisateur de sélectionner un lot d'élèves et de vérifier si leurs données médicales et personnelles ont été mises à jour après une date spécifiée."
@@ -9391,11 +9388,11 @@ msgid "Bulk email to any of my courses"
 msgstr "Courriel par lot à chacun de mes cours"
 
 msgid "Bulk email to any of my form groups"
-msgstr "Courriel par lot à chacun de mes groupes-repères"
+msgstr "Courriel par lot à chacune de mes classes"
 
 #, fuzzy
 msgid "Bulk email to any form group"
-msgstr "Courriel par lot à chaque groupe-repère"
+msgstr "Courriel par lot à chaque classe"
 
 msgid "Bulk email to any year group"
 msgstr "Courriel par lot à chaque palier (année, niveau)"
@@ -9555,7 +9552,7 @@ msgstr "Afficher un état de toutes les données de présences dans l'année sco
 
 #, fuzzy
 msgid "Print a report of form groups who have not been registered on a given day"
-msgstr "Afficher un état des groupes-repères qui n'ont pas été enregistrés pour un jour donné"
+msgstr "Afficher un état des Classes qui n'ont pas été enregistrées pour un jour donné"
 
 msgid "Print a report of students who are not physically on the school campus on a given day"
 msgstr "Afficher un état des élèves qui ne sont pas physiquement sur le campus de l'école pour un jour donné"
@@ -9574,15 +9571,15 @@ msgstr "Afficher les listes de paiement"
 
 #, fuzzy
 msgid "Print form group lists showing count of various activity types"
-msgstr "Afficher les listes des groupes-repères affichant un compteur de types d'activités variées"
+msgstr "Afficher les listes des classes affichant un compteur de types d'activités variées"
 
 #, fuzzy
 msgid "Print student form group lists"
-msgstr "Afficher les listes des groupes-repères"
+msgstr "Afficher les listes des classes"
 
 #, fuzzy
 msgid "Print work summary statistical data by form group"
-msgstr "Afficher les données statistiques de résumé de travail par groupe-repère"
+msgstr "Afficher les données statistiques de résumé de travail par classe"
 
 msgid "Provides an summary overview of items in the catalog."
 msgstr "Fournir un aperçu de résumé des éléments du catalogue."
@@ -9607,7 +9604,7 @@ msgstr "Afficher les détails des SMS d'urgence par route de transport"
 
 #, fuzzy
 msgid "Show students in form group, less those with an older sibling, so that letters can be carried home by oldest in family."
-msgstr "Afficher les élèves au sein d'un groupe-repère, moins ceux possédant une ancienne parenté, afin que les lettres puissent être transmises à domicile par un ancien membre de la famille."
+msgstr "Afficher les élèves au sein d'un classe, moins ceux possédant une ancienne parenté, afin que les lettres puissent être transmises à domicile par un ancien membre de la famille."
 
 msgid "Shows privacy options selected, for those students with a selection made."
 msgstr "Affiche les options de confidentialité, pour les élèves avec une sélection faite."
@@ -9617,7 +9614,7 @@ msgstr "Affiche les détails de transport de l'élève"
 
 #, fuzzy
 msgid "Summarises gender and number of students across all form groups."
-msgstr "Résume le sexe et le nombre d'élèves au sein de chaque groupe-repère."
+msgstr "Résume le sexe et le nombre d'élèves au sein de chaque classe."
 
 msgid "Summarises gender, age and school year"
 msgstr "Résume le sexe, l'âge et l'année scolaire"
@@ -9627,14 +9624,14 @@ msgstr "Enregistrer une présence, une personne à la fois"
 
 #, fuzzy
 msgid "Take attendance, one form group at a time"
-msgstr "Enregistrer une présence, un groupe-repère à la fois"
+msgstr "Enregistrer une présence, un classe à la fois"
 
 msgid "Update Gibbon to a new version"
 msgstr "Mettre jour Gibbon vers une nouvelle version"
 
 #, fuzzy
 msgid "View a brief profile of form groups in school."
-msgstr "Voir un bref profil des groupes-repères dans l'école."
+msgstr "Voir un bref profil des classes dans l'école."
 
 msgid "View all markbook information for all users"
 msgstr "Consulter toutes les listes des notes pour tous les utilisateurs"
@@ -9692,7 +9689,7 @@ msgstr "Consulter l'utilisation d'espace d'un emploi du temps"
 
 #, fuzzy
 msgid "View spread of enrolment over terms and days by form group"
-msgstr "Consulter la répartition des inscriptions par rapport aux étapes et les jours par groupe-repère"
+msgstr "Consulter la répartition des inscriptions par rapport aux étapes et les jours par classe"
 
 msgid "View unassigned rooms by timetable."
 msgstr "Consulter les salles non-assignées par emploi du temps."
@@ -10008,9 +10005,8 @@ msgstr "Courriel de résumé hebdomadaire au parent"
 msgid "This report shows responses to the weekly summary email, organised by calendar week and role group."
 msgstr "Cet état affiche les réponses au courriel de résumé hebdomadaire, organisé par la vue semaine du calendrier et par classe."
 
-#, fuzzy
 msgid "Choose Form Group & Week"
-msgstr "Choisir un groupe-repère et une semaine"
+msgstr "Choisir un classe & semaine"
 
 msgid "Calendar Week"
 msgstr "Vue calendrier par semaine"
@@ -10357,11 +10353,11 @@ msgstr "Dans %1$s."
 
 #, php-format
 msgid "All form groups have been registered today (%1$s)."
-msgstr "Tous les groupes-repères ont été enregistrés aujourd'hui (%1$s)."
+msgstr "Toutes les classes ont été enregistrés aujourd'hui (%1$s)."
 
 #, php-format
 msgid "%1$s form groups have not been registered today  (%2$s)."
-msgstr "%1$s groupes-repères n'ont pas été enregistrées aujourd'hui (%2$s)."
+msgstr "%1$s classes n'ont pas été enregistrées aujourd'hui (%2$s)."
 
 msgid "Add Multiple"
 msgstr "Ajout multiple"
@@ -11860,11 +11856,11 @@ msgstr "Connectez-vous à %1$s et utilisez l'icône de notification pour vérifi
 
 #, fuzzy
 msgid "Attendance By Form Group"
-msgstr "Présence par groupe-repère"
+msgstr "Présence par classe"
 
 #, php-format
 msgid "A student (%1$s) in your form group has received a behaviour letter."
-msgstr "Un étudiant (%1$s) de votre groupe-repère a reçu une lettre de comportement."
+msgstr "Un étudiant (%1$s) de votre classe a reçu une lettre de comportement."
 
 msgid "Behaviour Letter for %1$s via %2$s at %3$s"
 msgstr "Lettre de comportement pour %1$s via %2$s à %3$s"
@@ -13173,7 +13169,7 @@ msgstr "Modifier la présence"
 
 #, fuzzy
 msgid "Attendance taking has been disabled for this form group."
-msgstr "La prise de présences a été désactivée pour ce groupe-repère."
+msgstr "La prise de présences a été désactivée pour ce classe."
 
 msgid "Classes Not Registered"
 msgstr "Cours non enregistrés"
@@ -13313,7 +13309,7 @@ msgstr "Modifier le code de présence"
 
 #, fuzzy
 msgid "Up to 3 per form group."
-msgstr "Jusqu'à 3 par groupe-repère."
+msgstr "Jusqu'à 3 par classe."
 
 msgid "Track Attendance?"
 msgstr "Suivre la fréquentation?"
@@ -13329,7 +13325,7 @@ msgid "%1$s classes have not been registered today (%2$s)."
 msgstr "Les classes %1$s n'ont pas été enregistrées aujourd'hui (%2$s)."
 
 msgid "A warning has been issued for a student (%1$s) in your form group, pending a behaviour letter."
-msgstr "Un avertissement a été émis pour un étudiant (%1$s) dans votre groupe-repère, en attente d'une lettre de comportement."
+msgstr "Un avertissement a été émis pour un étudiant (%1$s) dans votre classe, en attente d'une lettre de comportement."
 
 #, php-format
 msgid "A warning has been issued for a student (%1$s) in one of your classes, pending a behaviour letter."
@@ -13416,7 +13412,7 @@ msgstr "Prenez l'assiduité, une classe à la fois"
 
 #, fuzzy
 msgid "View attendance, by form group and class"
-msgstr "Voir la participation, par groupe-repère et classe"
+msgstr "Voir la participation, par classe et classe"
 
 msgid "View full profile of any student in the school, without access to Notes."
 msgstr "Voir le profil complet de tout étudiant dans l'école, sans accès aux notes."
@@ -13438,7 +13434,7 @@ msgstr "Activer les notifications par classe"
 
 #, fuzzy
 msgid "Enable Notifications by Form Group"
-msgstr "Activer les notifications par groupe-repère"
+msgstr "Activer les notifications par classe"
 
 msgid "Enable Rubrics"
 msgstr "Activer les rubriques"
@@ -13553,7 +13549,7 @@ msgstr "Mot de passe à utiliser pour l'authentification SMTP. Laisser vide s'il
 
 #, fuzzy
 msgid "Send the school-wide daily attendance report to additional users. Restricted to roles with permission to access Form Groups Not Registered or Classes Not Registered."
-msgstr "Envoyez le rapport de présences quotidien à l'échelle de l'école à d'autres utilisateurs. Restreint aux rôles avec l'autorisation d'accéder aux groupes-repères non enregistrés ou aux classes non enregistrées."
+msgstr "Envoyez le rapport de présences quotidien à l'échelle de l'école à d'autres utilisateurs. Restreint aux rôles avec l'autorisation d'accéder aux classes non enregistrés ou aux classes non enregistrées."
 
 msgid "Set the hostname of the mail server."
 msgstr "Définissez le nom d'hôte du serveur de messagerie."
@@ -13632,7 +13628,7 @@ msgstr "Par destinataire"
 
 #, fuzzy
 msgid "By Form Group"
-msgstr "Par groupe-repère"
+msgstr "Par Classe"
 
 msgid "Receipt Confirmation Text"
 msgstr "Texte de confirmation de réception"
@@ -13943,7 +13939,7 @@ msgstr "Type de présence de classe par défaut"
 
 #, fuzzy
 msgid "Default Form Group Attendance Type"
-msgstr "Type de présences par groupe-repère par défaut"
+msgstr "Type de présences par classe par défaut"
 
 msgid "Enable Display Cumulative Marks"
 msgstr "Activer l'affichage des marques cumulatives"
@@ -14016,7 +14012,7 @@ msgstr "La sélection par défaut pour le type de présences lors de la particip
 
 #, fuzzy
 msgid "The default selection for attendance type when taking Form Group attendance"
-msgstr "La sélection par défaut pour le type de présences lors de la prise de présence d'un groupe-repère"
+msgstr "La sélection par défaut pour le type de présences lors de la prise de présence d'un classe"
 
 msgid "The number of Behaviour concerns needed in the past 60 days to raise a high level alert on a student."
 msgstr "Le nombre de problèmes de comportement requis au cours des 60 derniers jours pour déclencher une alerte de haut niveau sur un élève."
@@ -14116,7 +14112,7 @@ msgid "Students by House"
 msgstr "Étudiants par maison"
 
 msgid "Sync Course Enrolment"
-msgstr "Synchroniser l'inscription à un cours"
+msgstr "Inscrire automatiquement des classes au modules"
 
 msgid "Allows users to map enrolments from homerooms to classes."
 msgstr "Permet aux utilisateurs de mapper les inscriptions des classes supérieures aux classes."
@@ -14200,7 +14196,7 @@ msgid "If yes, applicants choices for Year of Entry can be limited to specific s
 msgstr "Si oui, les choix des candidats pour l'année d'entrée peuvent être limités à des années scolaires spécifiques."
 
 msgid "Should auto-enrolment of new students into courses be turned on or off by default?"
-msgstr "L'inscription automatique des nouveaux étudiants aux cours devrait-elle être activée ou désactivée par défaut?"
+msgstr "L'inscription automatique des nouveaux étudiants aux cursus devrait-elle être activée ou désactivée par défaut?"
 
 msgid "Should Markbook information be included in the weekly planner email summary that goes out to parents?"
 msgstr "Les informations de la liste des notes doivent-elles être incluses dans le courriel de résumé hebdomadaire du planificateur destiné aux parents?"
@@ -14357,7 +14353,7 @@ msgid "User Data Options"
 msgstr "Options de données utilisateur"
 
 msgid "Form Group"
-msgstr "Groupe-repère"
+msgstr "Classe"
 
 msgid "Re-Enrol"
 msgstr "Réinscription"
@@ -14477,7 +14473,7 @@ msgstr "Le système peut éventuellement effectuer les actions suivantes:"
 
 #, fuzzy
 msgid "Automatically enrol student in classes for Form Group."
-msgstr "Inscrire automatiquement l'étudiant dans les classes de son groupe-repère."
+msgstr "Inscrire automatiquement l'étudiant dans les classes de son classe."
 
 #, fuzzy
 msgid "Student could not be automatically enrolled in courses, so this will have to be done manually at a later date."
@@ -14485,7 +14481,7 @@ msgstr "L'étudiant ne peut pas être automatiquement inscrit dans les cours, do
 
 #, fuzzy
 msgid "The student has automatically been enrolled in courses for their Form Group."
-msgstr "L'étudiant a été automatiquement inscrit aux cours de son groupe-repère."
+msgstr "L'étudiant a été automatiquement inscrit aux cours de son classe."
 
 #, php-format
 msgid "Please feel free to reply to this email should you have any questions.<br/><br/>%1$s,<br/><br/>%2$s Admissions Administrator"
@@ -14510,13 +14506,12 @@ msgstr "Application vide"
 msgid "Auto-Enrol Courses?"
 msgstr "Cours d'auto-inscription?"
 
-#, fuzzy
 msgid "Should this student be automatically enrolled in courses for their Form Group?"
-msgstr "Cet élève devrait-il être automatiquement inscrit aux cours de son groupe-repère?"
+msgstr "Cet élève devrait-il être automatiquement inscrit aux modules de son classe?"
 
 #, fuzzy
 msgid "This will replace any auto-enrolled courses if the student Form Group has changed."
-msgstr "Cela remplacera tous les cours auto-inscrits si le groupe-repère de l'élève a changé."
+msgstr "Cela remplacera tous les cours auto-inscrits si le classe de l'élève a changé."
 
 msgid "Prefix"
 msgstr "Préfixe"
@@ -14634,7 +14629,7 @@ msgstr "%1$s Finance"
 
 #, php-format
 msgid "Email Reminder %1$s"
-msgstr "Rappel par courriel %1$s"
+msgstr "Envoyer un rappel par courriel %1$s"
 
 msgid "Self"
 msgstr "Soi"
@@ -14667,7 +14662,7 @@ msgstr "Classes de carte"
 
 #, fuzzy
 msgid "Syncing enrolment lets you enrol students into courses by mapping them to a Form Group and Year Group within the school. If auto-enrol is turned on, new students accepted through the application form and student enrolment process will be enrolled in courses automatically."
-msgstr "La synchronisation de l'inscription vous permet d'inscrire des étudiants à des cours en les associant à un groupe-repère et un palier au sein de l'établissement. Si l'inscription automatique est activée, les nouveaux étudiants acceptés via le formulaire de demande et le processus d'inscription des étudiants seront automatiquement inscrits aux cours."
+msgstr "La synchronisation de l'inscription vous permet d'inscrire des étudiants à des cours en les associant à un classe et un palier au sein de l'établissement. Si l'inscription automatique est activée, les nouveaux étudiants acceptés via le formulaire de demande et le processus d'inscription des étudiants seront automatiquement inscrits aux cours."
 
 msgid "Sync All"
 msgstr "Tout synchroniser"
@@ -14698,7 +14693,7 @@ msgstr "Comparer au motif"
 
 #, fuzzy, php-format
 msgid "Classes will be matched to Form Groups that fit the specified pattern. Choose from %1$s. Must contain %2$s"
-msgstr "Les cours seront mis en correspondance avec les groupes-repères qui correspondent au modèle spécifié. Choisissez parmi %1$s. Doit contenir %2$s"
+msgstr "Les cours seront mis en correspondance avec les classes qui correspondent au modèle spécifié. Choisissez parmi %1$s. Doit contenir %2$s"
 
 msgid "Database Settings"
 msgstr "Paramètres de la base de données"
@@ -16085,7 +16080,7 @@ msgstr "La participation a été prise pour vous aujourd'hui. Votre statut actue
 
 #, fuzzy
 msgid "Activity Choices by Form Group"
-msgstr "Choix d'activité par groupe-repère"
+msgstr "Choix d'activité par classe"
 
 msgid "Ended"
 msgstr "Terminé"
@@ -16126,7 +16121,7 @@ msgstr "Fournit une vue d'ensemble des mises à jour de données requises pour u
 
 #, fuzzy
 msgid "View all student activity choices in the current year for a given form group."
-msgstr "Afficher tous les choix d'activités des élèves de l'année en cours pour un groupe-repère donné."
+msgstr "Afficher tous les choix d'activités des élèves de l'année en cours pour un classe donné."
 
 msgid "Cutoff Date"
 msgstr "Date de coupure"
@@ -16734,10 +16729,10 @@ msgid "Slot %1$d Location"
 msgstr "Emplacement %1$d Emplacement"
 
 msgid "Attendance By Form Group_all"
-msgstr "Présence par groupe-repère_all"
+msgstr "Présence par Classe_all"
 
 msgid "Attendance By Form Group_myGroups"
-msgstr "Présence par groupe-repère_myGroups"
+msgstr "Présence par Classe_mesGroupes"
 
 msgid "Enter Activity Attendance_leader"
 msgstr "Entrez l'activité Attendance_leader"
@@ -16779,7 +16774,8 @@ msgid "Manage Groups_my"
 msgstr "Gérer les Groups_my"
 
 msgid "Manage Staff_confidential"
-msgstr "Gérer le p\n"
+msgstr ""
+"Gérer le p\n"
 "ersonnel_confidential"
 
 msgid "Manage Staff_general"
@@ -18112,7 +18108,7 @@ msgid "Enable Notifications for Educational Assistants"
 msgstr "Activer les notifications pour les assistants pédagogiques"
 
 msgid "Enable Notifications for Form Group Tutors"
-msgstr "Activer les notifications pour les mentors du groupe-repère"
+msgstr "Activer les notifications pour les mentors du classe"
 
 msgid "Enable Pinned Messages on Home"
 msgstr "Activer les messages épinglés sur la page d'accueil"
@@ -18154,7 +18150,7 @@ msgid "Should the first class attendance taken in a day have the option to recor
 msgstr "L'assiduité au premier cours d'une journée devrait-elle être enregistrée comme assiduité à l'échelle de l'école ?"
 
 msgid "Should the Form Group Tutors of a student be notified of new behaviour records?"
-msgstr "Les mentors du groupe-repère d'un élève doivent-ils être informés des nouveaux enregistrements de comportement ?"
+msgstr "Les mentors du classe d'un élève doivent-ils être informés des nouveaux enregistrements de comportement ?"
 
 msgid "Template text to be included in the Description field of a First Aid Record."
 msgstr "Modèle de texte à inclure dans le champ Description d'un dossier de premiers soins."
@@ -19296,10 +19292,10 @@ msgid "Server Info"
 msgstr "Informations du serveur"
 
 msgid "View Form Groups_all"
-msgstr "Afficher les groupes-repères_all"
+msgstr "Afficher les classes_all"
 
 msgid "View Form Groups_myChildren"
-msgstr "Afficher les groupes-repères_myChildren"
+msgstr "Afficher les classes_myChildren"
 
 msgid "Comply with privacy regulations by flushing older, non-academic, data from the system."
 msgstr "Respectez les règles de confidentialité en supprimant les données plus anciennes, non académiques, du système."
@@ -19311,7 +19307,7 @@ msgid "Manage the list of medical conditions that can be attached to student med
 msgstr "Gérer la liste des conditions médicales pouvant être jointes aux dossiers médicaux des élèves."
 
 msgid "Shows the number of classes students are enroled in, organised by form group"
-msgstr "Affiche le nombre de cours auxquels les élèves sont inscrits, organisés par groupe-repère"
+msgstr "Affiche le nombre de cours auxquels les élèves sont inscrits, organisés par classe"
 
 msgid "Application Processing Fee"
 msgstr "Frais de traitement des demandes"
@@ -19671,7 +19667,7 @@ msgid "Read Online"
 msgstr "Lire en ligne"
 
 msgid "Duplication was successful, however {count} criteria did not match form groups or courses in the target school year and could not be copied."
-msgstr "La duplication a réussi, mais les critères de {count} ne correspondaient pas aux groupes-repères ou aux cours de l'année scolaire cible et n'ont pas pu être copiés."
+msgstr "La duplication a réussi, mais les critères de {count} ne correspondaient pas aux Classes ou aux cursus de l'année scolaire cible et n'ont pas pu être copiés."
 
 msgid "View Online"
 msgstr "Voir en Ligne"
@@ -19872,7 +19868,7 @@ msgid "View resources"
 msgstr "Voir les Ressources"
 
 msgid "View the form groups in which a user's children study."
-msgstr "Afficher les groupes-repères dans lesquels les enfants d'un utilisateur étudient."
+msgstr "Afficher les classes dans lesquels les enfants d'un utilisateur étudient."
 
 msgid "South Sudan"
 msgstr "Soudan du sud"
@@ -20070,10 +20066,10 @@ msgid "Student, lesson or homework has not been specified ."
 msgstr "L'élève, la leçon ou les devoirs n'ont pas été spécifiés."
 
 msgid "Change of Form Group"
-msgstr "Changement de groupe-repère"
+msgstr "Changement de classe"
 
 msgid "Student's form group was changed from {formGroupFrom} to {formGroupTo} on {date}"
-msgstr "Le groupe-repère de l'élève est passé de {formGroupFrom} à {formGroupTo} le {date}"
+msgstr "La classe de l'élève est passé de {formGroupFrom} à {formGroupTo} le {date}"
 
 msgid "This report prints a summary of personal documents including passports and ID cards for the selected students."
 msgstr "Ce rapport imprime un résumé des documents personnels, y compris les passeports et les cartes d'identité des élèves sélectionnés."
@@ -20154,7 +20150,7 @@ msgid "This bulk action can be used to update the status for more than one invoi
 msgstr "Cette action groupée peut être utilisée pour mettre à jour le statut de plusieurs factures à Payé (en totalité). Il n'envoie PAS de reçus par courriel ni ne fonctionne avec des paiements nécessitant un ID de transaction. Si vous devez inclure des reçus par courriel, ajouter un ID de transaction ou traiter un paiement partiel, utilisez l'action Modifier pour chaque facture individuelle."
 
 msgid "All Students by Form Group"
-msgstr "Tous les élèves par groupe-repère"
+msgstr "Tous les élèves par classe"
 
 msgid "Absence"
 msgstr "Absence"
@@ -20366,9 +20362,11 @@ msgid "You have been manually logged out of {system} by a system administrator."
 msgstr "Vous avez été manuellement déconnecté de {system} par un administrateur système."
 
 #, php-format
-msgid "A warning has been issued for a student (%1$s) in your form group,\n"
+msgid ""
+"A warning has been issued for a student (%1$s) in your form group,\n"
 "                                     pending a behaviour letter."
-msgstr "Un avertissement a été émis pour un élève (%1$s) dans votre groupe-repère,\n"
+msgstr ""
+"Un avertissement a été émis pour un élève (%1$s) dans votre classe,\n"
 "                                      dans l'attente d'une lettre de comportement."
 
 msgid "Allows users to take school-wide attendance for ad hoc groups of students."
@@ -20973,7 +20971,7 @@ msgid "The form builder enables you to design application forms as well as other
 msgstr "Le générateur de formulaires vous permet de concevoir des formulaires de candidature ainsi que d'autres formulaires personnalisés pour la collecte de données utilisateur. Les fonctionnalités disponibles dans chaque formulaire dépendent des champs qui leur sont ajoutés."
 
 msgid "Enrol the student in the selected school year (as the student has been assigned to a form group)."
-msgstr "Inscrire l'élève dans l'année scolaire sélectionnée (puisque l'élève a été affecté à un groupe-repère)."
+msgstr "Inscrire l'élève dans l'année scolaire sélectionnée (puisque l'élève a été affecté à un classe)."
 
 msgid "Admissions Welcome"
 msgstr "Bienvenue aux admissions"
@@ -21699,7 +21697,7 @@ msgid "Behaviour Record for IN Student"
 msgstr "Dossier de comportement de l'étudiant IN"
 
 msgid "{formGroup} was the last group to have their initial Form Group attendance taken (by {person} at {time})"
-msgstr "{formGroup} a été le dernier groupe à avoir une prise initiale des présences au groupe-repère (par {person} à {time})"
+msgstr "{formGroup} a été le dernier groupe à avoir une prise initiale des présences au classe (par {person} à {time})"
 
 msgid "This is a main catalog record. Updating it will also update {count} copies of this record."
 msgstr "Il s'agit d'une notice du catalogue principal. Sa mise à jour mettra également à jour {count} copies de cet enregistrement."
@@ -21886,7 +21884,7 @@ msgid "First Aid Qualification Expiry"
 msgstr "Expiration de la qualification de premiers secours"
 
 msgid "Student Form Group Changed"
-msgstr "Le groupe-repère de l'étudiant a été modifié"
+msgstr "Le classe de l'étudiant a été modifié"
 
 msgid "Edit Shelf"
 msgstr "Modifier l'étagère"
@@ -21988,7 +21986,7 @@ msgid "When enabled, you can share the Send Report for this message with other u
 msgstr "Lorsqu'il est activé, vous pouvez partager le rapport d'envoi de ce message avec d'autres utilisateurs."
 
 msgid "{student}'s form group was changed from {formGroupFrom} to {formGroupTo} on {date}"
-msgstr "Le groupe-repère de {étudiant} est passé de {formGroupFrom} à {formGroupTo} le {date}"
+msgstr "Le classe de {étudiant} est passé de {formGroupFrom} à {formGroupTo} le {date}"
 
 msgid "{student} {formGroup} will withdraw from {school}, effective from {date}."
 msgstr "{student} {formGroup} se retirera de {school}, à compter du {date}."
@@ -22068,7 +22066,7 @@ msgstr "Lieu de naissance"
 msgid "New Student ?"
 msgstr "Nouvel Etudiant"
 
-msgid "Registration Status"
+msgid "Enrolment Status"
 msgstr "Statut inscription"
 
 msgid "Courses"
@@ -22176,8 +22174,36 @@ msgstr "Ajouter la fiche étudiante maintenant ?"
 msgid "Add Staff Profile Now?"
 msgstr "Ajouter le fiche personnel maintenant ?"
 
-msgid "On-site Day Boarder, On-site Evening Boarder, On-site External Student, On-site Midday Boarder, Online Student"
-msgstr "Interne, Demi-Pensionnaire, Externe, En Ligne"
+msgid "On-site Day Boarder, On-site Evening Boarder, On-site External Student, On-site Internal Student, On-site Midday Boarder, Online Student"
+msgstr "Interne, Demi-Pensionnaire, Externe, Interne, En Ligne"
 
 msgid "No comment"
 msgstr "Pas de commentaire"
+
+msgid "On-site Internal Student"
+msgstr "Interne"
+
+msgid "Finish"
+msgstr "Terminer"
+
+msgid "This page acknowledges the creators of the free resources used in our projects. We respect their work and provide proper attribution as required by their licenses."
+
+msgstr "Cette page attribue les créateurs des ressources gratuites utilisées dans nos projets. Nous respectons leur travail et fournissons une attribution appropriée comme l'exigent leurs licences."
+
+msgid "Credits & Attribution"
+msgstr "Crédits et attributions"
+
+msgid "created by"
+msgstr "crée par"
+
+msgid "Icons"
+msgstr "Icônes"
+
+msgid "Recipient Email"
+msgstr "Email du destinataire"
+
+msgid "Professional Activity"
+msgstr "Activité professionnelle"
+
+msgid "Work Address"
+msgstr "Lieu de Travail"
