@@ -1166,7 +1166,7 @@ msgid "Edit Special Day"
 msgstr "Modifier un jour spécial"
 
 msgid "Manage Terms"
-msgstr "Gérer les étapes"
+msgstr "Gérer le partage de l'année scolaire"
 
 msgid "Add Term"
 msgstr "Ajouter une étape"
@@ -22159,6 +22159,9 @@ msgstr "Pas de Factures Trouvés!"
 msgid "Defined by the system"
 msgstr "Sera défini par le système"
 
+msgid "Defined by the system if not set"
+msgstr "Sera défini par le système si non renseigné"
+
 msgid "To change the school year, return to the home screen and select the desired school year."
 msgstr "Pour changer l'année scolaire, retournez à l'accueil et sélectionnez l'année scolaire souhaitée."
 
@@ -22207,3 +22210,33 @@ msgstr "Activité professionnelle"
 
 msgid "Work Address"
 msgstr "Lieu de Travail"
+
+msgid "Classroom"
+msgstr "Salle de classe"
+
+msgid "Mosque"
+msgstr "Mosquée"
+
+msgid "Studio Apartment"
+msgstr "Appartement Studio"
+
+msgid "Dormitory"
+msgstr "Dortoir"
+
+msgid "Outdoor"
+msgstr "Extérieur"
+
+msgid "Staffroom"
+msgstr "Salle du personnel"
+
+msgid "Infirmary"
+msgstr "Infirmerie"
+
+msgid "Prayer Room"
+msgstr "Moussala"
+
+msgid "Once added it cannot be modified"
+msgstr "Une fois ajouté il ne pourra pas être modifié"
+
+msgid "Controls what a user can do and see. The Primary role should be set here also."
+msgstr "Contrôle ce qu'un utilisateur peut faire et voir. Le rôle principal doit aussi être sélectionné ici."
