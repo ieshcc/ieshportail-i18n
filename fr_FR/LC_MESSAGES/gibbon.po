@@ -661,7 +661,7 @@ msgid "This value cannot be changed."
 msgstr "Cette valeur ne peut pas être modifiée."
 
 msgid "Student"
-msgstr "Élève"
+msgstr "Étudiant"
 
 msgid "Please select..."
 msgstr "Sélectionner..."
