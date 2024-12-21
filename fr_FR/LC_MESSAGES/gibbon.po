@@ -22240,3 +22240,558 @@ msgstr "Une fois ajouté il ne pourra pas être modifié"
 
 msgid "Controls what a user can do and see. The Primary role should be set here also."
 msgstr "Contrôle ce qu'un utilisateur peut faire et voir. Le rôle principal doit aussi être sélectionné ici."
+
+msgid "Afghan"
+msgstr "Afghan"
+
+msgid "Algerian"
+msgstr "Algérien"
+
+msgid "American"
+msgstr "Américain"
+
+msgid "Andorran"
+msgstr "Andorran"
+
+msgid "Angolan"
+msgstr "Angolais"
+
+msgid "Anguillan"
+msgstr "Anguillais"
+
+msgid "Argentine"
+msgstr "Argentin"
+
+msgid "Australian"
+msgstr "Australien"
+
+msgid "Austrian"
+msgstr "Autrichien"
+
+msgid "Azerbaijani"
+msgstr "Azerbaïdjanais"
+
+msgid "Bahamian"
+msgstr "Bahaméen"
+
+msgid "Bahraini"
+msgstr "Bahreïnien"
+
+msgid "Bangladeshi"
+msgstr "Bangladais"
+
+msgid "Barbadian"
+msgstr "Barbadien"
+
+msgid "Belarusian"
+msgstr "Biélorusse"
+
+msgid "Belgian"
+msgstr "Belge"
+
+msgid "Belizean"
+msgstr "Belizien"
+
+msgid "Beninese"
+msgstr "Béninois"
+
+msgid "Bermudian"
+msgstr "Bermudien"
+
+msgid "Bhutanese"
+msgstr "Bhoutanais"
+
+msgid "Bolivian"
+msgstr "Bolivien"
+
+msgid "Botswanan"
+msgstr "Botswanais"
+
+msgid "Brazilian"
+msgstr "Brésilien"
+
+msgid "British"
+msgstr "Britannique"
+
+msgid "British Virgin Islander"
+msgstr "Îles Vierges britanniques"
+
+msgid "Bruneian"
+msgstr "Brunéien"
+
+msgid "Burkinan"
+msgstr "Burkinabé"
+
+msgid "Burmese"
+msgstr "Birman"
+
+msgid "Burundian"
+msgstr "Burundais"
+
+msgid "Cameroonian"
+msgstr "Camerounais"
+
+msgid "Canadian"
+msgstr "Canadien"
+
+msgid "Cape Verdean"
+msgstr "Cap-Verdien"
+
+msgid "Cayman Islander"
+msgstr "Caïmanien"
+
+msgid "Central African"
+msgstr "Centrafricain"
+
+msgid "Chadian"
+msgstr "Tchadien"
+
+msgid "Chilean"
+msgstr "Chilien"
+
+msgid "Chinese"
+msgstr "Chinois"
+
+msgid "Citizen of Antigua and Barbuda"
+msgstr "Antiguayen et Barbudien"
+
+msgid "Citizen of Bosnia and Herzegovina"
+msgstr "Bosniaque et Herzégovinien"
+
+msgid "Citizen of Guinea-Bissau"
+msgstr "Bissau-Guinéen"
+
+msgid "Citizen of Kiribati"
+msgstr "Kiribatien"
+
+msgid "Citizen of Seychelles"
+msgstr "Seychellois"
+
+msgid "Citizen of the Dominican Republic"
+msgstr "Dominicain"
+
+msgid "Citizen of Vanuatu"
+msgstr "Vanuatuan"
+
+msgid "Colombian"
+msgstr "Colombien"
+
+msgid "Comoran"
+msgstr "Comorien"
+
+msgid "Congolese (Congo)"
+msgstr "Congolais (Congo)"
+
+msgid "Congolese (DRC)"
+msgstr "Congolais (RDC)"
+
+msgid "Cook Islander"
+msgstr "Insulaire des Îles Cook"
+
+msgid "Costa Rican"
+msgstr "Costaricien"
+
+msgid "Croatian"
+msgstr "Croate"
+
+msgid "Cuban"
+msgstr "Cubain"
+
+msgid "Cymraes"
+msgstr "Galloise"
+
+msgid "Cymro"
+msgstr "Gallois"
+
+msgid "Cypriot"
+msgstr "Chypriote"
+
+msgid "Djiboutian"
+msgstr "Djiboutien"
+
+msgid "Dominican"
+msgstr "Dominicain"
+
+msgid "East Timorese"
+msgstr "Timorais de l'Est"
+
+msgid "Ecuadorean"
+msgstr "Équatorien"
+
+msgid "Egyptian"
+msgstr "Égyptien"
+
+msgid "Emirati"
+msgstr "Émirati"
+
+msgid "Equatorial Guinean"
+msgstr "Guinéen Équatorial"
+
+msgid "Eritrean"
+msgstr "Érythréen"
+
+msgid "Ethiopian"
+msgstr "Éthiopien"
+
+msgid "Faroese"
+msgstr "Féroïen"
+
+msgid "Filipino"
+msgstr "Philippin"
+
+msgid "Gabonese"
+msgstr "Gabonnais"
+
+msgid "Ghanaian"
+msgstr "Ghanéen"
+
+msgid "Gibraltarian"
+msgstr "Gibraltarien"
+
+msgid "Greenlandic"
+msgstr "Groenlandais"
+
+msgid "Grenadian"
+msgstr "Grenadien"
+
+msgid "Guamanian"
+msgstr "Guamien"
+
+msgid "Guatemalan"
+msgstr "Guatémaltèque"
+
+msgid "Guinean"
+msgstr "Guinéen"
+
+msgid "Guyanese"
+msgstr "Guyanien"
+
+msgid "Haitian"
+msgstr "Haïtien"
+
+msgid "Honduran"
+msgstr "Hondurien"
+
+msgid "Hong Konger"
+msgstr "Hongkongais"
+
+msgid "Indian"
+msgstr "Indien"
+
+msgid "Iranian"
+msgstr "Iranien"
+
+msgid "Iraqi"
+msgstr "Irakien"
+
+msgid "Israeli"
+msgstr "Israélien"
+
+msgid "Ivorian"
+msgstr "Ivoirien"
+
+msgid "Jamaican"
+msgstr "Jamaïcain"
+
+msgid "Jordanian"
+msgstr "Jordanien"
+
+msgid "Kazakh"
+msgstr "Kazakh"
+
+msgid "Kenyan"
+msgstr "Kenyan"
+
+msgid "Kittitian"
+msgstr "Kittitien"
+
+msgid "Kosovan"
+msgstr "Kosovar"
+
+msgid "Kuwaiti"
+msgstr "Koweïtien"
+
+msgid "Kyrgyz"
+msgstr "Kirghize"
+
+msgid "Lao"
+msgstr "Laotien"
+
+msgid "Lebanese"
+msgstr "Libanais"
+
+msgid "Liberian"
+msgstr "Libérien"
+
+msgid "Libyan"
+msgstr "Libyen"
+
+msgid "Liechtenstein citizen"
+msgstr "Liechtensteinois"
+
+msgid "Luxembourger"
+msgstr "Luxembourgeois"
+
+msgid "Macanese"
+msgstr "Macanais"
+
+msgid "Malagasy"
+msgstr "Malgache"
+
+msgid "Malawian"
+msgstr "Malawite"
+
+msgid "Malaysian"
+msgstr "Malaisien"
+
+msgid "Maldivian"
+msgstr "Maldivien"
+
+msgid "Malian"
+msgstr "Malien"
+
+msgid "Marshallese"
+msgstr "Marshallais"
+
+msgid "Martiniquais"
+msgstr "Martiniquais"
+
+msgid "Mauritanian"
+msgstr "Mauritanien"
+
+msgid "Mauritian"
+msgstr "Mauricien"
+
+msgid "Mexican"
+msgstr "Mexicain"
+
+msgid "Micronesian"
+msgstr "Micronésien"
+
+msgid "Moldovan"
+msgstr "Moldave"
+
+msgid "Monegasque"
+msgstr "Monégasque"
+
+msgid "Montenegrin"
+msgstr "Monténégrin"
+
+msgid "Montserratian"
+msgstr "Montserratien"
+
+msgid "Moroccan"
+msgstr "Marocain"
+
+msgid "Mosotho"
+msgstr "Sothot"
+
+msgid "Mozambican"
+msgstr "Mozambicain"
+
+msgid "Namibian"
+msgstr "Namibien"
+
+msgid "Nauruan"
+msgstr "Nauruan"
+
+msgid "Nepalese"
+msgstr "Népalais"
+
+msgid "New Zealander"
+msgstr "Néo-Zélandais"
+
+msgid "Nicaraguan"
+msgstr "Nicaraguayen"
+
+msgid "Nigerian"
+msgstr "Nigérian"
+
+msgid "Nigerien"
+msgstr "Nigérien"
+
+msgid "Niuean"
+msgstr "Niuéen"
+
+msgid "North Korean"
+msgstr "Nord-Coréen"
+
+msgid "Northern Irish"
+msgstr "Irlandais du Nord"
+
+msgid "Omani"
+msgstr "Omanais"
+
+msgid "Pakistani"
+msgstr "Pakistanais"
+
+msgid "Palauan"
+msgstr "Paluan"
+
+msgid "Palestinian"
+msgstr "Palestinien"
+
+msgid "Panamanian"
+msgstr "Panaméen"
+
+msgid "Papua New Guinean"
+msgstr "Papouasien"
+
+msgid "Paraguayan"
+msgstr "Paraguayen"
+
+msgid "Peruvian"
+msgstr "Péruvien"
+
+msgid "Pitcairn Islander"
+msgstr "Pitcairnais"
+
+msgid "Prydeinig"
+msgstr "Brittonique"
+
+msgid "Puerto Rican"
+msgstr "Portoricain"
+
+msgid "Qatari"
+msgstr "Qatarien"
+
+msgid "Rwandan"
+msgstr "Rwandais"
+
+msgid "Salvadorean"
+msgstr "Salvadorien"
+
+msgid "Sammarinese"
+msgstr "Saint-Marinais"
+
+msgid "Sao Tomean"
+msgstr "Santoméen"
+
+msgid "Saudi Arabian"
+msgstr "Saoudien"
+
+msgid "Scottish"
+msgstr "Écossais"
+
+msgid "Senegalese"
+msgstr "Sénégalais"
+
+msgid "Sierra Leonean"
+msgstr "Sierra-Léonais"
+
+msgid "Singaporean"
+msgstr "Singapourien"
+
+msgid "Solomon Islander"
+msgstr "Salomonien"
+
+msgid "Somali"
+msgstr "Somalien"
+
+msgid "South African"
+msgstr "Sud-Africain"
+
+msgid "South Korean"
+msgstr "Sud-Coréen"
+
+msgid "South Sudanese"
+msgstr "Sud-Soudanais"
+
+msgid "Sri Lankan"
+msgstr "Sri-Lankais"
+
+msgid "St Helenian"
+msgstr "Saint-Hélènois"
+
+msgid "St Lucian"
+msgstr "Saint-Lucien"
+
+msgid "Stateless"
+msgstr "Apatride"
+
+msgid "Sudanese"
+msgstr "Soudanais"
+
+msgid "Surinamese"
+msgstr "Surinamien"
+
+msgid "Swazi"
+msgstr "Swazi"
+
+msgid "Swedish"
+msgstr "Suédois"
+
+msgid "Swiss"
+msgstr "Suisse"
+
+msgid "Syrian"
+msgstr "Syrien"
+
+msgid "Taiwanese"
+msgstr "Taïwanais"
+
+msgid "Tajik"
+msgstr "Tadjik"
+
+msgid "Tanzanian"
+msgstr "Tanzanien"
+
+msgid "Togolese"
+msgstr "Togolais"
+
+msgid "Trinidadian"
+msgstr "Trinidadien"
+
+msgid "Tristanian"
+msgstr "Tristanien"
+
+msgid "Tunisian"
+msgstr "Tunisien"
+
+msgid "Turkmen"
+msgstr "Turkmène"
+
+msgid "Turks and Caicos Islander"
+msgstr "Turcs-et-Caïques"
+
+msgid "Tuvaluan"
+msgstr "Tuvaluan"
+
+msgid "Ugandan"
+msgstr "Ougandais"
+
+msgid "Ukrainian"
+msgstr "Ukrainien"
+
+msgid "Uruguayan"
+msgstr "Uruguayen"
+
+msgid "Uzbek"
+msgstr "Ouzbek"
+
+msgid "Vatican citizen"
+msgstr "Citoyen du Vatican"
+
+msgid "Venezuelan"
+msgstr "Vénézuélien"
+
+msgid "Vietnamese"
+msgstr "Vietnamien"
+
+msgid "Vincentian"
+msgstr "Vincentais"
+
+msgid "Wallisian"
+msgstr "Wallisien"
+
+msgid "Welsh"
+msgstr "Gallois"
+
+msgid "Yemeni"
+msgstr "Yéménite"
+
+msgid "Zambian"
+msgstr "Zambien"
+
+msgid "Zimbabwean"
+msgstr "Zimbabwéen"
