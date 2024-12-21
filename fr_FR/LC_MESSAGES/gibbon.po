@@ -7815,7 +7815,6 @@ msgstr "Déclassement"
 msgid "Who will be responsible for the future status?"
 msgstr "Qui sera responsable du prochain statut ?"
 
-#, fuzzy
 msgid "Students By Form Group"
 msgstr "Étudiants par classe"
 
