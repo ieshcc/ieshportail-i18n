@@ -117,7 +117,7 @@ msgid "Warning: you are logged into the system in school year %1$s, which is not
 msgstr "Attention: vous êtes connecté au système avec l'année scolaire %1$s, qui n'est pas l'année en cours."
 
 msgid "Your data may not look quite right (for example, students who have left the school will not appear in previous years), but you should be able to edit information from other years which is not available in the current year."
-msgstr "Vos données peuvent sembler incorrectes (par exemple, les élèves qui ont quitté l'école n'apparaîtront pas dans les années précédentes), mais vous devriez être en mesure de modifier les informations provenant d'autres années qui ne sont pas disponibles dans l'année en cours."
+msgstr "Vos données peuvent sembler incorrectes (par exemple, les étudiants qui ont quitté l'école n'apparaîtront pas dans les années précédentes), mais vous devriez être en mesure de modifier les informations provenant d'autres années qui ne sont pas disponibles dans l'année en cours."
 
 msgid "Preferences"
 msgstr "Préférences"
@@ -156,7 +156,7 @@ msgid "Your current role type cannot be determined."
 msgstr "Votre profil actuel est indéterminé."
 
 msgid "Student Profile"
-msgstr "Profil de l'élève"
+msgstr "Profil de l'Étudiant"
 
 msgid "Today's Classes"
 msgstr "Les cours du jour"
@@ -257,7 +257,7 @@ msgid "Pending"
 msgstr "En cours de traitement"
 
 msgid "Student joined school after lesson was taught."
-msgstr "L'élève est arrivé à l'école après que le cours ait été dispensé."
+msgstr "L'étudiant est arrivé à l'école après que le cours ait été dispensé."
 
 msgid "NA"
 msgstr "NA"
@@ -289,7 +289,7 @@ msgid "Loading"
 msgstr "Chargement"
 
 msgid "Students"
-msgstr "Élèves"
+msgstr "Étudiants"
 
 msgid "Take Attendance"
 msgstr "Registrer une présence"
@@ -304,7 +304,7 @@ msgid "View Behaviour Policy"
 msgstr "Voir la politique relative au comportement"
 
 msgid "Student & Date"
-msgstr "Élève et date"
+msgstr "Étudiant et date"
 
 msgid "Type"
 msgstr "Type"
@@ -382,17 +382,17 @@ msgid "<b>Smart Units</b> support you in the design of course content, and can b
 msgstr "<b>Les unités intelligentes</b> vous assistent dans la conception des contenus de cours, et peuvent être rapidement remplacés par des programmes de leçon individuelle par l'utilisation glisser-déposer. Les unités intelligentes découpent les planifications d'horaires de manière drastique, et supportent l'amélioration et la réutilisation de contenu.<br/><br/>Choisissez un cours, en utilisant le menu déroulant sur la droite, et cliquez sur le bouton \"Ajouter\" (en dessous de ce message, sur la droite) pour ajouter une nouvelle unité. Une fois l'unité principale est terminée, déployer la dans une matière pour créer les planifications de vos leçons."
 
 msgid "<b>Planner</b> supports online lesson plans which can be shared with students, parents and other teachers. Create your lesson by hand, or automatically via %1$sSmart Units%2$s. Lesson plans facilitate sharing of course content, homework assignment and submission, text chat, and attendance taking.<br/><br/>Choose a date or class, using the menu on the right, and then click on the \"Add\" button (below this message, on the right) to add a new unit."
-msgstr "<b>Le planificateur</b> supportes les programmes de leçons en ligne qui peuvent être partagés avec les élèves, les parents et les autres enseignants. Créer votre leçon à la main, ou automatiquement via %1$s Unités intelligentes %2$s. Le programme d'une leçon facilite le partage de contenu de cours, les soumissions de devoir, les chats textes, et les prises de permissions.<br/><br/>Choisissez une date ou un cours, en utilisant le menu sur la droite, et cliquez ensuite sur le bouton \"Ajouter\" (en dessous de ce message, sur la droite) pour ajouter une nouvelle unité."
+msgstr "<b>Le planificateur</b> supportes les programmes de leçons en ligne qui peuvent être partagés avec les étudiants, les parents et les autres enseignants. Créer votre leçon à la main, ou automatiquement via %1$s Unités intelligentes %2$s. Le programme d'une leçon facilite le partage de contenu de cours, les soumissions de devoir, les chats textes, et les prises de permissions.<br/><br/>Choisissez une date ou un cours, en utilisant le menu sur la droite, et cliquez ensuite sur le bouton \"Ajouter\" (en dessous de ce message, sur la droite) pour ajouter une nouvelle unité."
 
 msgid "<b>Note</b>: You need to have classes assigned to you, with the correct permissions, in order to be able to do this."
 msgstr "<b>Note</b>: Vous devez avoir des cours assignés à vous, avec les bonnes permissions, afin de pouvoir procéder."
 
 #, fuzzy
 msgid "<b>Homework + Due Dates</b> allows teachers and students to see upcoming deadlines, cleanly displayed in one place. Click on an entry to view the details for that piece of homework, and the lesson it is attached to.<br/><br/>Homework can be assigned using the %1$sPlanner%2$s, which also allows teachers to view all submitted work, and records late and incomplete work."
-msgstr "<b>Devoir + Dates limites</b> permet aux enseignants et aux élèves de voir les prochaines dates limites, clairement affichées à un seul endroit. Cliquez sur une entrée pour consulter les détails d'un devoir en particulier, et la leçon à laquelle il fait référence.<br/><br/>Un devoir peut être assigné en utilisant le %1$s Planificateur %2$s, qui permet également aux enseignants de consulter tous mes devoirs soumis, et enregistrer les travaux tardifs et incomplets."
+msgstr "<b>Devoir + Dates limites</b> permet aux enseignants et aux étudiants de voir les prochaines dates limites, clairement affichées à un seul endroit. Cliquez sur une entrée pour consulter les détails d'un devoir en particulier, et la leçon à laquelle il fait référence.<br/><br/>Un devoir peut être assigné en utilisant le %1$s Planificateur %2$s, qui permet également aux enseignants de consulter tous mes devoirs soumis, et enregistrer les travaux tardifs et incomplets."
 
 msgid "<b>Markbook</b> provides an organised way to assess, record and report on student progress. Use grade scales, rubrics, comments and file uploads to keep students and parents up to date. Link markbooks to the %1$sPlanner%2$s, and see student work as you are marking it.<br/><br/>Choose a class from the menu on the right, and then click on the \"Add\" button (below this message, on the right) to create a new markbook column."
-msgstr "<b>la liste des notes</b> fournit une méthode organisée pour évaluer, enregistrer et afficher l'état sur le progrès d'un élève. Utiliser les échelles d'appréciation, les commentaires et les téléchargements de fichiers pour garder les élèves et les parents à jour. Lier une liste des notes au %1$s Planificateur %2$s, et consulter le travail d'un élève tel que vous l'avez évalué.<br/><br/>Choisissez un cours à partir du menu de droite, cliquez ensuite le bouton \"Ajouter\" (en dessous de ce message, sur la droite) pour créer une nouvelle colonne dans la liste des notes."
+msgstr "<b>la liste des notes</b> fournit une méthode organisée pour évaluer, enregistrer et afficher l'état sur le progrès d'un étudiant. Utiliser les échelles d'appréciation, les commentaires et les téléchargements de fichiers pour garder les étudiants et les parents à jour. Lier une liste des notes au %1$s Planificateur %2$s, et consulter le travail d'un étudiant tel que vous l'avez évalué.<br/><br/>Choisissez un cours à partir du menu de droite, cliquez ensuite le bouton \"Ajouter\" (en dessous de ce message, sur la droite) pour créer une nouvelle colonne dans la liste des notes."
 
 msgid "Dismiss Smart Workflow Help"
 msgstr "Masquer l'aide de l'interface intelligente"
@@ -417,7 +417,7 @@ msgid "Must be at least %1$s characters in length."
 msgstr "Doit être au moins %1$s caractères de longueur."
 
 msgid "Total Student Enrolment:"
-msgstr "Inscriptions totales d'élèves:"
+msgstr "Inscriptions totales d'étudiants:"
 
 msgid "Staff"
 msgstr "Membre du personnel"
@@ -563,7 +563,7 @@ msgstr "A"
 
 #, php-format
 msgid "Student has a %1$s alert for behaviour over the past 60 days."
-msgstr "L'élève a %1$s alerte pour le comportement au-delà des 60 derniers jours."
+msgstr "L'étudiant a %1$s alerte pour le comportement au-delà des 60 derniers jours."
 
 msgid "B"
 msgstr "B"
@@ -649,7 +649,7 @@ msgid "The specified record does not exist."
 msgstr "L'enregistrement spécifié n'existe pas."
 
 msgid "Enrolable Students"
-msgstr "Élèves inscrits"
+msgstr "Étudiants inscrits"
 
 msgid "All Users"
 msgstr "Tous les utilisateurs"
@@ -1009,7 +1009,7 @@ msgid "Lowest Acceptable"
 msgstr "Appréciation minimale"
 
 msgid "This is the lowest grade a student can get without being unsatisfactory."
-msgstr "C'est la plus petite appréciation qui peut être attribuée à un élève sans que ce soit insatisfaisant."
+msgstr "C'est la plus petite appréciation qui peut être attribuée à un étudiant sans que ce soit insatisfaisant."
 
 msgid "Edit Grades"
 msgstr "Modifier les échelles d'appréciation"
@@ -1220,7 +1220,7 @@ msgid "Teacher's Computer"
 msgstr "Ordinateur du prof"
 
 msgid "Student Computers"
-msgstr "Ordinateurs des élèves"
+msgstr "Ordinateurs des étudiants"
 
 msgid "How many are there"
 msgstr "Combien il y a-t-il"
@@ -1233,13 +1233,13 @@ msgstr "Numéro de téléphone externe de la salle."
 
 #, fuzzy
 msgid "Students Settings"
-msgstr "Gérer les paramètres des élèves"
+msgstr "Gérer les paramètres des étudiants"
 
 msgid "Student Note Categories"
-msgstr "Catégories de notes d'élève"
+msgstr "Catégories de notes des étudiants"
 
 msgid "This section allows you to manage the categories which can be associated with student notes. Categories can be given templates, which will pre-populate the student note on selection."
-msgstr "Cette section vous permet de gérer les catégories qui peuvent être associées aux notes d'élèves. Les catégories peuvent être attachées à des thèmes, qui prérenseigneront la note de l'élève sélectionné."
+msgstr "Cette section vous permet de gérer les catégories qui peuvent être associées aux notes d'étudiants. Les catégories peuvent être attachées à des thèmes, qui prérenseigneront la note de l'étudiant sélectionné."
 
 msgid "Add Note Category"
 msgstr "Ajouter une catégorie de notes"
@@ -1506,7 +1506,7 @@ msgid "Participant"
 msgstr "Participant"
 
 msgid "Student - Left"
-msgstr "Élève - Parti"
+msgstr "Étudiant - Parti"
 
 msgid "Teacher - Left"
 msgstr "Enseignant - Parti"
@@ -1531,7 +1531,7 @@ msgid "Former Participants"
 msgstr "Participants précédents"
 
 msgid "Class Enrolment by Form Group"
-msgstr "Elèves par Classes"
+msgstr "Étudiants par Classes"
 
 msgid "Choose Form Group"
 msgstr "Veuillez choisir une classe"
@@ -1612,7 +1612,7 @@ msgid "Step 1 - Select CSV Files"
 msgstr "Étape 1 - Sélectionner les fichiers CSV"
 
 msgid "This page allows you to import timetable data from a CSV file. The import includes all classes and their teachers. There is no support for importing students: these need to be entered manually into the relevant classes. The system will do its best to keep existing data intact, whilst updating what is necessary (note: you will lose student exceptions from timetabled classes). Select the CSV files you wish to use for the synchronise operation."
-msgstr "Cette page vous permet d'importer les données d'emploi du temps à partir d'un fichier CSV. Les éléments à importer incluent l'ensemble des leçons et les enseignants associés. Il n'y a aucun support pour l'import des élèves: ceux-ci doivent être saisis manuellement dans les leçons appropriées. Le système fera son possible pour garder les données existantes intactes, jusqu'à la mise à jour de ce qui est nécessaire (note: Vous perdrez les exceptions d'élève provenant des leçons emplois du temps initiaux). Sélectionner les fichiers CSV que vous souhaitez utiliser pour l'opération de synchronisation."
+msgstr "Cette page vous permet d'importer les données d'emploi du temps à partir d'un fichier CSV. Les éléments à importer incluent l'ensemble des leçons et les enseignants associés. Il n'y a aucun support pour l'import des étudiants: ceux-ci doivent être saisis manuellement dans les leçons appropriées. Le système fera son possible pour garder les données existantes intactes, jusqu'à la mise à jour de ce qui est nécessaire (note: Vous perdrez les exceptions d'étudiant provenant des leçons emplois du temps initiaux). Sélectionner les fichiers CSV que vous souhaitez utiliser pour l'opération de synchronisation."
 
 msgid "CSV File"
 msgstr "Fichier CSV"
@@ -1639,7 +1639,7 @@ msgid "The import includes course, class, period, teacher and room information: 
 msgstr "L'import comprend les informations sur le cours, la classe, la période, le professeur et la salle : la structure de l'emploi du temps cible doit déjà être en place."
 
 msgid "The import does not include student lists."
-msgstr "L'import n'inclut pas les listes d'élèves."
+msgstr "L'import n'inclut pas les listes d'étudiants."
 
 msgid "The submitted file must have the following fields in the following order:"
 msgstr "Le fichier soumis doit avoir les champs suivants dans l'ordre suivant:"
@@ -1900,7 +1900,7 @@ msgstr "Voulez-vous vraiment accepter la demande pour %1$s?"
 
 #, fuzzy
 msgid "Automatically inform <u>student</u> of Gibbon login details by email?"
-msgstr "Informer automatiquement <u>l'élève</u> de son nom d'utilisateur et son mot de passe pour l'accès à Gibbon par courriel?"
+msgstr "Informer automatiquement <u>l'étudiant</u> de son nom d'utilisateur et son mot de passe pour l'accès à Gibbon par courriel?"
 
 msgid "Automatically inform <u>parents</u> of their Gibbon login details by email?"
 msgstr "Informer automatiquement <u>les parents</u> de leur nom d'utilisateur et leur mot de passe pour l'accès à Gibbon par courriel?"
@@ -1909,18 +1909,18 @@ msgid "The system will perform the following actions:"
 msgstr "Le système exécutera les actions suivantes:"
 
 msgid "Create a Gibbon user account for the student."
-msgstr "Créer un compte d'utilisateur Gibbon pour l'élève."
+msgstr "Créer un compte d'utilisateur Gibbon pour l'étudiant."
 
 #, fuzzy
 msgid "Enrol the student in the selected school year (as the student has not been assigned to a form group)."
-msgstr "Inscrire l'élève dans l'année scolaire sélectionnée (jusqu'à ce que l'élève ait été assigné à un classe)."
+msgstr "Inscrire l'étudiant dans l'année scolaire sélectionnée (jusqu'à ce que l'étudiant ait été assigné à un classe)."
 
 msgid "Save the student's payment preferences."
-msgstr "Enregistrer les préférences de paiement de l'élève."
+msgstr "Enregistrer les préférences de paiement de l'étudiant."
 
 #, fuzzy
 msgid "Link student to family (who are already in Gibbon)."
-msgstr "Lier l'élève à sa famille (Celle existante déjà dans Gibbon)."
+msgstr "Lier l'étudiant à sa famille (Celle existante déjà dans Gibbon)."
 
 msgid "Create a new family."
 msgstr "Créer une nouvelle famille."
@@ -1929,7 +1929,7 @@ msgid "Create user accounts for the parents."
 msgstr "Créer des comptes utilisateurs pour les parents."
 
 msgid "Link student and parents to the family."
-msgstr "Lier l'élève et les parents à la famille."
+msgstr "Lier l'étudiant et les parents à la famille."
 
 msgid "Set the status of the application to \"Accepted\"."
 msgstr "Définir le statut de la demande à \"Accepté\"."
@@ -1938,36 +1938,36 @@ msgid "But you may wish to manually do the following:"
 msgstr "Mais vous pouvez souhaiter de faire ce qui suit:"
 
 msgid "Create a medical record for the student."
-msgstr "Créer un enregistrement médical pour l'élève."
+msgstr "Créer un enregistrement médical pour l'étudiant."
 
 msgid "Create an individual needs record for the student."
-msgstr "Créer un enregistrement de besoins individuels pour l'élève."
+msgstr "Créer un enregistrement de besoins individuels pour l'étudiant."
 
 msgid "Create a note of the student's scholarship information outside of Gibbon."
-msgstr "Créer une note d'informations sur la vie scolaire de l'élève en dehors de Gibbon."
+msgstr "Créer une note d'informations sur la vie scolaire de l'étudiant en dehors de Gibbon."
 
 msgid "Create a timetable for the student."
-msgstr "Créer un emploi du temps pour l'élève."
+msgstr "Créer un emploi du temps pour l'étudiant."
 
 msgid "Student could not be created!"
-msgstr "L'élève ne peut pas être créé!"
+msgstr "L'étudiant ne peut pas être créé!"
 
 msgid "Student Details"
-msgstr "Détails de l'élève"
+msgstr "Détails de l'étudiant"
 
 #, fuzzy
 msgid "Student could not be enroleld, so this will have to be done manually at a later date."
-msgstr "L'élève ne peut pas être inscrit, la procédure doit donc être effectuée manuellement à une date ultérieure."
+msgstr "L'étudiant ne peut pas être inscrit, la procédure doit donc être effectuée manuellement à une date ultérieure."
 
 #, fuzzy
 msgid "The student has successfully been enrolled in the specified school year, year group and form group."
-msgstr "L'élève a été inscrit avec succès dans l'année scolaire spécifiée, le palier et le classe."
+msgstr "L'étudiant a été inscrit avec succès dans l'année scolaire spécifiée, le palier et le classe."
 
 msgid "Student payment details could not be saved, but we will continue, as this is a minor issue."
-msgstr "Les détails de paiement de l'élève n'ont pas été enregistrés, mais se poursuivra plus tard, il s'agit d'une erreur mineure."
+msgstr "Les détails de paiement de l'étudiant n'ont pas été enregistrés, mais se poursuivra plus tard, il s'agit d'une erreur mineure."
 
 msgid "Student could not be linked to family!"
-msgstr "L'élève ne peut pas être liée à la famille!"
+msgstr "L'étudiant ne peut pas être liée à la famille!"
 
 msgid "Family"
 msgstr "Famille"
@@ -2012,7 +2012,7 @@ msgid "Parent 2 could not be linked to family!"
 msgstr "Le parent 2 ne peut pas être lié à la famille!"
 
 msgid "Student Welcome Email"
-msgstr "Courriel de bienvenue de l'élève"
+msgstr "Courriel de bienvenue de l'étudiant"
 
 #, php-format
 msgid "Welcome to %1$s at %2$s"
@@ -2025,7 +2025,7 @@ msgid "A welcome email could not be sent to"
 msgstr "Un courriel de bienvenue n'a pas pu être envoyé"
 
 msgid "Student status could not be updated: student is in the system, but acceptance has failed."
-msgstr "Le statut de l'élève ne peut pas être mis à jour: l'élève existe dans le système, mais l'acceptation a échoué."
+msgstr "Le statut de l'étudiant ne peut pas être mis à jour: l'étudiant existe dans le système, mais l'acceptation a échoué."
 
 msgid "Application Status"
 msgstr "Statut de la demande"
@@ -2040,10 +2040,10 @@ msgid "You may wish to now do the following:"
 msgstr "Vous pouvez maintenant souhaiter de faire ce qui suit:"
 
 msgid "Enrol the student in the relevant academic year."
-msgstr "Inscrire l'élève dans l'année académique appropriée."
+msgstr "Inscrire l'étudiant dans l'année académique appropriée."
 
 msgid "Inform the student and parents of their Gibbon login details (if this was not done automatically)."
-msgstr "Informer l'élève et ses parents des détails de leurs informations d'accès (si cela n'a pas été fait automatiquement)."
+msgstr "Informer l'étudiant et ses parents des détails de leurs informations d'accès (si cela n'a pas été fait automatiquement)."
 
 msgid "Edit Form"
 msgstr "Modifier le formulaire"
@@ -2079,13 +2079,13 @@ msgid "Year of Entry"
 msgstr "Année d'entrée"
 
 msgid "When will the student join?"
-msgstr "Quand l'élève s'inscrira-t-il ?"
+msgstr "Quand l'étudiant s'inscrira-t-il ?"
 
 msgid "Year Group at Entry"
 msgstr "Palier (Année, Niveau) à l'entrée"
 
 msgid "Which year level will student enter."
-msgstr "Classe de base d'inscription de l'élève."
+msgstr "Classe de base d'inscription de l'étudiant."
 
 msgid "Day Type"
 msgstr "Type de jour"
@@ -2096,7 +2096,7 @@ msgstr "Classe à l'entrée"
 
 #, fuzzy
 msgid "If set, the student will automatically be enrolled on Accept."
-msgstr "Si défini l'élève sera automatiquement inscrit sur acceptation."
+msgstr "Si défini l'étudiant sera automatiquement inscrit sur acceptation."
 
 msgid "Payment"
 msgstr "Paiement"
@@ -2106,7 +2106,7 @@ msgid "Has payment (%1$s %2$s) been made for this application."
 msgstr "Le paiement (%1$s %2$s) de cette demande a-t-il été effectué."
 
 msgid "Student Personal Data"
-msgstr "Données personnelles de l'élève"
+msgstr "Données personnelles de l'étudiant"
 
 msgid "Surname"
 msgstr "Nom"
@@ -2139,16 +2139,16 @@ msgid "Date of Birth"
 msgstr "Date de naissance"
 
 msgid "Student Background"
-msgstr "Antécédents de l'élève"
+msgstr "Antécédents de l'étudiant"
 
 msgid "Home Language"
 msgstr "Langues maternelles"
 
 msgid "The primary language used in the student's home."
-msgstr "La première langue utilisée dans la maison de l'élève."
+msgstr "La première langue utilisée dans la maison de l'étudiant."
 
 msgid "Student's native/first/mother language."
-msgstr "Langue de naissance/maternelle."
+msgstr "Langue de naissance/maternelle de l'étudiant."
 
 msgid "Second Language"
 msgstr "Deuxième langue"
@@ -2181,7 +2181,7 @@ msgid "Visa Expiry Date"
 msgstr "Date d'expiration du visa"
 
 msgid "Student Contact"
-msgstr "Contact de l'élève"
+msgstr "Contact de l'étudiant"
 
 msgid "Phone"
 msgstr "Téléphone"
@@ -2467,7 +2467,7 @@ msgid "Parent %1$s Employer"
 msgstr "Employeur du parent %1$s"
 
 msgid "There is no family information available for the current student."
-msgstr "Il n'y a aucune famille associée à l'élève actuel."
+msgstr "Il n'y a aucune famille associée à l'étudiant actuel."
 
 msgid "Family Status"
 msgstr "Statut de la famille"
@@ -2796,7 +2796,7 @@ msgid "Adult's Name"
 msgstr "Nom de l'adulte"
 
 msgid "Data displayed in full Student Profile"
-msgstr "Donnée affichée sur le profil Complet d'un élève"
+msgstr "Donnée affichée sur le profil complet d'un étudiant"
 
 msgid "Data Access?"
 msgstr "Accès aux données ?"
@@ -2984,11 +2984,11 @@ msgid "Left"
 msgstr "Quitté"
 
 msgid "Enrol New Students (Status Expected)"
-msgstr "Inscrire les nouveaux élèves (Statut attendu)"
+msgstr "Inscrire les nouveaux étudiants (Statut attendu)"
 
 #, fuzzy
 msgid "Take students who are marked expected and enrol them. All parents of new students who are enrolled below will have their status set to \"Full\". If a student is not enrolled, they will be set to \"Left\"."
-msgstr "Enregistre les élèves qui sont marqués comme Attendus et les inscrits. Tous les parents de nouveaux élèves qui ne sont pas inscrits ci-dessous verront leur statut défini à \"Complet\". Si un élève n'est pas inscrit, il sera enregistré comme ayant \"Quitté\" ;'école."
+msgstr "Enregistre les étudiants qui sont marqués comme Attendus et les inscrits. Tous les parents de nouveaux étudiants qui ne sont pas inscrits ci-dessous verront leur statut défini à \"Complet\". Si un étudiant n'est pas inscrit, il sera enregistré comme ayant \"Quitté\" ;'école."
 
 #, fuzzy
 msgid "Year groups or form groups are not properly set up, so you cannot proceed with this section."
@@ -2998,21 +2998,21 @@ msgid "Enrol"
 msgstr "Inscrire"
 
 msgid "Enrol New Students (Status Full)"
-msgstr "Inscrire les nouveaux élèves (Statut complet)"
+msgstr "Inscrire les nouveaux étudiants (Statut complet)"
 
 #, fuzzy
 msgid "Take new students who are already set as full, but who were not enrolled last year, and enrol them. These students probably came through the Online Application form, and may already be enrolled in next year: if this is the case, their enrolment will be updated as per the information below. All parents of new students who are enrolled below will have their status set to \"Full\". If a student is not enrolled, they will be set to \"Left\""
-msgstr "Enregistre les nouveaux élèves qui ne sont pas définis au statut Complet, mais qui n'étaient pas inscrit l'année dernière, et les inscrits. Ces élèves se sont inscrits probablement à partir du formulaire des demandes en ligne, et peuvent déjà être inscrit l'année prochaine: Si c'est le cas, leur inscription sera mise à jour tout comme les informations ci-dessous. Tous les parents de nouveaux élèves qui sont inscrit ci-dessous auront leur statut définis à \"Complet\". Si un élève n'est pas inscrit, il sera défini comme ayant \"Quitté\" l'école "
+msgstr "Enregistre les nouveaux étudiants qui ne sont pas définis au statut Complet, mais qui n'étaient pas inscrit l'année dernière, et les inscrits. Ces étudiants se sont inscrits probablement à partir du formulaire des demandes en ligne, et peuvent déjà être inscrit l'année prochaine: Si c'est le cas, leur inscription sera mise à jour tout comme les informations ci-dessous. Tous les parents de nouveaux étudiants qui sont inscrit ci-dessous auront leur statut définis à \"Complet\". Si un étudiant n'est pas inscrit, il sera défini comme ayant \"Quitté\" l'école "
 
 msgid "Re-Enrol Other Students"
-msgstr "Réinscrire d'autres élèves"
+msgstr "Réinscrire d'autres étudiants"
 
 #, fuzzy
 msgid "Any students who are not re-enrolled will have their status set to \"Left\"."
-msgstr "Tous les élèves qui ne sont pas réinscrits auront leur statut défini à \"Quitté\"."
+msgstr "Tous les étudiants qui ne sont pas réinscrits auront leur statut défini à \"Quitté\"."
 
 msgid "Set Final Year Students To Left"
-msgstr "Définir les élèves en dernière année à Quitté"
+msgstr "Définir les étudiants en dernière année à Quitté"
 
 msgid "Register New Staff"
 msgstr "Enregistrer un nouveau membre du personnel"
@@ -3086,19 +3086,19 @@ msgid "Must be unique if set."
 msgstr "Doit être unique si défini."
 
 msgid "Manage Student Enrolment"
-msgstr "Gestion de l'inscription d'élève"
+msgstr "Gestion de l'inscription des étudiants"
 
 msgid "Students highlighted in red are marked as 'Full' but have either not reached their start date, or have exceeded their end date."
-msgstr "Les élèves mis en surbrillance rouge sont marqués comme 'Complet', mais n'ont soit pas leur date de début de cours, soit ont dépassé la date de fin des cours."
+msgstr "Les étudiants mis en surbrillance rouge sont marqués comme 'Complet', mais n'ont soit pas leur date de début de cours, soit ont dépassé la date de fin des cours."
 
 msgid "Student Enrolment"
-msgstr "Inscrire l'élève"
+msgstr "Inscrption des étudiants"
 
 msgid "Add Student Enrolment"
 msgstr "Ajouter une inscription"
 
 msgid "Edit Student Enrolment"
-msgstr "Modifier une inscription d'un élève"
+msgstr "Modifier l'inscription d'un étudiant"
 
 msgid "School History"
 msgstr "Historique de l'école"
@@ -3176,7 +3176,7 @@ msgid "School Information"
 msgstr "Informations scolaires"
 
 msgid "Users's first day at school."
-msgstr "Premier jour d'école de l'élève."
+msgstr "Premier jour d'école de l'étudiant."
 
 msgid "Class Of"
 msgstr "Année de"
@@ -3249,7 +3249,7 @@ msgstr "Code de casier"
 
 #, fuzzy
 msgid "Note that certain fields are hidden or revealed depending on the role categories (Staff, Student, Parent) that a user is assigned to. For example, parents do not get Emergency Contact fields, and students/staff do not get Employment fields."
-msgstr "Noter que certains champs sont masqués ou affichés en fonction de la catégorie du profil (Personnel, Élève, Parent) auquel un utilisateur est assigné. Par exemple, les parents n'ont pas de champs de contact, et les élèves/le personnel n'ont pas de champs d'emploi."
+msgstr "Noter que certains champs sont masqués ou affichés en fonction de la catégorie du profil (Personnel, Étudiant, Parent) auquel un utilisateur est assigné. Par exemple, les parents n'ont pas de champs de contact, et les étudiants/le personnel n'ont pas de champs d'emploi."
 
 msgid "All Roles"
 msgstr "Tous les profils"
@@ -3289,7 +3289,7 @@ msgid "Day-Type Options"
 msgstr "Options de type de jour"
 
 msgid "Student joined school after assessment was given."
-msgstr "L'élève s'est inscrit dans l'école après un test."
+msgstr "L'étudiant s'est inscrit dans l'école après un test."
 
 msgid "Show Comment"
 msgstr "Afficher commentaire"
@@ -3406,7 +3406,7 @@ msgid "Program Dates"
 msgstr "Dates de programme"
 
 msgid "Add Student"
-msgstr "Ajouter un élève"
+msgstr "Ajouter un étudiant"
 
 msgid "Not Accepted"
 msgstr "Non accepté"
@@ -3483,17 +3483,17 @@ msgid "Are you sure you want to unregister from activity \"%1$s\"? If you try to
 msgstr "Voulez-vous vraiment vous désinscrire de l'activité \"%1$s\" ? Si vous essayez de vous inscrire à nouveau plus tard vous pourrez perdre la place qui vous avait été initialement réservée."
 
 msgid "Activity Choices By Student"
-msgstr "Choix d'activité par élève"
+msgstr "Choix d'activité par étudiant"
 
 msgid "Choose Student"
-msgstr "Choisir un élève"
+msgstr "Choisir un étudiant"
 
 #, fuzzy
 msgid "Students by Form Group"
-msgstr "Élèves par classe"
+msgstr "Étudiants par classe"
 
 msgid "Students by Name"
-msgstr "Élèves par nom"
+msgstr "Étudiants par nom"
 
 msgid "Activity Enrolment Summary"
 msgstr "Résumé d'inscription à une activité"
@@ -3573,7 +3573,7 @@ msgid "This conversation has not yet begun!"
 msgstr "Cette conversation n'a pas encore démarré!"
 
 msgid "Choose A Student"
-msgstr "Choisir un élève"
+msgstr "Choisir un étudiant"
 
 msgid "Add Assessment"
 msgstr "Ajouter une évaluation"
@@ -3588,13 +3588,13 @@ msgid "Copy Target Grades?"
 msgstr "Copier les niveaux cibles ?"
 
 msgid "These will come from the student's last CAT test."
-msgstr "Ces éléments proviendront du dernier test de l'élève."
+msgstr "Ces éléments proviendront du dernier test de l'étudiant."
 
 msgid "Create Target Grades?"
 msgstr "Créer des niveaux cibles ?"
 
 msgid "These will be calculated from the student's GCSE grades."
-msgstr "Ces éléments seront calculés à partir des diplômes de l'élève."
+msgstr "Ces éléments seront calculés à partir des diplômes de l'étudiant."
 
 msgid "From GCSE Target Grades"
 msgstr "À partir des diplômes cibles"
@@ -3636,7 +3636,7 @@ msgid "Date<br/>Complete"
 msgstr "Date<br/>Complète"
 
 msgid "Viewable <br/>to Students"
-msgstr "Visible <br/>pour les élèves"
+msgstr "Visible <br/>pour les étudiants"
 
 msgid "Viewable <br/>to Parents"
 msgstr "Visible <br/>pour les Parents"
@@ -3666,7 +3666,7 @@ msgid "Effort Rubric"
 msgstr "Rubrique d'effort"
 
 msgid "Viewable to Students"
-msgstr "Visible aux élèves"
+msgstr "Visible aux étudiants"
 
 msgid "Viewable to Parents"
 msgstr "Visible aux parents"
@@ -3759,7 +3759,7 @@ msgid "To see more detail on an item (such as a comment or a grade), hover your 
 msgstr "Pour voir plus de détails sur un élément (comme un commentaire ou une note), passez votre souris dessus."
 
 msgid "The Baseline column is populated based on student performance in external assessments, and can be used as a reference point for the grades in the markbook."
-msgstr "La colonne de base est renseignée sur la base de la performance de l'élève dans les évaluations externes, et peut être utilisée comme point de référence pour les notes dans la liste des notes."
+msgstr "La colonne de base est renseignée sur la base de la performance de l'étudiant dans les évaluations externes, et peut être utilisée comme point de référence pour les notes dans la liste des notes."
 
 msgid "Scale"
 msgstr "Échelle"
@@ -3948,7 +3948,7 @@ msgid "Years, Days & Times"
 msgstr "Années, Jours et Heures"
 
 msgid "Activity Choices by Student"
-msgstr "Choix d'activité par élève"
+msgstr "Choix d'activité par étudiant"
 
 msgid "Age & Gender Summary"
 msgstr "Résumé de l'âge et du sexe"
@@ -3978,7 +3978,7 @@ msgid "External Assessment Data"
 msgstr "Donnée d'évaluation externe"
 
 msgid "Family Address by Student"
-msgstr "Adresse de famille par élève"
+msgstr "Adresse de famille par étudiant"
 
 msgid "Find Behaviour Patterns"
 msgstr "Trouver des modèles de comportement"
@@ -3990,7 +3990,7 @@ msgid "Individual Needs Summary"
 msgstr "Résumé de besoins individuels"
 
 msgid "Left Students"
-msgstr "Élèves désinscrits"
+msgstr "Étudiants désinscrits"
 
 msgid "Lending & Activity Log"
 msgstr "Journal d'activités"
@@ -4048,7 +4048,7 @@ msgid "New Message"
 msgstr "Nouveau message"
 
 msgid "New Students"
-msgstr "Élèves nouveaux"
+msgstr "Étudiants nouveaux"
 
 msgid "Participants by Activity"
 msgstr "Participants par activité"
@@ -4058,7 +4058,7 @@ msgid "Personal Data Updates"
 msgstr "Mises à jour de données personnelles"
 
 msgid "Privacy Choices by Student"
-msgstr "Choix de confidentialité par élève"
+msgstr "Choix de confidentialité par étudiant"
 
 #, fuzzy
 msgid "Form Group Summary"
@@ -4072,22 +4072,22 @@ msgid "Set Future Absence"
 msgstr "Définir une prochaine absence"
 
 msgid "Student Borrowing Record"
-msgstr "Enregistrement de l'emprunt d'un élève"
+msgstr "Enregistrement de l'emprunt d'un étudiant"
 
 msgid "Student Data Updater History"
-msgstr "Historique de mise à jour des données d'un élève"
+msgstr "Historique de mise à jour des données d'un étudiant"
 
 msgid "Student History"
-msgstr "Historique de l'élève"
+msgstr "Historique de l'étudiant"
 
 msgid "Student Transport"
-msgstr "Transport de l'élève"
+msgstr "Transport de l'étudiant"
 
 msgid "Students Not Onsite"
-msgstr "Élève non sur site"
+msgstr "Étudiant hors site"
 
 msgid "Students Not Present"
-msgstr "Élève non présent"
+msgstr "Étudiant non présent"
 
 msgid "Tie Days To Dates"
 msgstr "Lier les jours aux dates"
@@ -4122,7 +4122,6 @@ msgstr "Consulter les messages sur le mur"
 msgid "View Overdue Items"
 msgstr "Consulter les factures en retard"
 
-#, fuzzy
 msgid "View Form Groups"
 msgstr "Consulter les Classes"
 
@@ -4130,7 +4129,7 @@ msgid "View Staff Profile"
 msgstr "Consulter le profil d'un membre du personnel"
 
 msgid "View Student Profile"
-msgstr "Consulter le profil d'un élève"
+msgstr "Consulter le profil d'un étudiant"
 
 msgid "View Timetable by Person"
 msgstr "Consulter un emploi du temps par personne"
@@ -5387,13 +5386,13 @@ msgid "Allows users to view staff information"
 msgstr "Permet aux utilisateurs de consulter les informations du personnel"
 
 msgid "Allows users to view student data"
-msgstr "Permet aux utilisateurs de consulter les données sur un élève"
+msgstr "Permet aux utilisateurs de consulter les données sur un étudiant"
 
 msgid "Allows users to view timetables"
 msgstr "Permet aux utilisateurs de consulter les emplois du temps"
 
 msgid "Facilitates tracking of student performance in external examinations."
-msgstr "Facilite le suivi des performances d'un élève aux d'examens externes."
+msgstr "Facilite le suivi des performances d'un étudiant aux d'examens externes."
 
 msgid "Run a school activities program"
 msgstr "Exécuter les activités du programme d'une école"
@@ -5402,13 +5401,13 @@ msgid "School attendance taking"
 msgstr "Prendre des attentes de l'école"
 
 msgid "Supports lesson planning and information sharing for staff, student and parents"
-msgstr "Prend en charge la planification des cours et le partage d'informations pour le personnel, les élèves et les parents"
+msgstr "Prend en charge la planification des cours et le partage d'informations pour le personnel, les étudiants et les parents"
 
 msgid "Timetable administration"
 msgstr "Administrer un emploi du temps"
 
 msgid "Tracking Student Behaviour"
-msgstr "Enregistrer le comportement d'un élève"
+msgstr "Enregistrer le comportement d'un étudiant"
 
 msgid "Unified messenger for email, message wall and more."
 msgstr "Messagerie unifiée pour les courriels, les messages sur le mur et plus."
@@ -5426,7 +5425,7 @@ msgid "Controls all aspects of the system"
 msgstr "Contrôle tous les aspects du système"
 
 msgid "Parent or guardian of person studying in"
-msgstr "Parent ou tuteur de l'élève en"
+msgstr "Parent ou tuteur de l'étudiant en"
 
 msgid "Person studying in the school"
 msgstr "Personne étudiant dans l'école"
@@ -6595,7 +6594,7 @@ msgid "Sharing Default: Parents"
 msgstr "Partager par défaut : Avec les parents"
 
 msgid "Sharing Default: Students"
-msgstr "Partager par défaut : Avec les élèves"
+msgstr "Partager par défaut : Avec les étudiants"
 
 msgid "Show Parent Attainment Warning"
 msgstr "Afficher au parent un message sur le niveau de réalisation"
@@ -6604,10 +6603,10 @@ msgid "Show Parent Effort Warning"
 msgstr "Afficher au parent un message sur l'effort"
 
 msgid "Show Student Attainment Warning"
-msgstr "Afficher un message sur le niveau de réalisation du travail de l'élève"
+msgstr "Afficher un message sur le niveau de réalisation du travail de l'étudiant"
 
 msgid "Show Student Effort Warning"
-msgstr "Afficher un message sur l'effort de l'élève"
+msgstr "Afficher un message sur l'effort de l'étudiant"
 
 msgid "Smart Block Template"
 msgstr "Modèle de bloc Intelligent"
@@ -6628,10 +6627,10 @@ msgid "Statistics Collection"
 msgstr "Collection des statistiques"
 
 msgid "Student Notification Default"
-msgstr "Notifier les élèves par défaut"
+msgstr "Notifier les étudiants par défaut"
 
 msgid "Student Notification Message"
-msgstr "Message de notification des élèves"
+msgstr "Message de notification des étudiants"
 
 msgid "System Administrator"
 msgstr "Administrateur Système"
@@ -6652,14 +6651,14 @@ msgid "A custom message to add to the standard email to parents on acceptance."
 msgstr "Un message personnalisé à ajouter au courriel standard des parents pour acceptation"
 
 msgid "A custom message to add to the standard email to students on acceptance."
-msgstr "Un message à ajouter au courriel standard des élèves pour acceptation."
+msgstr "Un message à ajouter au courriel standard des étudiants pour acceptation."
 
 msgid "A link to the school behaviour policy."
 msgstr "Un lien vers la politique de comportement scolaire"
 
 #, fuzzy
 msgid "Allow students to choose a backup, in case enrolled activity is full."
-msgstr "Permet aux élèves de choisir une méthode de sauvegarde, au cas où une activité enregistrée est complète."
+msgstr "Permet aux étudiants de choisir une méthode de sauvegarde, au cas où une activité enregistrée est complète."
 
 msgid "Allowable choices for category"
 msgstr "Choix possible pour une catégorie"
@@ -6829,7 +6828,7 @@ msgid "Should privacy options be turned on across the system?"
 msgstr "Les options de confidentialité doivent-elles être activées dans le système ?"
 
 msgid "Should student acceptance email be turned on or off by default."
-msgstr "Le courriel d'acceptation de l'élève doit-il être activé ou désactivé par défaut."
+msgstr "Le courriel d'acceptation de l'étudiant doit-il être activé ou désactivé par défaut."
 
 msgid "Should the Language Options section be turned on?"
 msgstr "La section des options de langue doit-elle être activée ?"
@@ -6850,13 +6849,13 @@ msgid "Show low attainment grade visual warning to parents?"
 msgstr "Afficher les avertissements de faible niveau de réalisation aux parents ?"
 
 msgid "Show low attainment grade visual warning to students?"
-msgstr "Afficher les avertissements de faible niveau de réalisation aux élèves ?"
+msgstr "Afficher les avertissements de faible niveau de réalisation aux étudiants ?"
 
 msgid "Show low effort grade visual warning to parents?"
 msgstr "Afficher les avertissements de faible niveau d'effort aux parents ?"
 
 msgid "Show low effort grade visual warning to students?"
-msgstr "Afficher les avertissements de faible niveau d'effort aux élèves ?"
+msgstr "Afficher les avertissements de faible niveau d'effort aux étudiants ?"
 
 msgid "SMS gateway password."
 msgstr "Mot de passe de la plateforme SMS"
@@ -6922,7 +6921,7 @@ msgid "The country the school is located in"
 msgstr "Le pays dans lequel l'école se trouve"
 
 msgid "The extended version of the brief student profile includes contact information of parents."
-msgstr "La version étendue du profil abrégé d'un élève incluant les informations de contact des parents."
+msgstr "La version étendue du profil abrégé d'un étudiant incluant les informations de contact des parents."
 
 msgid "The link that points to the school/'s email system"
 msgstr "Le lien qui pointe vers le courriel système de l'école"
@@ -6934,7 +6933,7 @@ msgid "The local FS path to the system"
 msgstr "Le chemin du système de fichiers local du système"
 
 msgid "The most a student can sign up for in one term. Set to 0 for unlimited."
-msgstr "Le nombre de fois pour lesquelles un élève peut s'inscrire pour une étape. Saisir 0 pour illimité."
+msgstr "Le nombre de fois pour lesquelles un étudiant peut s'inscrire pour une étape. Saisir 0 pour illimité."
 
 msgid "The purpose of this installation of Gibbon"
 msgstr "Le type de cette installation de Gibbon"
@@ -7030,13 +7029,13 @@ msgid "Payment must be made by credit card, using our secure PayPal payment gate
 msgstr "Le paiement doit être fait par carte de crédit, en utilisant notre plateforme sécurisée de paiement PayPal. Lorsque vous appuyez sur le bouton Envoyer du formulaire, vous serez dirigé vers PayPal afin de procéder au paiement. Pendant cette procédure nous ne voyons ni n'enregistrons les détails de votre carte de crédit."
 
 msgid "Student Education"
-msgstr "Éducation de l'élève"
+msgstr "Éducation de l'étudiant"
 
 msgid "Anticipated Year of Entry"
 msgstr "Année d'entrée prévue"
 
 msgid "What school year will the student join in?"
-msgstr "À quelle année scolaire l'élève se joindra-t-il ?"
+msgstr "À quelle année scolaire l'étudiant se joindra-t-il ?"
 
 msgid "Intended Start Date"
 msgstr "Date de début prévue"
@@ -7101,10 +7100,10 @@ msgid "The specified date is in the future: it must be today or earlier."
 msgstr "La date spécifiée est ultérieure : doit être aujourd'hui ou plus tôt"
 
 msgid "There is currently no attendance data today for the selected student."
-msgstr "Il n'y a actuellement aucune donnée aujourd'hui pour l'élève sélectionné."
+msgstr "Il n'y a actuellement aucune donnée aujourd'hui pour l'étudiant sélectionné."
 
 msgid "The following attendance log has been recorded for the selected student today:"
-msgstr "Le journal de présences suivant a été enregistré pour l'élève suivant aujourd'hui :"
+msgstr "Le journal de présences suivant a été enregistré pour l'étudiant suivant aujourd'hui :"
 
 #, php-format
 msgid "Recorded at %1$s on %2$s by %3$s."
@@ -7136,19 +7135,19 @@ msgid "Attendance has been taken at the following times for the specified date f
 msgstr "Une présence a été enregistrée aux heures suivantes pour la date spécifiée pour ce groupe : "
 
 msgid "Total students:"
-msgstr "Total d'élèves :"
+msgstr "Total d'étudiants :"
 
 msgid "e.g. Present or Present - Late"
 msgstr "Ex. Présent ou Présent - En retard"
 
 msgid "Total students present in room:"
-msgstr "Total d'élèves présent dans cette salle :"
+msgstr "Total d'étudiants présent dans cette salle :"
 
 msgid "e.g. not Present and not Present - Late"
 msgstr "Ex. Non présent et non Présent - En retard"
 
 msgid "Total students absent from room:"
-msgstr "Total d'élèves absents de cette salle :"
+msgstr "Total d'étudiants absents de cette salle :"
 
 msgid "Mon"
 msgstr "Lun"
@@ -7175,7 +7174,7 @@ msgid "After End Date"
 msgstr "Après la date de fin"
 
 msgid "It appears that this student is missing attendance data for some school days:"
-msgstr "Il semble que certaines données de présences sont manquantes pour cet élève pour certains jours d'école :"
+msgstr "Il semble que certaines données de présences sont manquantes pour cet étudiant pour certains jours d'école :"
 
 msgid "Total number of school days to date:"
 msgstr "Nombre total de jours d'école pour la date :"
@@ -7206,7 +7205,7 @@ msgid "Attendance History for"
 msgstr "Registre de présences pour"
 
 msgid "All students are present."
-msgstr "Tous les élèves sont présents."
+msgstr "Tous les étudiants sont présents."
 
 msgid "Positive"
 msgstr "Positif"
@@ -7245,7 +7244,7 @@ msgid "(Current Year Only)"
 msgstr "(Uniquement l'année en cours)"
 
 msgid "View Student Record"
-msgstr "Consulter un enregistrement d'un élève"
+msgstr "Consulter un enregistrement d'un étudiant"
 
 msgid "This page allows a user to request selected family data updates for any family."
 msgstr "Cette page permet à un utilisateur d'interroger les mises à jour des données de famille sélectionnée pour n'importe quelle famille."
@@ -7272,7 +7271,7 @@ msgid "You have already submitted a form, which is awaiting processing by an adm
 msgstr "Vous avez déjà soumis un formulaire, qui est en attente d'approbation par un administrateur. Si vous souhaitez faire des changements, veuillez modifier les données ci-dessous, mais souvenez-vous que vos données n'apparaîtront pas dans le système jusqu'à ce qu'elles aient été approuvées."
 
 msgid "This page allows a user to request selected finance data updates for any user. If a user does not appear in the list, please visit the Manage Invoicees page to create any missing students."
-msgstr "Cette page permet à un utilisateur d'interroger les mises à jour de données financières pour n'importe quel utilisateur. Si un utilisateur n'apparaît pas dans la liste, veuillez consulter la page de gestion des factures afin de créer les élèves manquants."
+msgstr "Cette page permet à un utilisateur d'interroger les mises à jour de données financières pour n'importe quel utilisateur. Si un utilisateur n'apparaît pas dans la liste, veuillez consulter la page de gestion des factures afin de créer les étudiants manquants."
 
 #, php-format
 msgid "This page allows any adult with data access permission to request selected finance data updates for any children in their family. If any of your children do not appear in this list, please contact %1$s."
@@ -7288,7 +7287,7 @@ msgid "Individual for whom invoices are generated."
 msgstr "Personnes pour qui les factures sont générées."
 
 msgid "This page allows a user to request selected medical data updates for any student."
-msgstr "Cette page permet à un utilisateur d'interroger les mises à jour de données médicales sélectionnées pour n'importe quel élève."
+msgstr "Cette page permet à un utilisateur d'interroger les mises à jour de données médicales sélectionnées pour n'importe quel étudiant."
 
 msgid "This page allows any adult with data access permission to request medical data updates for any member of their family."
 msgstr "Cette page permet à un adulte avec les permissions d'accès de données d'interroger les mises à jour de données médicales de chacun des membres de sa famille."
@@ -7410,7 +7409,7 @@ msgid "Edit Category"
 msgstr "Modifier une catégorie "
 
 msgid "In this area you can create the various fee options which apply to students. Fees are specific to a school year, cannot be deleted and must be linked to a category. When you come to create invoices later on, you will be able to use these fees, as well as ad hoc charges."
-msgstr "Dans cette section vous pouvez créer les différents types de frais qui s'appliquent aux élèves. Les frais sont spécifiques à une année scolaire, ils ne peuvent pas être supprimés et doivent être liés à une catégorie. Lorsque vous irez créer des factures plus tard, vous serez capable d'utiliser ces frais, un peu comme des frais Ad hoc."
+msgstr "Dans cette section vous pouvez créer les différents types de frais qui s'appliquent aux étudiants. Les frais sont spécifiques à une année scolaire, ils ne peuvent pas être supprimés et doivent être liés à une catégorie. Lorsque vous irez créer des factures plus tard, vous serez capable d'utiliser ces frais, un peu comme des frais Ad hoc."
 
 msgid "Fee name, category name."
 msgstr "Intitulé du frais, Intitulé de la catégorie."
@@ -7432,17 +7431,17 @@ msgid "The table below shows all student invoicees within the school. A red row 
 msgstr "La table ci-dessous affiche tous les destinataires de facture enregistrée par le système. Une ligne rouge dans la table indique que le statut du destinataire n'est pas défini à \"Complet\" ou que leurs dates de début ou de fin sont après ou avant la date actuelle."
 
 msgid "It was detected that some students did not have invoicee records. The system tried to create these, but some of more creations failed."
-msgstr "Il a été détecté que certains élèves n'ont aucun enregistrement de destinataires de factures. Le système a essayé de les créer, mais la création de tous les éléments a échoué."
+msgstr "Il a été détecté que certains étudiants n'ont aucun enregistrement de destinataires de factures. Le système a essayé de les créer, mais la création de tous les éléments a échoué."
 
 #, php-format
 msgid "It was detected that some students did not have invoicee records. The system has successfully created %1$s record(s) for you."
-msgstr "Il a été détecté que certains élèves n'ont aucun enregistrement de destinataire de facture. Le système a créé %1$s enregistrement(s) avec succès pour vous."
+msgstr "Il a été détecté que certains étudiants n'ont aucun enregistrement de destinataire de facture. Le système a créé %1$s enregistrement(s) avec succès pour vous."
 
 msgid "All Students"
-msgstr "Tous les élèves"
+msgstr "Tous les étudiants"
 
 msgid "Include students whose status is not \"Full\"."
-msgstr "Inclure les élèves dont le statut n'est pas défini à \"Complet\"."
+msgstr "Inclure les étudiants dont le statut n'est pas défini à \"Complet\"."
 
 msgid "Family + Company"
 msgstr "Famille + Société"
@@ -7527,7 +7526,7 @@ msgid "Some aspects of your update failed, effecting the following areas:"
 msgstr "Certains aspects de vos mises à jour ont échoué, en effectuant les sections suivantes : "
 
 msgid "students encountered problems."
-msgstr "Des problèmes sont survenus avec les élèves."
+msgstr "Des problèmes sont survenus avec les étudiants."
 
 msgid "invoices encountered problems."
 msgstr "Des problèmes sont survenus avec les factures."
@@ -7540,24 +7539,24 @@ msgid "It is recommended that you remove all pending invoices and try to recreat
 msgstr "Il est recommandé de supprimer toutes les factures en attente et essayer de les recréer."
 
 msgid "Here you can add fees to one or more students. These fees will be added to an existing invoice or used to form a new invoice, depending on the specified billing schedule and other details."
-msgstr "Ici vous pouvez ajouter des frais à un ou plusieurs élèves. Ces frais seront ajoutés à une facture existante ou utilisés pour saisir une nouvelle facture, dépendant du programme de relance spécifié ainsi que d'autres détails."
+msgstr "Ici vous pouvez ajouter des frais à un ou plusieurs étudiants. Ces frais seront ajoutés à une facture existante ou utilisés pour saisir une nouvelle facture, dépendant du programme de relance spécifié ainsi que d'autres détails."
 
 msgid "Invoicees"
 msgstr "Destinataires de factures"
 
 #, php-format
 msgid "Visit %1$sManage Invoicees%2$s to automatically generate missing students."
-msgstr "Aller à %1$s Gérer les destinataires de facture %2$s pour générer automatiquement les élèves manquants."
+msgstr "Aller à %1$s Gérer les destinataires de facture %2$s pour générer automatiquement les étudiants manquants."
 
 msgid "All Enrolled Students by Form Group"
-msgstr "Tous les élèves inscrits par classe"
+msgstr "Tous les étudiants inscrits par classe"
 
 #, fuzzy
 msgid "Students by Form Groups"
-msgstr "Élèves par classes"
+msgstr "Étudiants par classes"
 
 msgid "All Enrolled Students by Alphabet"
-msgstr "Tous les élèves inscrits par ordre alphabétique"
+msgstr "Tous les étudiants inscrits par ordre alphabétique"
 
 msgid "Scheduling"
 msgstr "Programmation"
@@ -7689,17 +7688,17 @@ msgid "Alert Level"
 msgstr "Niveau d'alerte"
 
 msgid "Students With Records"
-msgstr "Élèves avec enregistrements"
+msgstr "Étudiants avec enregistrements"
 
 msgid "Students only show up in this list if they have an Individual Needs record with descriptors set. If a student does not show up here, check in Individual Needs Records."
-msgstr "Les élèves sont affichés uniquement dans cette liste s'ils ont des besoins individuels avec des ensembles de descripteurs. Si un élève n'est pas affiché ici, vérifiez les enregistrements des besoins individuels."
+msgstr "Les étudiants sont affichés uniquement dans cette liste s'ils ont des besoins individuels avec des ensembles de descripteurs. Si un étudiant n'est pas affiché ici, vérifiez les enregistrements des besoins individuels."
 
 msgid "View Student Records"
-msgstr "Consulter les enregistrements de l'élève"
+msgstr "Consulter les enregistrements de l'étudiant"
 
 #, fuzzy
 msgid "This page displays all students enrolled in the school, including those who have not yet met their start date. With the right permissions, you can set Individual Needs status and Individual Education Plan details for any student."
-msgstr "Cette page affiche tous les élèves inscrits dans l'école, incluant ceux dont les dates de début de cours n'ont pas encore été communiquées. Avec les permissions exactes, vous pouvez définir le statut des besoins individuels et les détails du plan de formation individuelle pour chaque élève."
+msgstr "Cette page affiche tous les étudiants inscrits dans l'école, incluant ceux dont les dates de début de cours n'ont pas encore été communiquées. Avec les permissions exactes, vous pouvez définir le statut des besoins individuels et les détails du plan de formation individuelle pour chaque étudiant."
 
 msgid "Individual needs descriptors or severity levels have not been set."
 msgstr "Les descripteurs de besoins individuels ou la sévérité n'ont pas été définis."
@@ -7818,7 +7817,7 @@ msgstr "Qui sera responsable du prochain statut ?"
 
 #, fuzzy
 msgid "Students By Form Group"
-msgstr "Élèves par classe"
+msgstr "Étudiants par classe"
 
 msgid "Renew Item"
 msgstr "Renouveler l'élément"
@@ -8189,7 +8188,7 @@ msgid "Edit Outcome"
 msgstr "Modifier un résultat"
 
 msgid "My Children's Classes"
-msgstr "Les cours de mes élèves"
+msgstr "Les cours de mes étudiants"
 
 msgid "Lessons"
 msgstr "Leçons"
@@ -8253,10 +8252,10 @@ msgid "Submission Required"
 msgstr "Soumission requise"
 
 msgid "Crowd Assessment?"
-msgstr "Évaluation entre élèves ?"
+msgstr "Évaluation entre étudiants ?"
 
 msgid "Allow crowd assessment of homework?"
-msgstr "Permet aux élèves d'évaluer chacun le devoir de l'autre"
+msgstr "Permet aux étudiants d'évaluer chacun le devoir de l'autre"
 
 msgid "Access Controls?"
 msgstr "Contrôles d'accès ?"
@@ -8274,7 +8273,7 @@ msgid "Classmates"
 msgstr "Camarades de classe"
 
 msgid "Other Students"
-msgstr "Autres élèves"
+msgstr "Autres étudiants"
 
 msgid "Other Teachers"
 msgstr "Autres enseignants"
@@ -8316,7 +8315,7 @@ msgid "Guest List"
 msgstr "Liste d'invités"
 
 msgid "Guest Student"
-msgstr "Élève invité"
+msgstr "Étudiant invité"
 
 msgid "Guest Teacher"
 msgstr "Enseignant invité"
@@ -8436,7 +8435,7 @@ msgid "Linked Markbook"
 msgstr "La liste des notes associées"
 
 msgid "Includes student data & teacher's notes"
-msgstr "Inclure les données d'élève et les notes d'enseignants"
+msgstr "Inclure les données d'étudiant et les notes d'enseignants"
 
 msgid "Edit Blocks"
 msgstr "modifier les blocs"
@@ -8506,7 +8505,7 @@ msgid "Add Submission"
 msgstr "Ajouter une soumission"
 
 msgid "This report draws data from the Markbook, Planner and Behaviour modules to give an overview of student performance and work completion. It only counts Online Submission data when submission is set to Required."
-msgstr "Cet état affiche les données la liste des notes, le planificateur et les cours de comportement afin de donner un aperçu de la performance de l'élève et les réalisations de travaux. il compte uniquement les données de soumissions envoyées en ligne lorsque la soumission est définie à obligatoire."
+msgstr "Cet état affiche les données la liste des notes, le planificateur et les cours de comportement afin de donner un aperçu de la performance de l'étudiant et les réalisations de travaux. il compte uniquement les données de soumissions envoyées en ligne lorsque la soumission est définie à obligatoire."
 
 msgid "Satisfactory"
 msgstr "Satisfaction"
@@ -8757,10 +8756,10 @@ msgid "This report attempts to print the family address(es) based on parents who
 msgstr "Cet état permet d'imprimer les adresses de familles basées sur les parents qui sont marqués comme contact de priorité 1."
 
 msgid "Choose Students"
-msgstr "Choisir des élèves"
+msgstr "Choisir des étudiants"
 
 msgid "Selected Students"
-msgstr "Élèves sélectionnés"
+msgstr "Étudiants sélectionnés"
 
 msgid "Total Count"
 msgstr "Nombre total"
@@ -8782,7 +8781,7 @@ msgid "All Form Groups"
 msgstr "Toutes les classes"
 
 msgid "This report allows a user to select a range of students and check whether or not they have had their personal and medical data updated after a specified date."
-msgstr "Cet état permet à un utilisateur de sélectionner un lot d'élèves et de vérifier si leurs données médicales et personnelles ont été mises à jour après une date spécifiée."
+msgstr "Cet état permet à un utilisateur de sélectionner un lot d'étudiants et de vérifier si leurs données médicales et personnelles ont été mises à jour après une date spécifiée."
 
 msgid "Earliest acceptable update"
 msgstr "Mise à jour acceptable plut tôt"
@@ -8791,7 +8790,7 @@ msgid "Show Only Non-Compliant?"
 msgstr "Afficher uniquement les non conformes ?"
 
 msgid "If not checked, show all. If checked, show only non-compliant students."
-msgstr "Si décoché, afficher tout. Si coché, afficher uniquement les élèves non conformes."
+msgstr "Si décoché, afficher tout. Si coché, afficher uniquement les étudiants non conformes."
 
 msgid "Medical Data"
 msgstr "Données médicales"
@@ -8800,10 +8799,10 @@ msgid "Parent Emails"
 msgstr "Courriels des parents"
 
 msgid "Student Emergency Data Summary"
-msgstr "Résumé des données d'urgence de l'élève"
+msgstr "Résumé des données d'urgence de l'étudiant"
 
 msgid "This report prints a summary of emergency data for the selected students. In case of emergency, please try to contact parents first, and if they cannot be reached then contact the listed emergency contacts."
-msgstr "Cet état affiche un résumé des données d'urgence pour les élèves sélectionnés. En cas d'urgence, veuillez essayer de contacter les parents en premier lieu, et s'ils ne sont pas joignables vous pourrez contacter les contacts d'urgence listés."
+msgstr "Cet état affiche un résumé des données d'urgence pour les étudiants sélectionnés. En cas d'urgence, veuillez essayer de contacter les parents en premier lieu, et s'ils ne sont pas joignables vous pourrez contacter les contacts d'urgence listés."
 
 msgid "Last Update"
 msgstr "Dernière mise à jour"
@@ -8818,10 +8817,10 @@ msgid "Emergency Contact 2"
 msgstr "Contact d'urgence 2"
 
 msgid "Student Medical Data Summary"
-msgstr "Résumé de données médicales de l'élève"
+msgstr "Résumé de données médicales de l'étudiant"
 
 msgid "This report prints a summary of medical data for the selected students."
-msgstr "Cet état affiche un résumé des données médicales des élèves sélectionnés."
+msgstr "Cet état affiche un résumé des données médicales des étudiants sélectionnés."
 
 msgid "Medical Form?"
 msgstr "Formulaire médical ?"
@@ -8845,10 +8844,10 @@ msgid "No medical data"
 msgstr "Aucune donnée médicale"
 
 msgid "Student ID Cards"
-msgstr "Carte scolaire de l'élève"
+msgstr "Carte scolaire de l'étudiant"
 
 msgid "This report allows a user to select a range of students and create ID cards for those students."
-msgstr "Cet état permet à un utilisateur de sélectionner une liste d'élèves et de générer leurs cartes scolaires."
+msgstr "Cet état permet à un utilisateur de sélectionner une liste d'étudiants et de générer leurs cartes scolaires."
 
 msgid "Card Background"
 msgstr "Arrière-plan de la carte"
@@ -8891,14 +8890,14 @@ msgid "This report shows all students who are newly arrived in the school during
 msgstr "Cet état affiche tous les étudiants qui sont nouvellement arrivés dans l'école durant l'année académique en cours (Ex. Ceux qui n'étaient pas inscrits dans l'année académique précédente)."
 
 msgid "View Student Profiles"
-msgstr "Consulter les profils d'élève"
+msgstr "Consulter les profils des étudiants"
 
 msgid "Adult"
 msgstr "Adulte"
 
 #, php-format
 msgid "This student has one or more %1$s risk medical conditions."
-msgstr "Cet élève a une ou plusieurs conditions médicales de %1$s à risque."
+msgstr "Cet étudiant a une ou plusieurs conditions médicales de %1$s à risque."
 
 msgid "Privacy required:"
 msgstr "Confidentialité requise :"
@@ -8934,23 +8933,23 @@ msgid "Comments"
 msgstr "Commentaires"
 
 msgid "Student Notes provide a way to store information on students which does not fit elsewhere in the system, or which you want to be able to see quickly in one place."
-msgstr "Les remarques sur les élèves fournissent un moyen d'enregistrer des informations sur les élèves qui n'existent pas ailleurs dans le système, ou que vous voulez pouvoir retrouver rapidement dans un seul et même endroit."
+msgstr "Les remarques sur les étudiants fournissent un moyen d'enregistrer des informations sur les étudiants qui n'existent pas ailleurs dans le système, ou que vous voulez pouvoir retrouver rapidement dans un seul et même endroit."
 
 msgid "Please remember that notes are visible to other users who have access to full student profiles (this should not generally include parents)."
-msgstr "Veuillez-vous rappeler que les notes sont visibles aux autres utilisateurs qui ont un accès complet aux profils des élèves (il s'agit généralement des parents)."
+msgstr "Veuillez-vous rappeler que les notes sont visibles aux autres utilisateurs qui ont un accès complet aux profils des étudiants (il s'agit généralement des parents)."
 
 msgid "Note Taker"
 msgstr "Prise de notes"
 
 msgid "This page displays academic results for a student throughout their school career. Only subjects with published results are shown."
-msgstr "Cette page affiche les résultats académiques pour un élève pendant sa carrière scolaire. Seuls les sujets avec les résultats publiés sont affichés."
+msgstr "Cette page affiche les résultats académiques pour un étudiant pendant sa carrière scolaire. Seuls les sujets avec les résultats publiés sont affichés."
 
 msgid "School Years"
 msgstr "Années Académiques"
 
 #, fuzzy
 msgid "This report shows the current and historical activities that a student has enrolled in."
-msgstr "Cet état affiche les activités courantes et historisées pour lesquelles un élève a été enregistré."
+msgstr "Cet état affiche les activités courantes et historisées pour lesquelles un étudiant a été enregistré."
 
 msgid "Homework History"
 msgstr "Historique de devoir de maison"
@@ -8962,10 +8961,10 @@ msgid "No Current Alerts"
 msgstr "Aucune alerte en cours"
 
 msgid "Add Student Note"
-msgstr "Ajouter une remarque sur un élève"
+msgstr "Ajouter une remarque sur un étudiant"
 
 msgid "Edit Student Note"
-msgstr "Modifier une note sur un élève"
+msgstr "Modifier une remarque d'un étudiant"
 
 msgid "Inactive languages are not yet ready for use within the system as they are still under development. They cannot be set to default, nor selected by users."
 msgstr "Les langues inactives ne sont pas encore prêtes pour être utilisées au sein du système, car elles sont encore en développement. Elles ne peuvent être définies par défaut, ou sélectionnées par les utilisateurs."
@@ -9155,10 +9154,10 @@ msgid "New Message_yearGroups_parents"
 msgstr "Nouveau message_yearGroups_parents"
 
 msgid "Student History_all"
-msgstr "Historique de l'élève_all"
+msgstr "Historique de l'Etudiant_all"
 
 msgid "Student History_myChildren"
-msgstr "Historique de l'élève_myChildren"
+msgstr "Historique de l'étudiant_myChildren"
 
 msgid "Update Family Data_any"
 msgstr "Mise à jour des données familiales_any"
@@ -9206,22 +9205,22 @@ msgid "View Staff Profile_full"
 msgstr "Consulter le profil du personnel_full"
 
 msgid "View Student Profile_brief"
-msgstr "Consulter le profil d'un élève_brief"
+msgstr "Consulter le profil d'un étudiant_brief"
 
 msgid "View Student Profile_full"
-msgstr "Consulter le profil d'un élève_full"
+msgstr "Consulter le profil d'un étudiant_full"
 
 msgid "View Student Profile_myChildren"
-msgstr "Consulter le profil d'un élève_myChildren"
+msgstr "Consulter le profil d'un étudiant_myChildren"
 
 msgid "A report for bulk creation of student ID cards."
 msgstr "Un état pour la création en lot des cartes scolaires."
 
 msgid "A report showing all new students in the current school year."
-msgstr "Un état affichant tous les nouveaux élèves dans l'année scolaire en cours."
+msgstr "Un état affichant tous les nouveaux étudiants dans l'année scolaire en cours."
 
 msgid "A report showing all the students who have left within a specified date range."
-msgstr "Un état affichant tous les élèves qui ont quitté l'école pendant une période donnée."
+msgstr "Un état affichant tous les étudiants qui ont quitté l'école pendant une période donnée."
 
 msgid "Add, edit and delete external assessments."
 msgstr "Ajouter, modifier et supprimer des évaluations externes."
@@ -9233,7 +9232,7 @@ msgid "Allow admins to manage timetable columns"
 msgstr "Permet aux administrateurs de gérer les colonnes d'emploi du temps"
 
 msgid "Allow users to view assessment data for all students"
-msgstr "Permet aux utilisateurs de consulter les données d'évaluation pour tous les élèves"
+msgstr "Permet aux utilisateurs de consulter les données d'évaluation pour tous les étudiants"
 
 msgid "Allows a user to view the activities they are involved in"
 msgstr "Permet à un utilisateur de consulter les activités auxquelles ils sont impliqués"
@@ -9293,7 +9292,7 @@ msgid "Allows uers to view all department details."
 msgstr "Permet aux parents de consulter tous les détails d'un département"
 
 msgid "Allows user to control student enrolment in the current year"
-msgstr "Permet aux parents de contrôler l'inscription de l'élève dans l'année scolaire en cours"
+msgstr "Permet aux parents de contrôler l'inscription de l'étudiant dans l'année scolaire en cours"
 
 msgid "Allows user to control the definition of academic years within the system"
 msgstr "Permet aux utilisateurs de contrôler la définition des années académiques au sein du système"
@@ -9305,14 +9304,14 @@ msgid "Allows user to spot students who are repeat or regular offenders."
 msgstr "Permet à l'utilisateur de repérer les étudiants qui sont des récidivistes."
 
 msgid "Allows user to view IN records for all students"
-msgstr "Permet à un utilisateur de consulter les enregistrements des besoins individuels pour tous les élèves"
+msgstr "Permet à un utilisateur de consulter les enregistrements des besoins individuels pour tous les étudiants"
 
 msgid "Allows users to check, for a group of students, how recently they have been updated"
-msgstr "Permet aux utilisateurs de vérifier, pour un groupe d'élèves, la façon dont ils ont été récemment mis à jour"
+msgstr "Permet aux utilisateurs de vérifier, pour un groupe d'étudiants, la façon dont ils ont été récemment mis à jour"
 
 #, fuzzy
 msgid "Allows users to contribute teaching strategies to IN records for all students"
-msgstr "Permet aux utilisateurs de contribuer aux stratégies d'enseignements des besoins individuels de tous les élèves"
+msgstr "Permet aux utilisateurs de contribuer aux stratégies d'enseignements des besoins individuels de tous les étudiants"
 
 msgid "Allows users to create a list of spaces and rooms in the school"
 msgstr "Permet aux utilisateurs de créer une liste d'espaces et de salles dans l'école"
@@ -9328,7 +9327,7 @@ msgstr "Permet aux utilisateurs de créer, consulter et modifier les frais."
 
 #, fuzzy
 msgid "Allows users to edit IN records for all students"
-msgstr "Permet aux utilisateurs de modifier les besoins individuels de tous les élèves"
+msgstr "Permet aux utilisateurs de modifier les besoins individuels de tous les étudiants"
 
 msgid "Allows users to edit the text that appears in invoices and receipts."
 msgstr "Permet aux utilisateurs de modifier le texte qui apparaît sur les factures et chez les destinataires."
@@ -9340,10 +9339,10 @@ msgid "Allows users to manage external assessment data"
 msgstr "Permet aux utilisateurs de gérer la donnée d'une évaluation externe"
 
 msgid "Allows users to show a summary of emergency contact data for a group of students."
-msgstr "Permet aux utilisateurs d'afficher un résumé de donnée de contact d'urgence pour un groupe d'élèves."
+msgstr "Permet aux utilisateurs d'afficher un résumé de donnée de contact d'urgence pour un groupe d'étudiants."
 
 msgid "Allows users to show a summary of medical data for a group of students."
-msgstr "Permet aux utilisateurs d'afficher un résumé de données médicales pour un groupe d'élèves."
+msgstr "Permet aux utilisateurs d'afficher un résumé de données médicales pour un groupe d'étudiants."
 
 msgid "Allows users to update medical information for themselves and their family members"
 msgstr "Permet aux utilisateurs de mettre à jour leurs informations médicales et celles de leurs familles respectives"
@@ -9361,7 +9360,7 @@ msgid "Allows users to view and edit invoice recipients."
 msgstr "Permet aux utilisateurs de consulter et modifier les destinataires d'une facture."
 
 msgid "Allows users, with or without an account, to apply for student place."
-msgstr "Permet aux utilisateurs, avec ou sans un compte, de demander des places pour des élèves."
+msgstr "Permet aux utilisateurs, avec ou sans un compte, de demander des places pour des étudiants."
 
 msgid "Bulk email from the school's email address"
 msgstr "Courriel par lot à partir du courriel de l'école"
@@ -9536,7 +9535,7 @@ msgid "Manage settings for the resources module"
 msgstr "Gérer les paramètres du module des ressources"
 
 msgid "Manage settings for the Student module"
-msgstr "Gérer les paramètres du module Élève"
+msgstr "Gérer les paramètres du module Étudiant"
 
 msgid "Manage the alert levels which are used throughout the school to flag problems."
 msgstr "Gérer les niveaux d'alertes qui sont utilisées au sein de l'école enregistrer les problèmes."
@@ -9545,7 +9544,7 @@ msgid "Output all parental first mobile numbers by year group: if there are no d
 msgstr "Afficher les premiers numéros de téléphone de parents par palier: S'il n'y a aucun détail, alors afficher les détails d'urgence."
 
 msgid "Print a report of all attendance data in the current school year for a student"
-msgstr "Afficher un état de toutes les données de présences dans l'année scolaire en cours pour élève"
+msgstr "Afficher un état de toutes les données de présences dans l'année scolaire en cours pour étudiant"
 
 msgid "Print a report of all attendance data in the current school yearfor my children"
 msgstr "Afficher un état de toutes les données de présences dans l'année scolaire en cours pour mon enfant"
@@ -9555,10 +9554,10 @@ msgid "Print a report of form groups who have not been registered on a given day
 msgstr "Afficher un état des Classes qui n'ont pas été enregistrées pour un jour donné"
 
 msgid "Print a report of students who are not physically on the school campus on a given day"
-msgstr "Afficher un état des élèves qui ne sont pas physiquement sur le campus de l'école pour un jour donné"
+msgstr "Afficher un état des étudiants qui ne sont pas physiquement sur le campus de l'école pour un jour donné"
 
 msgid "Print a report of students who are not present on a given day"
-msgstr "Afficher un état des élèves qui ne sont pas présents pour le jour spécifié"
+msgstr "Afficher un état des étudiants qui ne sont pas présents pour le jour spécifié"
 
 msgid "Print attendance lists"
 msgstr "Afficher les listes de présence"
@@ -9597,24 +9596,24 @@ msgid "Send messages by SMS."
 msgstr "Envoyer les messages par SMS."
 
 msgid "Set future absences one student at a time"
-msgstr "Définir les absences futures d'un élève à un instant"
+msgstr "Définir les absences futures d'un étudiant à un instant"
 
 msgid "Show SMS emergency details by transport route"
 msgstr "Afficher les détails des SMS d'urgence par route de transport"
 
 #, fuzzy
 msgid "Show students in form group, less those with an older sibling, so that letters can be carried home by oldest in family."
-msgstr "Afficher les élèves au sein d'un classe, moins ceux possédant une ancienne parenté, afin que les lettres puissent être transmises à domicile par un ancien membre de la famille."
+msgstr "Afficher les étudiants au sein d'un classe, moins ceux possédant une ancienne parenté, afin que les lettres puissent être transmises à domicile par un ancien membre de la famille."
 
 msgid "Shows privacy options selected, for those students with a selection made."
-msgstr "Affiche les options de confidentialité, pour les élèves avec une sélection faite."
+msgstr "Affiche les options de confidentialité, pour les étudiants avec une sélection faite."
 
 msgid "Shows student transport details"
-msgstr "Affiche les détails de transport de l'élève"
+msgstr "Affiche les détails de transport de l'étudiant"
 
 #, fuzzy
 msgid "Summarises gender and number of students across all form groups."
-msgstr "Résume le sexe et le nombre d'élèves au sein de chaque classe."
+msgstr "Résume le sexe et le nombre d'étudiants au sein de chaque classe."
 
 msgid "Summarises gender, age and school year"
 msgstr "Résume le sexe, l'âge et l'année scolaire"
@@ -9652,34 +9651,34 @@ msgid "View all rubrics in the school, edit any from Learning Areas where you ar
 msgstr "Consulter toutes les rubriques dans l'école, modifier chacun des domaines d'études pour lesquels vous êtes coordinateur ou enseignant (Curriculum)"
 
 msgid "View all rubrics in the school, except students who can only view those for own year group."
-msgstr "Consulter toutes les rubriques dans l'école, excepter les élèves qui peuvent consulter uniquement celles de leur propre palier"
+msgstr "Consulter toutes les rubriques dans l'école, excepter les étudiants qui peuvent consulter uniquement celles de leur propre palier"
 
 msgid "View all student activity choices in the current year for a given student"
-msgstr "Consulter tous les choix d'activité d'élève dans l'année scolaire en cours pour un élève donné"
+msgstr "Consulter tous les choix d'activité d'étudiant dans l'année scolaire en cours pour un étudiant donné"
 
 msgid "View and edit all planner information for all classes"
 msgstr "Consulter et modifier toutes les informations du planificateur pour les modules"
 
 msgid "View behaviour records by student"
-msgstr "Consulter les enregistrements de comportement par élève"
+msgstr "Consulter les enregistrements de comportement par étudiant"
 
 msgid "View brief profile of any staff member in the school."
 msgstr "Consulter un bref profil de chaque membre du personnel dans l'école."
 
 msgid "View brief profile of any student in the school."
-msgstr "Consulter un bref profil de chaque élève dans l'école."
+msgstr "Consulter un bref profil de chaque étudiant dans l'école."
 
 msgid "View family addresses by student"
-msgstr "Consulter les adresses par élève"
+msgstr "Consulter les adresses par étudiant"
 
 msgid "View full profile of any staff member in the school."
 msgstr "Consulter le profil intégral de chaque membre du personnel dans l'école."
 
 msgid "View full profile of any student in the school."
-msgstr "Consulter les profils intégraux de chaque élève dans l'école."
+msgstr "Consulter les profils intégraux de chaque étudiant dans l'école."
 
 msgid "View items borrowed by an individual student."
-msgstr "Consulter les éléments empruntés par un élève"
+msgstr "Consulter les éléments empruntés par un étudiant"
 
 msgid "View items which are on loan and have exceeded their due date."
 msgstr "Consulter les éléments non encore retournés ayant excédés leur date limite."
@@ -9902,7 +9901,7 @@ msgid "Welcome To Gibbon"
 msgstr "Bienvenue sur Gibbon"
 
 msgid "Created by teachers, Gibbon is the school platform which solves real problems faced by educators every day."
-msgstr "Créé par les acteurs majeurs de l'école, Gibbon est la plateforme scolaire qui résout les vrais problèmes auxquels font face les enseignants, l'administration scolaire, les parents et les élèves chaque jour."
+msgstr "Créé par les acteurs majeurs de l'école, Gibbon est la plateforme scolaire qui résout les vrais problèmes auxquels font face les enseignants, l'administration scolaire, les parents et les étudiants chaque jour."
 
 msgid "Free, open source and flexible, Gibbon can morph to meet the needs of a huge range of schools."
 msgstr "Gratuit, open source et flexible, Gibbon peut s'adapter à vos besoins tout comme à d'autres établissements."
@@ -9931,7 +9930,7 @@ msgid "Please upload a passport photo to use as a profile picture."
 msgstr "Veuillez télécharger une photo de passeport à utiliser comme photo de profil."
 
 msgid "The following future absences have been set for the selected student."
-msgstr "Les futures absences suivantes ont été enregistrées pour cet élève."
+msgstr "Les futures absences suivantes ont été enregistrées pour cet étudiant."
 
 msgid "Set Future Attendance"
 msgstr "Définir une prochaine présence"
@@ -9973,7 +9972,7 @@ msgid "Weekly Planner Summary for %1$s via %2$s at %3$s"
 msgstr "Résumé du planificateur hebdomadaire de %1$s via %2$s à %3$s"
 
 msgid "Student Count"
-msgstr "Total d'élèves"
+msgstr "Nombre total d'étudiants"
 
 msgid "Send Succeed Count"
 msgstr "Envoyer un décompte réussi"
@@ -9985,7 +9984,7 @@ msgid "Teacher Recorded"
 msgstr "Enseignant enregistré"
 
 msgid "Student Recorded"
-msgstr "Élève enregistré"
+msgstr "Étudiant enregistré"
 
 msgid "Notes & Review"
 msgstr "Notes et révision"
@@ -9994,7 +9993,7 @@ msgid "Teacher Recorded Homework"
 msgstr "Devoirs enregistrés par l'enseignant"
 
 msgid "Student Recorded Homework"
-msgstr "Devoirs enregistrés par l'élève"
+msgstr "Devoirs enregistrés par l'étudiant"
 
 msgid "If your teacher has not entered homework into Gibbon, or you want to record extra homework, you can enter the details here."
 msgstr "Si votre enseignant n'a pas saisi de devoir dans Gibbon, ou que vous voulez enregistrer un devoir extra, vous pouvez saisir les détails ici."
@@ -10024,11 +10023,11 @@ msgid "Not Confirmed"
 msgstr "Non confirmé"
 
 msgid "Include all students, regardless of status and current enrolment. Some data may not display."
-msgstr "Inclus les élèves, sans tenir compte de leur statut et l'inscription actuelle. Certaines données peuvent ne pas être affichées."
+msgstr "Inclus les étudiants, sans tenir compte de leur statut et l'inscription actuelle. Certaines données peuvent ne pas être affichées."
 
 #, fuzzy
 msgid "Students who are already enrolled will have their enrolment updated."
-msgstr "Les élèves déjà inscrits auront leur inscription mise à jour."
+msgstr "Les étudiants déjà inscrits auront leur inscription mise à jour."
 
 msgid "Bump was successful. It is possible that some lessons have not been moved (if there was no space for them), but a reasonable effort has been made."
 msgstr "Le déplacement s'est effectuée avec succès. Il est possible que certaines leçons n'aient pas été déplacées (s'il n'y a eu aucune place pour elles), cependant un effort raisonnable a été fait."
@@ -10050,15 +10049,15 @@ msgid "Pressing \"Yes\" below will move this lesson, and all preceeding or succe
 msgstr "En appuyant sur « Oui » ci-dessous, vous déplacerez cette leçon, ainsi que toutes les leçons précédentes ou suivantes de ce cours, vers le créneau horaire disponible précédent ou suivant. <b>Voulez-vous vraiment continuer %1$s ?"
 
 msgid "Student Email & Website"
-msgstr "Courriel et site de l'élève"
+msgstr "Courriel et site de l'étudiant"
 
 #, php-format
 msgid "Create Student Email/Websites for %1$s at %2$s"
-msgstr "Créer un courriel/des sites pour %1$s à %2$s"
+msgstr "Créer un courriel/site internet étudiant pour %1$s à %2$s"
 
 #, php-format
 msgid "Please create the following for new student %1$s."
-msgstr "Veuillez créer les éléments suivants pour le nouvel élève %1$s."
+msgstr "Veuillez créer les éléments suivants pour le nouvel étudiant %1$s."
 
 #, php-format
 msgid "A request to create a student email address and/or website address was successfully sent to %1$s."
@@ -10075,16 +10074,16 @@ msgid "Acceptance Options"
 msgstr "Options d'acceptation"
 
 msgid "Student Default Email"
-msgstr "Courriel par défaut de l'élève"
+msgstr "Courriel par défaut de l'étudiant"
 
 msgid "Student Default Website"
-msgstr "Site par défaut de l'élève"
+msgstr "Site par défaut de l'étudiant"
 
 msgid "Set default email for students on acceptance, using [username] to insert username."
 msgstr "Définissez l'adresse ede courriel par défaut pour les étudiants lors de l'acceptation, en utilisant [username] pour insérer le nom d'utilisateur."
 
 msgid "Set default website for students on acceptance, using [username] to insert username."
-msgstr "Définir un site par défaut pour les élèves sur acceptation, en utilisant le [username] pour insérer un Nom d'utilisateur."
+msgstr "Définir un site par défaut pour les étudiants sur acceptation, en utilisant le [username] pour insérer un Nom d'utilisateur."
 
 #, php-format
 msgid "If you have recently updated your system files, please check that your database is up to date in %1$sUpdates%2$s."
@@ -10125,10 +10124,10 @@ msgid "Copy Unit Forward"
 msgstr "Copier une unité en avant"
 
 msgid "Student Agreements"
-msgstr "Accords des élèves"
+msgstr "Accords des étudiants"
 
 msgid "Check to indicate that student has signed the relevant agreement."
-msgstr "Vérifier pour indiquer que l'élève accepter l'accord indiqué."
+msgstr "Vérifier pour indiquer que l'étudiant accepter l'accord indiqué."
 
 msgid "Delete All Notifications"
 msgstr "Supprimer toutes les notifications"
@@ -10164,7 +10163,7 @@ msgid "Google Developers Redirect Url"
 msgstr "URL de redirection pour développeurs Google"
 
 msgid "Student Agreement Options"
-msgstr "Options d'accord d'élève"
+msgstr "Options d'accord d'étudiant"
 
 #, fuzzy
 msgid "A name to use instead of \"Attainment\" in the first grade column of the markbook."
@@ -10183,7 +10182,7 @@ msgid "A short name to use instead of \"Effort\" in the second grade column of t
 msgstr "Une abréviation de l'intitulé à utiliser à la place de \"Effort\" dans la première colonne de diplôme de la liste des notes."
 
 msgid "Comma-separated list of agreements that students might be asked to sign in school (e.g. ICT Policy)."
-msgstr "Liste d'éléments séparés d'accords auxquels il sera demandé aux élèves de ratifier au sein de l'école (Ex. Conditions TIC)."
+msgstr "Liste d'éléments séparés d'accords auxquels il sera demandé aux étudiants de ratifier au sein de l'école (Ex. Conditions TIC)."
 
 msgid "Comma-separated list of reasons for departure from school. If blank, user can enter any text."
 msgstr "Liste d'éléments séparés de raisons de départ de l'école. Si vide, alors l'utilisateur pourra saisir n'importe quel texte."
@@ -10390,7 +10389,7 @@ msgid "Allow File Upload"
 msgstr "Autoriser le téléchargement de fichiers"
 
 msgid "Should the student record include the option of a file upload?"
-msgstr "L'enregistrement de l'élève doit-il inclure l'option de téléchargement de fichiers?"
+msgstr "L'enregistrement de l'étudiant doit-il inclure l'option de téléchargement de fichiers?"
 
 msgid "Install failed because either the module name was not given or the manifest file was invalid."
 msgstr "L'installation a échoué, car soit le nom du module n'a pas été défini ou que le fichier manifeste était invalide."
@@ -10734,7 +10733,7 @@ msgstr "L'emploi du temps de l'école."
 
 #, fuzzy
 msgid "Personal Calendar"
-msgstr "L'emploi du temps d'élèves"
+msgstr "L'emploi du temps d'étudiants"
 
 #, php-format
 msgid "All Day%1$s Events"
@@ -10918,7 +10917,7 @@ msgid "Should new users be 'Full' or 'Pending Approval'?"
 msgstr "Les nouveaux utilisateurs doivent-ils être \"Complets\" ou \"En attente d'approbation\"?"
 
 msgid "Should student notes be turned on?"
-msgstr "Les notes des élèves doivent-elles être activées?"
+msgstr "Les notes des étudiants doivent-elles être activées?"
 
 msgid "Sound a system wide alarm to all staff."
 msgstr "Envoyez le signal d'alarme du système à tout le personnel"
@@ -11364,7 +11363,7 @@ msgid "The specified record does not exist or you do not have access to it."
 msgstr "L'enregistrement spécifié n'existe pas ou vous n'y avez pas accès."
 
 msgid "The Baseline column is populated based on student performance in external assessments, and can be used as a reference point for the grades in the Internal Assessment."
-msgstr "La colonne Baseline est renseignée en fonction du rendement des élèves dans les évaluations externes et peut être utilisée comme point de référence pour les notes dans l'évaluation interne."
+msgstr "La colonne Baseline est renseignée en fonction du rendement des étudiants dans les évaluations externes et peut être utilisée comme point de référence pour les notes dans l'évaluation interne."
 
 msgid "Enter Internal Assessment Results"
 msgstr "Entrer les résultats de l'évaluation interne"
@@ -11611,7 +11610,7 @@ msgid "This page allows departmental Coordinators and Assistant Coordinators to 
 msgstr "Cette page permet aux coordonnateurs ministériels et aux coordonnateurs adjoints de gérer la candidature des étudiants au sein de leur département."
 
 msgid "Former Students"
-msgstr "Anciens élèves"
+msgstr "Anciens étudiants"
 
 msgid "View Master Timetable"
 msgstr "Afficher l'horaire principal"
@@ -11642,7 +11641,7 @@ msgid "New Class"
 msgstr "Nouvelle classe"
 
 msgid "students"
-msgstr "élèves"
+msgstr "étudiants"
 
 msgid "Graphing"
 msgstr "Graphiques"
@@ -11651,7 +11650,7 @@ msgid "Data Type"
 msgstr "Type de données"
 
 msgid "Only Learning Areas for which the student has data will be displayed."
-msgstr "Seuls les domaines d'apprentissage pour lesquels l'élève a des données seront affichés."
+msgstr "Seuls les domaines d'apprentissage pour lesquels l'étudiant a des données seront affichés."
 
 msgid "No Learning Areas available."
 msgstr "Aucun domaine d'apprentissage disponible."
@@ -11940,7 +11939,7 @@ msgid "Allows a user to see all days, periods, teachers and rooms in a timetable
 msgstr "Permet à un utilisateur de voir tous les jours, les périodes, les enseignants et les salles dans un horaire."
 
 msgid "Allows a user to see progress tracking graphs for all students in school."
-msgstr "Permet à un utilisateur de voir des graphiques de suivi des progrès pour tous les élèves à l'école."
+msgstr "Permet à un utilisateur de voir des graphiques de suivi des progrès pour tous les étudiants à l'école."
 
 msgid "Allows a user to view automated behaviour letters sent out by the system."
 msgstr "Permet à un utilisateur de visualiser les lettres de comportement automatisées envoyées par le système."
@@ -11979,7 +11978,7 @@ msgid "Tracking"
 msgstr "Suivi/Graphique"
 
 msgid "Provides visual graphing of student progress, as recorded in the Markbook and Internal Assessment."
-msgstr "Fournit un graphique visuel des progrès de l'élève, tel qu'il est consigné dans la liste des notes et l'évaluation interne."
+msgstr "Fournit un graphique visuel des progrès de l'étudiant, tel qu'il est consigné dans la liste des notes et l'évaluation interne."
 
 msgid "Admissions Administrator"
 msgstr "Administrateur des admissions"
@@ -12049,7 +12048,7 @@ msgstr "Permet aux utilisateurs privilégiés d'ajouter des dépenses sans passe
 
 #, fuzzy
 msgid "Automatically place the student in a house."
-msgstr "Tentative de placer automatiquement l'élève dans une maison?"
+msgstr "Tentative de placer automatiquement l'étudiant dans une maison?"
 
 msgid "Comma-separated list of types to make available in Internal Assessments."
 msgstr "Liste de types, séparés par des virgules, à mettre à disposition dans les évaluations internes."
@@ -12110,7 +12109,7 @@ msgid "Parent Dashboard"
 msgstr "Tableau de bord parent"
 
 msgid "Student Dashboard"
-msgstr "Tableau de bord étudiant"
+msgstr "Tableau de bord Étudiant"
 
 msgid "Staff Dashboard"
 msgstr "Tableau de bord du personnel"
@@ -12510,7 +12509,7 @@ msgstr "Modifier le contrat"
 
 #, php-format
 msgid "If you already have an account for %1$s %2$s, please log in now to prevent creation of duplicate data about you! Once logged in, you can find the form under People > Students in the main menu."
-msgstr "Si vous avez déjà un compte pour %1$s %2$s, veuillez-vous connecter maintenant pour éviter la création de doublons de données à votre sujet! Une fois connecté, vous trouverez le formulaire sous Personnes > Élèves dans le menu principal."
+msgstr "Si vous avez déjà un compte pour %1$s %2$s, veuillez-vous connecter maintenant pour éviter la création de doublons de données à votre sujet! Une fois connecté, vous trouverez le formulaire sous Personnes > Étudiants dans le menu principal."
 
 msgid "Special Educational Needs & Medical"
 msgstr "Besoins spécifiques médicaux ou d'éducation"
@@ -12531,7 +12530,7 @@ msgid "Current School Reference Email"
 msgstr "Courriel de référence de l'école actuelle"
 
 msgid "Student Application Form Printout"
-msgstr "Impression du formulaire de demande d'étudiant"
+msgstr "Impression du formulaire de candidature étudiant"
 
 msgid "Special Educational Needs"
 msgstr "Besoins éducatifs spéciaux"
@@ -12741,7 +12740,7 @@ msgid "Staff Management"
 msgstr "Gérer le personnel"
 
 msgid "Student Management"
-msgstr "Gérer les élèves"
+msgstr "Gérer les étudiants"
 
 msgid "Attendance History by Activity"
 msgstr "Historique des présences par activité"
@@ -12820,7 +12819,7 @@ msgid "Manage markbook weightings for any class."
 msgstr "Gérer les pondérations de la liste des notes pour n'importe quelle classe."
 
 msgid "Record student attendance for activities."
-msgstr "Enregistrer la présence des élèves pour les activités."
+msgstr "Enregistrer la présence des étudiants pour les activités."
 
 msgid "Application Form Referee Link"
 msgstr "Lien pour une référence du formulaire de candidature"
@@ -13296,7 +13295,7 @@ msgid "Allow Future Use"
 msgstr "Autoriser l'utilisation future"
 
 msgid "Can this code be used in Set Future Absence?"
-msgstr "Ce code peut-il être utilisé dans Définir les absences futures d'un élève?"
+msgstr "Ce code peut-il être utilisé dans Définir les absences futures d'un étudiant?"
 
 msgid "Available to Roles"
 msgstr "Disponible pour les rôles"
@@ -13393,13 +13392,13 @@ msgid "Check system versions and extensions installed."
 msgstr "Vérifiez les versions du système et les extensions installées."
 
 msgid "Display a graph of student attendance types over time"
-msgstr "Afficher un graphique des types de présences des élèves au fil du temps"
+msgstr "Afficher un graphique des types de présences des étudiants au fil du temps"
 
 msgid "Edit student attendance logs."
 msgstr "Modifier les journaux de présences des étudiants"
 
 msgid "Manage settings that control Staff, Student and Parent dashboards."
-msgstr "Gérez les paramètres qui contrôlent les tableaux de bord Personnel, Élève et Parent."
+msgstr "Gérez les paramètres qui contrôlent les tableaux de bord Personnel, Étudiant et Parent."
 
 msgid "Print a report of classes who have not been registered on a given day"
 msgstr "Imprimer un rapport des classes qui n'ont pas été enregistrées un jour donné"
@@ -13539,7 +13538,7 @@ msgid "Determines how invoicee name appears on invoices and receipts."
 msgstr "Détermine comment le nom facturé apparaît sur les factures et les reçus."
 
 msgid "Determines who to notify when a new student note is created."
-msgstr "Détermine les personnes à notifier lorsqu'une nouvelle note d'élève est créée."
+msgstr "Détermine les personnes à notifier lorsqu'une nouvelle note d'étudiant est créée."
 
 msgid "If yes, members of the public can submit staff applications"
 msgstr "Si oui, les membres du public peuvent soumettre des demandes de personnel"
@@ -13690,7 +13689,7 @@ msgid "Units Without Concepts & Keywords"
 msgstr "Unités sans concepts et mots clés"
 
 msgid "The contents of both the Unit Outline field and the Downloadable Unit Outline are available to all users who can access this unit via the Lesson Planner (possibly include parents and students)."
-msgstr "Le contenu du champ Contour de l'unité et Contour de l'unité téléchargeable est disponible pour tous les utilisateurs qui peuvent accéder à cette unité via le Planificateur de cours (éventuellement inclure les parents et les élèves)."
+msgstr "Le contenu du champ Contour de l'unité et Contour de l'unité téléchargeable est disponible pour tous les utilisateurs qui peuvent accéder à cette unité via le Planificateur de cours (éventuellement inclure les parents et les étudiants)."
 
 msgid "The contents of the Unit Outline field are viewable only to those with full access to the Planner (usually teachers and administrators, but not students and parents), whereas the downloadable version (below) is available to more users (usually parents)."
 msgstr "Le contenu du champ Structure de l'unité ne peut être consulté que par ceux qui ont un accès complet au planificateur (généralement les enseignants et les administrateurs, mais pas les étudiants et les parents), tandis que la version téléchargeable est disponible pour plus d'utilisateurs."
@@ -13709,7 +13708,7 @@ msgid "Individual Needs Settings"
 msgstr "Gérer les paramètres des besoins individuels"
 
 msgid "Student Notes"
-msgstr "Notes d'étudiants"
+msgstr "Notes des étudiants"
 
 msgid "Tutors & Teachers"
 msgstr "Mentor et enseignants"
@@ -13791,7 +13790,7 @@ msgstr "Expiration de la session"
 
 #, fuzzy
 msgid "By default this report counts all students who are enrolled in the current academic year and whose status is currently set to full. However, if dates are set, only those students who have start and end dates outside of the specified dates, or have no start and end dates, will be shown (irrespective of their status)."
-msgstr "Par défaut, ce rapport compte tous les étudiants inscrits à l'année universitaire en cours et dont le statut est actuellement défini sur full. Toutefois, si des dates sont définies, seuls les élèves dont les dates de début et de fin sont en dehors des dates spécifiées ou qui n'ont pas de dates de début et de fin seront affichés (quel que soit leur statut)."
+msgstr "Par défaut, ce rapport compte tous les étudiants inscrits à l'année universitaire en cours et dont le statut est actuellement défini sur full. Toutefois, si des dates sont définies, seuls les étudiants dont les dates de début et de fin sont en dehors des dates spécifiées ou qui n'ont pas de dates de début et de fin seront affichés (quel que soit leur statut)."
 
 msgid "Preferred, surname, username, student ID, email, phone number, vehicle registration, parent email."
 msgstr "Préféré, nom de famille, nom d'utilisateur, numéro d'étudiant, adresse électronique, numéro de téléphone, immatriculation du véhicule, adresse électronique des parents."
@@ -13886,11 +13885,11 @@ msgstr "Rejoignez notre communauté d'apprentissage."
 
 #, php-format
 msgid "This alert level occurs when there are more than %1$s events recorded for a student."
-msgstr "Ce niveau d'alerte se produit lorsqu'il y a plus de %1$s événements enregistrés pour un élève."
+msgstr "Ce niveau d'alerte se produit lorsqu'il y a plus de %1$s événements enregistrés pour un étudiant."
 
 #, php-format
 msgid "This alert level occurs when there are between %1$s and %2$s events recorded for a student."
-msgstr "Ce niveau d'alerte se produit lorsqu'il y a entre les événements %1$s et %2$s enregistrés pour un élève."
+msgstr "Ce niveau d'alerte se produit lorsqu'il y a entre les événements %1$s et %2$s enregistrés pour un étudiant."
 
 msgid "Activity Attendance by Date"
 msgstr "Fréquentation d'activité par date"
@@ -13899,7 +13898,7 @@ msgid "Notification Settings"
 msgstr "Paramètres de notification"
 
 msgid "Student Enrolment Trends"
-msgstr "Tendances des inscriptions"
+msgstr "Tendances des inscriptions d'étudiants"
 
 msgid "Student Self Registration"
 msgstr "Auto-inscription des étudiants"
@@ -13932,7 +13931,7 @@ msgid "Provides a visual graph of student enrolment over a range of time."
 msgstr "Fournit un graphique visuel de l'inscription des étudiants sur une plage de temps."
 
 msgid "Record student attendance for activities you organise, coach or assist in."
-msgstr "Enregistrez la présence des élèves pour les activités que vous organisez, entraînez ou assistez."
+msgstr "Enregistrez la présence des étudiants pour les activités que vous organisez, entraînez ou assistez."
 
 msgid "Default Class Attendance Type"
 msgstr "Type de présence de classe par défaut"
@@ -14015,13 +14014,13 @@ msgid "The default selection for attendance type when taking Form Group attendan
 msgstr "La sélection par défaut pour le type de présences lors de la prise de présence d'un classe"
 
 msgid "The number of Behaviour concerns needed in the past 60 days to raise a high level alert on a student."
-msgstr "Le nombre de problèmes de comportement requis au cours des 60 derniers jours pour déclencher une alerte de haut niveau sur un élève."
+msgstr "Le nombre de problèmes de comportement requis au cours des 60 derniers jours pour déclencher une alerte de haut niveau sur un étudiant."
 
 msgid "The number of Behaviour concerns needed in the past 60 days to raise a low level alert on a student."
-msgstr "Le nombre de problèmes de comportement requis au cours des 60 derniers jours pour déclencher une alerte de niveau bas sur un élève."
+msgstr "Le nombre de problèmes de comportement requis au cours des 60 derniers jours pour déclencher une alerte de niveau bas sur un étudiant."
 
 msgid "The number of Behaviour concerns needed in the past 60 days to raise a medium level alert on a student."
-msgstr "Le nombre de problèmes de comportement requis au cours des 60 derniers jours pour déclencher une alerte de niveau moyen sur un élève."
+msgstr "Le nombre de problèmes de comportement requis au cours des 60 derniers jours pour déclencher une alerte de niveau moyen sur un étudiant."
 
 msgid "The directory containing the Gibbon files is not currently writable, or config.php already exists in the root folder and is not empty or is not writable, so the installer cannot proceed."
 msgstr "Le répertoire contenant les fichiers Gibbon n'est actuellement pas accessible en écriture, ou config.php existe déjà dans le dossier racine et n'est pas vide ou n'est pas accessible en écriture, le programme d'installation ne peut donc pas continuer."
@@ -14089,7 +14088,7 @@ msgstr "Nom abrégé du jour de l'horaire"
 
 #, php-format
 msgid "Student has a %1$s alert for academic concern over the past 60 days."
-msgstr "L'élève a reçu une alerte de %1$s pour préoccupation académique au cours des 60 derniers jours."
+msgstr "L'étudiant a reçu une alerte de %1$s pour préoccupation académique au cours des 60 derniers jours."
 
 msgid "Configuration Error: there is a problem accessing the current Academic Year from the database."
 msgstr "Erreur de configuration: un problème est survenu lors de l'accès à l'année académique en cours à partir de la base de données."
@@ -14426,7 +14425,7 @@ msgid "Overwrite"
 msgstr "Écraser"
 
 msgid "Replace a student's existing house assignment? If no, it will only assign houses to students who do not already have one."
-msgstr "Remplacer l'assignation de maison existante d'un étudiant? Dans la négative, les maisons ne seront attribuées qu'aux élèves qui n'en possèdent pas encore."
+msgstr "Remplacer l'assignation de maison existante d'un étudiant? Dans la négative, les maisons ne seront attribuées qu'aux étudiants qui n'en possèdent pas encore."
 
 msgid "125x125px jpg/png/gif"
 msgstr "125x125px jpg / png / gif"
@@ -14507,11 +14506,11 @@ msgid "Auto-Enrol Courses?"
 msgstr "Cours d'auto-inscription?"
 
 msgid "Should this student be automatically enrolled in courses for their Form Group?"
-msgstr "Cet élève devrait-il être automatiquement inscrit aux modules de son classe?"
+msgstr "Cet étudiant devrait-il être automatiquement inscrit aux modules de son classe?"
 
 #, fuzzy
 msgid "This will replace any auto-enrolled courses if the student Form Group has changed."
-msgstr "Cela remplacera tous les cours auto-inscrits si le classe de l'élève a changé."
+msgstr "Cela remplacera tous les cours auto-inscrits si le classe de l'étudiant a changé."
 
 msgid "Prefix"
 msgstr "Préfixe"
@@ -14542,7 +14541,7 @@ msgstr "Assistants d'éducation de l'étudiant"
 
 #, php-format
 msgid "%1$s students have been assigned to houses. These results include all student counts by house, updated year groups are highlighted in green. Hover over a number to see the balance by gender."
-msgstr "Les étudiants de %1$s ont été assignés à des maisons. Ces résultats comprennent tous les nombres d'élèves par maison, les paliers mis à jour sont surlignés en vert. Passez la souris sur un nombre pour voir l'équilibre par sexe."
+msgstr "Les étudiants de %1$s ont été assignés à des maisons. Ces résultats comprennent tous les nombres d'étudiants par maison, les paliers mis à jour sont surlignés en vert. Passez la souris sur un nombre pour voir l'équilibre par sexe."
 
 msgid "1 Day"
 msgstr "Un jour"
@@ -16093,7 +16092,7 @@ msgid "Gibbon Installer"
 msgstr "Installateur Gibbon"
 
 msgid "This report prints all parent mobile phone numbers, whether or not they are set to receive messages from the school. It is useful when sending emergency SMS messages to groups of students. If no parent mobile is available it will display the emergency numbers given in the student record, and this will appear in red."
-msgstr "Ce rapport imprime tous les numéros de téléphone mobile parent, qu'ils soient configurés ou non pour recevoir des messages de l'école. Il est utile lors de l'envoi de SMS d'urgence à des groupes d'étudiants. Si aucun mobile parent n'est disponible, il affichera les numéros d'urgence donnés dans le dossier de l'élève, et celui-ci apparaîtra en rouge."
+msgstr "Ce rapport imprime tous les numéros de téléphone mobile parent, qu'ils soient configurés ou non pour recevoir des messages de l'école. Il est utile lors de l'envoi de SMS d'urgence à des groupes d'étudiants. Si aucun mobile parent n'est disponible, il affichera les numéros d'urgence donnés dans le dossier de l'étudiant, et celui-ci apparaîtra en rouge."
 
 msgid "Manage Groups"
 msgstr "Gérer les groupes"
@@ -16102,7 +16101,7 @@ msgid "My Data Updates"
 msgstr "Mes données mises à jour"
 
 msgid "Allows a student to print a report of their attendance data in the current school year."
-msgstr "Permet à un élève d'imprimer un rapport de ses données de présences pour l'année scolaire en cours."
+msgstr "Permet à un étudiant d'imprimer un rapport de ses données de présences pour l'année scolaire en cours."
 
 msgid "Allows management of custom groups for message targetting"
 msgstr "Permet la gestion des groupes personnalisés pour le ciblage des messages"
@@ -16121,7 +16120,7 @@ msgstr "Fournit une vue d'ensemble des mises à jour de données requises pour u
 
 #, fuzzy
 msgid "View all student activity choices in the current year for a given form group."
-msgstr "Afficher tous les choix d'activités des élèves de l'année en cours pour un classe donné."
+msgstr "Afficher tous les choix d'activités des étudiants de l'année en cours pour un classe donné."
 
 msgid "Cutoff Date"
 msgstr "Date de coupure"
@@ -16310,7 +16309,7 @@ msgid "Message Bcc"
 msgstr "Message CCi"
 
 msgid "Allows teachers to specify \"Modified Assessment\" for students with individual needs."
-msgstr "Permet aux enseignants de spécifier une «évaluation modifiée» pour les élèves ayant des besoins individuels."
+msgstr "Permet aux enseignants de spécifier une «évaluation modifiée» pour les étudiants ayant des besoins individuels."
 
 msgid "Comma-separated list of recipients to bcc all messenger emails to."
 msgstr "Liste séparée par des virgules des destinataires CCi de tous les messages."
@@ -16396,7 +16395,7 @@ msgid "Payment Made"
 msgstr "Paiement effectué"
 
 msgid "View Student"
-msgstr "Voir l'élève"
+msgstr "Voir l'étudiant"
 
 msgid "This report allows a user to select a range of families, with at least one child enrolled in the target year group, and check whether or not they have had their family and personal data updated after a specified date."
 msgstr "Ce rapport permet à un utilisateur de sélectionner une gamme de familles, avec au moins un enfant inscrit dans le palier cible, et de vérifier si leurs données familiales et personnelles ont été mises à jour après une date spécifiée."
@@ -16418,7 +16417,7 @@ msgid "The following message was sent by %1$s on %2$s and delivered to %3$s reci
 msgstr "Ce message a été envoyé par %1$s le %2$s pour %3$s destinataires."
 
 msgid "All Students by Alphabet"
-msgstr "Tous les élèves par ordre alphabétique"
+msgstr "Tous les étudiants par ordre alphabétique"
 
 msgid "Mark as Left"
 msgstr "Marquer comme quitté"
@@ -16821,7 +16820,7 @@ msgid "New Message_transport_parents"
 msgstr "Nouveau message_transport_parents"
 
 msgid "Student History_my"
-msgstr "History_my Élève"
+msgstr "Étudiant History_my"
 
 msgid "Unit Planner_all"
 msgstr "Unité Planner_all"
@@ -16903,7 +16902,7 @@ msgstr "Données financières"
 
 #, fuzzy
 msgid "Parents of students interested in study at %1$s may use our %2$s online form%3$s to initiate the application process."
-msgstr "Les parents d'élèves intéressés à étudier à %1$s peuvent utiliser notre %2$s formulaire en ligne %3$s pour entamer la procédure d'inscription."
+msgstr "Les parents d'étudiants intéressés à étudier à %1$s peuvent utiliser notre %2$s formulaire en ligne %3$s pour entamer la procédure d'inscription."
 
 msgid "Couldn't load this tab."
 msgstr "Impossible de charger ce volet"
@@ -16984,11 +16983,11 @@ msgid "Your Smart Unit was successfully created: you can now edit and deploy it 
 msgstr "Votre unité intelligente a été créée avec succès : vous pouvez maintenant la modifier et la déployer en utilisant le formulaire ci-dessous."
 
 msgid "This is useful for picking up students who have not yet left, but have an End Date set."
-msgstr "Utile pour cocher les élèves qui ne sont pas encore partis, mais qui ont une date de fin définie"
+msgstr "Utile pour cocher les étudiants qui ne sont pas encore partis, mais qui ont une date de fin définie"
 
 #, fuzzy
 msgid "This is useful for picking up students who are set to Full, have a start date but are not yet enrolled."
-msgstr "Ceci est utile pour cocher les élèves qui sont définis à Complet, ont une date de début, mais qui ne sont pas inscrits."
+msgstr "Ceci est utile pour cocher les étudiants qui sont définis à Complet, ont une date de début, mais qui ne sont pas inscrits."
 
 msgid "Manage Units_all"
 msgstr "Gérer les unités_all"
@@ -17225,7 +17224,7 @@ msgid "This section allows you to view invoices for children within your family.
 msgstr "Cette section vous permet d'afficher les factures pour les enfants de votre famille."
 
 msgid "Include all students, even those where attendance has not yet been recorded."
-msgstr "Inclure tous les élèves, même ceux dont la présence n'a pas encore été enregistrée."
+msgstr "Inclure tous les étudiants, même ceux dont la présence n'a pas encore été enregistrée."
 
 #, fuzzy
 msgid "Individuals interested in working at %1$s may use our %2$s online form%3$s to view job openings and begin the recruitment process."
@@ -17415,10 +17414,10 @@ msgid "Login - Failed"
 msgstr "Échec de la connexion"
 
 msgid "New Student Note"
-msgstr "Nouvelle Note de l’Élève"
+msgstr "Nouvelle Note de l’Étudiant"
 
 msgid "Student Bumped"
-msgstr "Élève déplacé"
+msgstr "Étudiant déplacé"
 
 msgid "User Status Check and Fix"
 msgstr "Vérification et correction du statut de l'utilisateur"
@@ -17430,10 +17429,10 @@ msgid "Class Attendance"
 msgstr "Présence en Classe"
 
 msgid "Single Student"
-msgstr "Élève"
+msgstr "Étudiant"
 
 msgid "Multiple Students"
-msgstr "Plusieurs élèves"
+msgstr "Plusieurs étudiants"
 
 msgid "Are you sure you want to reset the ordering of all the columns in this class?"
 msgstr "Êtes-vous sûr de vouloir réinitialiser l'ordre de toutes les colonnes de cette classe ?"
@@ -17507,7 +17506,7 @@ msgid "Context & Defaults"
 msgstr "Contexte et valeurs par défaut"
 
 msgid "Total Students"
-msgstr "Nombre total d'élèves"
+msgstr "Nombre total d'étudiants"
 
 msgid "Skip Non-Required Fields"
 msgstr "Ignorer les champs non obligatoires"
@@ -17847,10 +17846,10 @@ msgid "The names of relevant students will be prepended to messages."
 msgstr "Les noms des étudiants concernés seront ajoutés aux messages."
 
 msgid "Students Not In Class"
-msgstr "Élèves absents au cours"
+msgstr "Étudiants absents au cours"
 
 msgid "Include all students, even those who have already been marked absent from school. By default, this report shows only class absences for students who are present in school."
-msgstr "Inclure tous les élèves, même ceux qui ont déjà été marqués comme absents de l'école. Par défaut, ce rapport n'affiche que les absences en classe des élèves présents à l'école."
+msgstr "Inclure tous les étudiants, même ceux qui ont déjà été marqués comme absents de l'école. Par défaut, ce rapport n'affiche que les absences en classe des étudiants présents à l'école."
 
 msgid "Consecutive Absences"
 msgstr "Absences consécutives"
@@ -17961,7 +17960,7 @@ msgid "View by Report"
 msgstr "Afficher par Rapport"
 
 msgid "View by Student"
-msgstr "Afficher par élève"
+msgstr "Afficher par étudiant"
 
 msgid "View Draft Reports"
 msgstr "Afficher les brouillons des rapports"
@@ -17979,7 +17978,7 @@ msgid "View Reports_myChildren"
 msgstr "Afficher les rapports_myChildren"
 
 msgid "View Student Profile_fullEditAllNotes"
-msgstr "Afficher le Profile_fullEditAllNotes de l’Élève"
+msgstr "Afficher le Profile_fullEditAllNotes de l’Étudiant"
 
 msgid "Write Reports_editAll"
 msgstr "Écrire des Reports_editAll"
@@ -18006,7 +18005,7 @@ msgid "Allows parents to view their children's report archive."
 msgstr "Permet aux parents de voir les archives des rapports de leurs enfants."
 
 msgid "Allows students to view their own report archive."
-msgstr "Permet aux élèves de visualiser leurs propres archives de rapports."
+msgstr "Permet aux étudiants de visualiser leurs propres archives de rapports."
 
 msgid "Allows users to generate PDF reports in batches or one at a time."
 msgstr "Permet aux utilisateurs de générer des rapports PDF par lots ou un à la fois."
@@ -18024,7 +18023,7 @@ msgid "Allows users to select and send a pre-defined notification to other users
 msgstr "Permet aux utilisateurs de sélectionner et d'envoyer une notification prédéfinie à d'autres utilisateurs."
 
 msgid "Allows users to view and download a student's report PDFs."
-msgstr "Permet aux utilisateurs de visualiser et de télécharger les PDF du rapport d'un élève."
+msgstr "Permet aux utilisateurs de visualiser et de télécharger les PDF du rapport d'un étudiant."
 
 msgid "Allows users to view and download batched report PDFs."
 msgstr "Permet aux utilisateurs d'afficher et de télécharger des PDF de rapports par lots."
@@ -18039,7 +18038,7 @@ msgid "Design report templates using a set of components."
 msgstr "Concevez des modèles de rapport à l'aide d'un ensemble de composants."
 
 msgid "Generate a report of students who are not present in class on a given day."
-msgstr "Générer un rapport des élèves qui ne sont pas présents en classe un jour donné."
+msgstr "Générer un rapport des étudiants qui ne sont pas présents en classe un jour donné."
 
 msgid "Manage the filesystem locations for saving PDF reports."
 msgstr "Gérez les emplacements du système de fichiers pour enregistrer les rapports PDF."
@@ -18060,7 +18059,7 @@ msgid "Provides an overview of staff coverage for the school year."
 msgstr "Fournit un aperçu du remplacement du personnel pour l'année scolaire."
 
 msgid "Returns a list of students who have had a specified number of consecutive days absent."
-msgstr "Renvoie une liste d'élèves qui ont eu un nombre spécifié de jours consécutifs d'absence."
+msgstr "Renvoie une liste d'étudiants qui ont eu un nombre spécifié de jours consécutifs d'absence."
 
 msgid "View all planner information for all classes."
 msgstr "Consultez les informations relatives aux planificateurs pour toutes les classes."
@@ -18072,7 +18071,7 @@ msgid "View and edit only the reports this user has access to."
 msgstr "Afficher et modifier uniquement les rapports auxquels cet utilisateur a accès."
 
 msgid "View full profile of any student in the school, with access to edit and delete notes."
-msgstr "Voir le profil complet de n'importe quel élève de l'école, avec accès pour modifier et supprimer des notes."
+msgstr "Voir le profil complet de n'importe quel étudiant de l'école, avec accès pour modifier et supprimer des notes."
 
 msgid "View proof-reading completion by reporting cycle."
 msgstr "Afficher l'achèvement de la relecture par cycle de rapport."
@@ -18144,13 +18143,13 @@ msgid "Relative to the Gibbon root directory."
 msgstr "Relatif au répertoire racine de Gibbon."
 
 msgid "Should the Educational Assistants for a student be notified of new behaviour records?"
-msgstr "Les aides-enseignants d'un élève doivent-ils être informés des nouveaux enregistrements de comportement ?"
+msgstr "Les aides-enseignants d'un étudiant doivent-ils être informés des nouveaux enregistrements de comportement ?"
 
 msgid "Should the first class attendance taken in a day have the option to record as school-wide attendance?"
 msgstr "L'assiduité au premier cours d'une journée devrait-elle être enregistrée comme assiduité à l'échelle de l'école ?"
 
 msgid "Should the Form Group Tutors of a student be notified of new behaviour records?"
-msgstr "Les mentors du classe d'un élève doivent-ils être informés des nouveaux enregistrements de comportement ?"
+msgstr "Les mentors du classe d'un étudiant doivent-ils être informés des nouveaux enregistrements de comportement ?"
 
 msgid "Template text to be included in the Description field of a First Aid Record."
 msgstr "Modèle de texte à inclure dans le champ Description d'un dossier de premiers soins."
@@ -18159,7 +18158,7 @@ msgid "Text or HTML to display on the My Coverage page for substitutes, such as 
 msgstr "Texte ou HTML à afficher sur la page Mon remplacement pour les remplaçants, comme les informations de contact ou les procédures d'urgence."
 
 msgid "Text to display before the Archive by Student section."
-msgstr "Texte à afficher avant la section Archivage par Élève."
+msgstr "Texte à afficher avant la section Archivage par Étudiant."
 
 msgid "The minumum number of hours for staff coverage to count as a full day (1.0), otherwise it will count as a half-day (0.5)"
 msgstr "Le nombre minimum d'heures pour que le remplacement du personnel compte comme une journée complète (1,0), sinon cela comptera comme une demi-journée (0,5)"
@@ -18234,7 +18233,7 @@ msgid "Referral"
 msgstr "Référence"
 
 msgid "Why should this student's individual needs be investigated?"
-msgstr "Pourquoi les besoins individuels de cet élève devraient-ils être étudiés ?"
+msgstr "Pourquoi les besoins individuels de cet étudiant devraient-ils être étudiés ?"
 
 msgid "For example, via a phone call, email, Markbook, meeting or other means."
 msgstr "Par exemple, via un appel téléphonique, un courriel, un carnet scolaire, une réunion ou d'autres moyens."
@@ -18366,16 +18365,16 @@ msgid "Contributor Input"
 msgstr "Entrée du contributeur"
 
 msgid "Please choose one description that is most relevant to the student in your subject."
-msgstr "Veuillez choisir une description qui est la plus pertinente pour l’élève dans votre sujet."
+msgstr "Veuillez choisir une description qui est la plus pertinente pour l’étudiant dans votre sujet."
 
 msgid "Please tick any areas that you think the student struggles with"
-msgstr "Veuillez cocher les domaines avec lesquels vous pensez que l'élève a du mal"
+msgstr "Veuillez cocher les domaines avec lesquels vous pensez que l'étudiant a du mal"
 
 msgid "Self-Management"
 msgstr "Autogestion"
 
 msgid "Please tick any areas that you think the student struggles with."
-msgstr "Veuillez cocher les domaines avec lesquels vous pensez que l'élève a du mal."
+msgstr "Veuillez cocher les domaines avec lesquels vous pensez que l'étudiant a du mal."
 
 msgid "Attention"
 msgstr "Attention"
@@ -18411,7 +18410,7 @@ msgid "This email relates to the following students: "
 msgstr "Ce courriel concerne les étudiants suivants :"
 
 msgid "This email relates to the following student: "
-msgstr "Cet courriel concerne l'élève suivant : "
+msgstr "Cet courriel concerne l'étudiant suivant : "
 
 msgid "Duplicate With Members"
 msgstr "Dupliquer avec les membres"
@@ -18456,7 +18455,7 @@ msgid "Optionally used to group criteria together."
 msgstr "Utilisé éventuellement pour regrouper des critères."
 
 msgid "Per Student"
-msgstr "Par élève"
+msgstr "Par étudiant"
 
 msgid "Per Group"
 msgstr "Par groupe"
@@ -18662,7 +18661,7 @@ msgid "Select an option in the sidebar to get started."
 msgstr "Sélectionnez une option dans la barre latérale pour commencer."
 
 msgid "By Student"
-msgstr "Par élève"
+msgstr "Par étudiant"
 
 msgid "Remarks"
 msgstr "Remarques"
@@ -18839,7 +18838,7 @@ msgid "Check pronouns"
 msgstr "Vérifier les pronoms"
 
 msgid "Paste & Replace: Use the {name} placeholder to insert a student's name when pasting comments. Pronouns will automatically be swapped based on the student's gender."
-msgstr "Coller et remplacer : utilisez l'espace réservé {name} pour insérer le nom d'un élève lorsque vous collez des commentaires. Les pronoms seront automatiquement échangés en fonction du sexe de l'élève."
+msgstr "Coller et remplacer : utilisez l'espace réservé {name} pour insérer le nom d'un étudiant lorsque vous collez des commentaires. Les pronoms seront automatiquement échangés en fonction du sexe de l'étudiant."
 
 msgid "A Report Card Generation CLI script has run."
 msgstr "Un script CLI de génération de carte de rapport a été exécuté."
@@ -18877,7 +18876,7 @@ msgstr "Numéro de page"
 
 msgctxt "Reports"
 msgid "Student Data"
-msgstr "Données Élève"
+msgstr "Données Étudiant"
 
 msgid "Primary internal storage type."
 msgstr "Type de stockage interne principal"
@@ -18904,7 +18903,7 @@ msgid "View Logs"
 msgstr "Voir les Journaux"
 
 msgid "Activities - Student Added"
-msgstr "Activités - Élève ajouté"
+msgstr "Activités - Étudiant ajouté"
 
 msgid "Login - Success"
 msgstr "Connexion - Succès"
@@ -18935,10 +18934,10 @@ msgid "Upload Reports"
 msgstr "Télécharger les Rapports"
 
 msgid "Withdraw Student"
-msgstr "Désinscrire l'élève"
+msgstr "Désinscrire l'étudiant"
 
 msgid "Enables admin to set a student to left and notify other users."
-msgstr "Permet à l'administrateur de définir un élève à gauche et d'avertir les autres utilisateurs."
+msgstr "Permet à l'administrateur de définir un étudiant à gauche et d'avertir les autres utilisateurs."
 
 msgid "Enables users to browse Gibbon's event log."
 msgstr "Permet aux utilisateurs de parcourir le journal des événements de Gibbon."
@@ -18998,16 +18997,16 @@ msgid "Theme error due to incorrect manifest file or folder name."
 msgstr "Erreur de thème en raison d'un fichier manifeste ou d'un nom de dossier incorrect."
 
 msgid "Set this to Left unless the student's withdraw date is in the future."
-msgstr "Réglez-le sur Abandon sauf si la date de retrait de l'élève est dans le futur."
+msgstr "Réglez-le sur Abandon sauf si la date de retrait de l'étudiant est dans le futur."
 
 msgid "Withdraw Note"
 msgstr "Retirer la remarque"
 
 msgid "If provided, these will be saved in student notes, as well as shared with notification recipients."
-msgstr "S'ils sont fournis, ceux-ci seront enregistrés dans les notes des élèves, ainsi que partagés avec les destinataires des notifications."
+msgstr "S'ils sont fournis, ceux-ci seront enregistrés dans les notes des étudiants, ainsi que partagés avec les destinataires des notifications."
 
 msgid "Exclude Left Students"
-msgstr "Exclure les élèves ayant abandonné"
+msgstr "Exclure les étudiants ayant abandonné"
 
 msgid "{student} {rollGroup} has withdrawn from {school} on {date}."
 msgstr "{student} {rollGroup} a quitté {school} le {date}."
@@ -19171,10 +19170,10 @@ msgid "Paste & Replace:"
 msgstr "Coller et remplacer :"
 
 msgid "Use the {name} placeholder to insert a student's name when pasting comments."
-msgstr "Utilisez l'espace réservé {name} pour insérer le nom d'un élève lorsque vous collez des commentaires."
+msgstr "Utilisez l'espace réservé {name} pour insérer le nom d'un étudiant lorsque vous collez des commentaires."
 
 msgid "Pronouns will automatically be swapped based on the student's gender."
-msgstr "Les pronoms seront automatiquement échangés en fonction du sexe de l'élève."
+msgstr "Les pronoms seront automatiquement échangés en fonction du sexe de l'étudiant."
 
 msgid "Space Booking Calendar"
 msgstr "Calendrier de réservation d'espace"
@@ -19216,7 +19215,7 @@ msgid "Send Reports to Parents"
 msgstr "Envoyer des rapports aux parents"
 
 msgid "Send Reports to Students"
-msgstr "Envoyer des rapports aux élèves"
+msgstr "Envoyer des rapports aux étudiants"
 
 msgid "Your request was completed successfully. An administrator will process your request as soon as possible. You will not see the updated data in the system until it has been processed."
 msgstr "Votre demande a été traitée avec succès. Un administrateur traitera votre demande dans les meilleurs délais. Vous ne verrez pas les données mises à jour dans le système tant qu'elles n'auront pas été traitées."
@@ -19283,7 +19282,7 @@ msgid "Manage Services"
 msgstr "Gérer les services"
 
 msgid "My Student History"
-msgstr "Mon Histoire d'Élève"
+msgstr "Mon Histoire d'Étudiant"
 
 msgid "Security & Privacy Settings"
 msgstr "Paramètres Sécurité & Confidentialité"
@@ -19304,10 +19303,10 @@ msgid "Manage settings related to user security and privacy."
 msgstr "Gérer les paramètres liés à la sécurité et à la confidentialité des utilisateurs."
 
 msgid "Manage the list of medical conditions that can be attached to student medical records."
-msgstr "Gérer la liste des conditions médicales pouvant être jointes aux dossiers médicaux des élèves."
+msgstr "Gérer la liste des conditions médicales pouvant être jointes aux dossiers médicaux des étudiants."
 
 msgid "Shows the number of classes students are enroled in, organised by form group"
-msgstr "Affiche le nombre de cours auxquels les élèves sont inscrits, organisés par classe"
+msgstr "Affiche le nombre de cours auxquels les étudiants sont inscrits, organisés par classe"
 
 msgid "Application Processing Fee"
 msgstr "Frais de traitement des demandes"
@@ -19358,7 +19357,7 @@ msgid "A name to use for \"Homework\" in the planner. This noun should be in a s
 msgstr "Un nom à utiliser pour \"Devoirs\" dans le planificateur. Ce nom doit être au singulier."
 
 msgid "Allow students to choose a backup, in case enroled activity is full."
-msgstr "Autoriser les élèves à choisir une sauvegarde, au cas où l'activité inscrite serait pleine."
+msgstr "Autoriser les étudiants à choisir une sauvegarde, au cas où l'activité inscrite serait pleine."
 
 msgid "An optional fee that is paid before processing the application form. Sent by staff via the Manage Applications page."
 msgstr "Frais facultatifs payés avant le traitement du formulaire de demande. Envoyé par le personnel via la page Gérer les candidatures."
@@ -19406,7 +19405,7 @@ msgid "Time Cap?"
 msgstr "Limite de temps ?"
 
 msgid "The maximum time, in minutes, for students to work on this."
-msgstr "Le temps maximum, en minutes, pour que les élèves travaillent dessus."
+msgstr "Le temps maximum, en minutes, pour que les étudiants travaillent dessus."
 
 msgid "{homeworkName} Details"
 msgstr "{homeworkName} Détails"
@@ -19454,7 +19453,7 @@ msgid "The due date has passed. Your work will be marked as late."
 msgstr "La date d'échéance est passée. Votre travail sera marqué comme étant en retard."
 
 msgid "Student Recorded {homeworkName}"
-msgstr "Élève Enregistré {homeworkName}"
+msgstr "Étudiant Enregistré {homeworkName}"
 
 msgid "You can use this section to record your own {homeworkName}."
 msgstr "Vous pouvez utiliser cette section pour enregistrer votre propre {homeworkName}."
@@ -19582,17 +19581,17 @@ msgid "{name} has a new or updated medical condition ({condition}) with a {risk}
 msgstr "{name} a une condition médicale nouvelle ou mise à jour ({condition}) avec un niveau de risque {risk}."
 
 msgid "Students and parents accepted to an upcoming school year will have their status set to \"Expected\", unless you choose to send a welcome email to them, in which case their status will be \"Full\"."
-msgstr "Les élèves et les parents acceptés pour une année scolaire à venir verront leur statut défini sur \"Attendu\", sauf si vous choisissez de leur envoyer un courriel de bienvenue, auquel cas leur statut sera \"Complet\"."
+msgstr "Les étudiants et les parents acceptés pour une année scolaire à venir verront leur statut défini sur \"Attendu\", sauf si vous choisissez de leur envoyer un courriel de bienvenue, auquel cas leur statut sera \"Complet\"."
 
 msgid "Student could not be enrolled, so this will have to be done manually at a later date."
-msgstr "L’élève n'a pas pu être inscrit, cela devra donc être fait manuellement à une date ultérieure."
+msgstr "L’étudiant n'a pas pu être inscrit, cela devra donc être fait manuellement à une date ultérieure."
 
 #, php-format
 msgid "Dear %1$s,<br/><br/>Welcome to %2$s, %3$s's system for managing school information. You can access the system by going to %4$s and logging in with your new username (%5$s) and password (%6$s). You can learn more about using %7$s on the official support website (https://docs.gibbonedu.org/parents).<br/><br/>In order to maintain the security of your data, we highly recommend you change your password to something easy to remember but hard to guess. This can be done by using the Preferences page after logging in (top-right of the screen).<br/><br/>"
 msgstr "Cher %1$s,<br/><br/>Bienvenue dans %2$s, le système de gestion des informations scolaires de %3$s. Vous pouvez accéder au système en vous rendant sur %4$s et en vous connectant avec votre nouveau nom d'utilisateur (%5$s) et mot de passe (%6$s). Vous pouvez en savoir plus sur l'utilisation de %7$s sur le site Web d'assistance officiel (https://docs.gibbonedu.org/parents).<br/><br/>Afin de maintenir la sécurité de vos données, nous vous recommandons fortement vous changez votre mot de passe pour quelque chose de facile à retenir, mais difficile à deviner. Cela peut être fait en utilisant la page Préférences après la connexion (en haut à droite de l'écran).<br/><br/>"
 
 msgid "An application form has been accepted for {name} ({group}) with SEN or Medical needs. Please visit the student profile to review these details."
-msgstr "Un formulaire de candidature a été accepté pour {name} ({group}) avec des BEP ou des besoins médicaux. Veuillez visiter le profil de l’élève pour examiner ces détails."
+msgstr "Un formulaire de candidature a été accepté pour {name} ({group}) avec des BEP ou des besoins médicaux. Veuillez visiter le profil de l’étudiant pour examiner ces détails."
 
 msgid "Additional details about this medical condition. Attachments are only visible to users who manage medical data."
 msgstr "Détails supplémentaires sur cette condition médicale. Les pièces jointes ne sont visibles que pour les utilisateurs qui gèrent des données médicales."
@@ -19622,7 +19621,7 @@ msgid "Payment for Processing"
 msgstr "Paiement pour le traitement"
 
 msgid "This page allows a teacher to see every student they've ever taught on a single page, in reverse chronological order by student age. Only displays students who have a photo. Hover over a student to see their name."
-msgstr "Cette page permet à un enseignant de voir tous les élèves auxquels il a déjà enseigné sur une seule page, dans l'ordre chronologique inverse par âge de l'élève. Affiche uniquement les étudiants qui ont une photo. Passez la souris sur un étudiant pour voir son nom."
+msgstr "Cette page permet à un enseignant de voir tous les étudiants auxquels il a déjà enseigné sur une seule page, dans l'ordre chronologique inverse par âge de l'étudiant. Affiche uniquement les étudiants qui ont une photo. Passez la souris sur un étudiant pour voir son nom."
 
 msgid "View Attachment"
 msgstr "Afficher la pièce jointe"
@@ -19640,7 +19639,7 @@ msgid ")"
 msgstr ")"
 
 msgid "Students set to non-reportable won't display in reports. Teachers set to non-reportable won't display in lists of class teachers."
-msgstr "Les élèves définis comme non déclarables ne s'affichent pas dans les rapports. Les professeurs définis comme non déclarables n'apparaîtront pas dans les listes de professeurs de classe."
+msgstr "Les étudiants définis comme non déclarables ne s'affichent pas dans les rapports. Les professeurs définis comme non déclarables n'apparaîtront pas dans les listes de professeurs de classe."
 
 msgid "Date Enrolled"
 msgstr "Date d'Inscription"
@@ -19685,10 +19684,10 @@ msgid "Clear personal data such as passwords, addresses, phone numbers, id numbe
 msgstr "Effacer les données personnelles telles que les mots de passe, les adresses, les numéros de téléphone, les numéros d'identification, etc."
 
 msgid "Clear student medical records including medical conditions and first aid records."
-msgstr "Effacer les dossiers médicaux des élèves, y compris les conditions médicales et les dossiers de premiers soins."
+msgstr "Effacer les dossiers médicaux des étudiants, y compris les conditions médicales et les dossiers de premiers soins."
 
 msgid "Clear student finance data including billing information. Invoices will be retained."
-msgstr "Effacer les données financières des élèves, y compris les informations de facturation. Les factures seront conservées."
+msgstr "Effacer les données financières des étudiants, y compris les informations de facturation. Les factures seront conservées."
 
 msgid "Clear all behaviour data including positive and negative behaviour records and any behaviour letters sent to parents."
 msgstr "Effacez toutes les données de comportement, y compris les enregistrements de comportement positifs et négatifs et toutes les lettres de comportement envoyées aux parents."
@@ -19700,7 +19699,7 @@ msgid "Clear family data such as address, country, languages and marital status.
 msgstr "Effacer les données familiales telles que l'adresse, le pays, les langues et l'état civil."
 
 msgid "Clear all personal data submitted through the student application form."
-msgstr "Effacer toutes les données personnelles soumises via le formulaire de candidature élève."
+msgstr "Effacer toutes les données personnelles soumises via le formulaire de candidature étudiant."
 
 msgid "Clear all personal data submitted through the staff application form."
 msgstr "Effacer toutes les données personnelles transmises par le biais du formulaire de candidature du personnel."
@@ -19772,7 +19771,7 @@ msgid "Other Users Personal Data"
 msgstr "Données personnelles des autres utilisateurs"
 
 msgid "Student Application Forms"
-msgstr "Formulaires de candidature des élèves"
+msgstr "Formulaires de candidature des étudiants"
 
 msgid "Staff Application Forms"
 msgstr "Formulaire de demandes d'emploi du personnel"
@@ -19808,7 +19807,7 @@ msgid "In the past 60 days or upcoming 60 days"
 msgstr "Au cours des 60 derniers jours ou des 60 jours à venir"
 
 msgid "Student Enrolment by Year Group"
-msgstr "Inscriptions d’élèves par palier"
+msgstr "Inscriptions d’étudiants par palier"
 
 msgid "In 60 Days"
 msgstr "Dans 60 jours"
@@ -19850,7 +19849,7 @@ msgid "Allows users to create data update request for their staff record."
 msgstr "Permet aux utilisateurs de créer une demande de mise à jour des données pour leur dossier personnel."
 
 msgid "Allows users to view a summary of student personal documents."
-msgstr "Permet aux utilisateurs d'afficher un résumé des documents personnels des élèves."
+msgstr "Permet aux utilisateurs d'afficher un résumé des documents personnels des étudiants."
 
 msgid "Create staff data update request for any user"
 msgstr "Créer une demande de mise à jour des données du personnel pour n'importe quel utilisateur"
@@ -19892,7 +19891,7 @@ msgid "Enable Staff Dashboard?"
 msgstr "Activer le tableau de bord du personnel ?"
 
 msgid "Enable Student Dashboard?"
-msgstr "Activer le tableau de bord élève ?"
+msgstr "Activer le tableau de bord étudiant ?"
 
 msgid "Front End Cache"
 msgstr "Cache frontal"
@@ -19919,7 +19918,7 @@ msgid "Should the Staff Dashboard be visible to users?"
 msgstr "Le tableau de bord du personnel doit-il être visible pour les utilisateurs ?"
 
 msgid "Should the Student Dashboard be visible to users?"
-msgstr "Le tableau de bord élève doit-il être visible pour les utilisateurs ?"
+msgstr "Le tableau de bord étudiant doit-il être visible pour les utilisateurs ?"
 
 msgid "Application Form Accepted"
 msgstr "Formulaire de demande accepté"
@@ -19946,7 +19945,7 @@ msgid "Overdue Loan Items"
 msgstr "Articles de prêt en retard"
 
 msgid "Student Withdrawn"
-msgstr "Élève Retiré"
+msgstr "Étudiant Retiré"
 
 msgid "Updated Behaviour Record"
 msgstr "Enregistrement de comportement mis à jour"
@@ -19994,10 +19993,10 @@ msgid "Visibility"
 msgstr "Visibilité"
 
 msgid "Note that certain fields are available depending on the role categories (Staff, Student, Parent) that a user is assigned to. These fields, such as personal documents and custom fields, will be editable after the user has been created."
-msgstr "Notez que certains champs sont disponibles en fonction des catégories de rôles (Personnel, Élève, Parent) auxquelles un utilisateur est affecté. Ces champs, tels que les documents personnels et les champs personnalisés, seront modifiables après la création de l'utilisateur."
+msgstr "Notez que certains champs sont disponibles en fonction des catégories de rôles (Personnel, Étudiant, Parent) auxquelles un utilisateur est affecté. Ces champs, tels que les documents personnels et les champs personnalisés, seront modifiables après la création de l'utilisateur."
 
 msgid "Create a linked student record?"
-msgstr "Créer un dossier élève lié ?"
+msgstr "Créer un dossier étudiant lié ?"
 
 msgid "Phone 1"
 msgstr "Téléphone 1"
@@ -20063,16 +20062,16 @@ msgid "Is this field hidden from profiles and user-facing pages?"
 msgstr "Ce champ est-il masqué dans les profils et les pages destinées aux utilisateurs ?"
 
 msgid "Student, lesson or homework has not been specified ."
-msgstr "L'élève, la leçon ou les devoirs n'ont pas été spécifiés."
+msgstr "L'étudiant, la leçon ou les devoirs n'ont pas été spécifiés."
 
 msgid "Change of Form Group"
 msgstr "Changement de classe"
 
 msgid "Student's form group was changed from {formGroupFrom} to {formGroupTo} on {date}"
-msgstr "La classe de l'élève est passé de {formGroupFrom} à {formGroupTo} le {date}"
+msgstr "La classe de l'étudiant est passé de {formGroupFrom} à {formGroupTo} le {date}"
 
 msgid "This report prints a summary of personal documents including passports and ID cards for the selected students."
-msgstr "Ce rapport imprime un résumé des documents personnels, y compris les passeports et les cartes d'identité des élèves sélectionnés."
+msgstr "Ce rapport imprime un résumé des documents personnels, y compris les passeports et les cartes d'identité des étudiants sélectionnés."
 
 msgid "Document Type"
 msgstr "Type de document"
@@ -20090,7 +20089,7 @@ msgid "Phone "
 msgstr "Téléphone "
 
 msgid "Student Agreements:"
-msgstr "Accords de l’Élève :"
+msgstr "Accords de l’Étudiant :"
 
 msgid "{student} {formGroup} has withdrawn from {school} on {date}."
 msgstr "{student} {formGroup} a quitté {school} le {date}."
@@ -20099,7 +20098,7 @@ msgid "Year/Form"
 msgstr "Année/Formulaire"
 
 msgid "Only includes students not enrolled in specified year."
-msgstr "Inclut uniquement les élèves non inscrits dans l'année spécifiée."
+msgstr "Inclut uniquement les étudiants non inscrits dans l'année spécifiée."
 
 msgid "A staff data update request has been submitted."
 msgstr "Une demande de mise à jour des données du personnel a été soumise."
@@ -20150,7 +20149,7 @@ msgid "This bulk action can be used to update the status for more than one invoi
 msgstr "Cette action groupée peut être utilisée pour mettre à jour le statut de plusieurs factures à Payé (en totalité). Il n'envoie PAS de reçus par courriel ni ne fonctionne avec des paiements nécessitant un ID de transaction. Si vous devez inclure des reçus par courriel, ajouter un ID de transaction ou traiter un paiement partiel, utilisez l'action Modifier pour chaque facture individuelle."
 
 msgid "All Students by Form Group"
-msgstr "Tous les élèves par classe"
+msgstr "Tous les étudiants par classe"
 
 msgid "Absence"
 msgstr "Absence"
@@ -20168,7 +20167,7 @@ msgid "Filter by data source name"
 msgstr "Filtrer par nom de source de données"
 
 msgid "Draft reports are not accessible by parents or students."
-msgstr "Les projets de rapports ne sont pas accessibles aux parents ou aux élèves."
+msgstr "Les projets de rapports ne sont pas accessibles aux parents ou aux étudiants."
 
 msgid "Two-sided"
 msgstr "Recto verso"
@@ -20268,7 +20267,7 @@ msgid "Leaving"
 msgstr "Sortie"
 
 msgid "Student Applications"
-msgstr "Candidatures des Élèves"
+msgstr "Candidatures des Étudiants"
 
 msgid "Staff Applications"
 msgstr "Candidatures du personnel"
@@ -20277,10 +20276,10 @@ msgid "Welcome"
 msgstr "Bienvenue"
 
 msgid "Student Name Conflicts"
-msgstr "Conflits de noms d'élèves"
+msgstr "Conflits de noms d'étudiants"
 
 msgid "This report checks all comments in a reporting cycle for any other student names that do not match the name of the student commented on."
-msgstr "Ce rapport vérifie tous les commentaires dans un cycle des rapports pour tout autre nom d’élève qui ne correspond pas au nom de l’élève commenté."
+msgstr "Ce rapport vérifie tous les commentaires dans un cycle des rapports pour tout autre nom d’étudiant qui ne correspond pas au nom de l’étudiant commenté."
 
 msgid "Read more about how personal data is used, stored and retained at %1$s."
 msgstr "En savoir plus sur la manière dont les données personnelles sont utilisées, stockées et conservées sur %1$s."
@@ -20302,7 +20301,7 @@ msgid "Messenger Group"
 msgstr "Groupe de messagerie"
 
 msgid "Select Students"
-msgstr "Sélectionnez les élèves"
+msgstr "Sélectionnez les étudiants"
 
 msgid "Active Sessions"
 msgstr "Sessions Actives"
@@ -20366,11 +20365,11 @@ msgid ""
 "A warning has been issued for a student (%1$s) in your form group,\n"
 "                                     pending a behaviour letter."
 msgstr ""
-"Un avertissement a été émis pour un élève (%1$s) dans votre classe,\n"
+"Un avertissement a été émis pour un étudiant (%1$s) dans votre classe,\n"
 "                                      dans l'attente d'une lettre de comportement."
 
 msgid "Allows users to take school-wide attendance for ad hoc groups of students."
-msgstr "Permet aux utilisateurs de prendre l'assiduité à l'échelle de l'école pour des groupes d'élèves ad hoc."
+msgstr "Permet aux utilisateurs de prendre l'assiduité à l'échelle de l'école pour des groupes d'étudiants ad hoc."
 
 msgid "Libya"
 msgstr "Libye"
@@ -20475,13 +20474,13 @@ msgid "Old Status"
 msgstr "Ancien Statut"
 
 msgid "Max per Student"
-msgstr "Max par élève"
+msgstr "Max par étudiant"
 
 msgid "The most a student can sign up for in this activity type. Set to 0 for unlimited."
-msgstr "Le maximum auquel un élève peut s'inscrire dans ce type d'activité. Mettre à 0 pour illimité."
+msgstr "Le maximum auquel un étudiant peut s'inscrire dans ce type d'activité. Mettre à 0 pour illimité."
 
 msgid "Should students be placed on a waiting list if the enrolled activity is full."
-msgstr "Les élèves doivent-ils être placés sur une liste d'attente si l'activité inscrite est complète."
+msgstr "Les étudiants doivent-ils être placés sur une liste d'attente si l'activité inscrite est complète."
 
 msgid "CLI script"
 msgstr "Script CLI"
@@ -20616,7 +20615,7 @@ msgstr "Inscription disponible"
 
 #, php-format
 msgid "Each student can register for %1$s %2$s activities."
-msgstr "Chaque élève peut s'inscrire aux activités %1$s %2$s."
+msgstr "Chaque étudiant peut s'inscrire aux activités %1$s %2$s."
 
 #, php-format
 msgid "Your current registration count is: %1$s"
@@ -20642,10 +20641,10 @@ msgid "Payment can be made by credit card, using our secure %2$s payment gateway
 msgstr "Le paiement peut être effectué par carte de crédit, en utilisant notre passerelle de paiement sécurisée %2$s. Lorsque vous appuyez sur Payer maintenant ci-dessous, vous serez dirigé vers une page %1$s à partir de laquelle vous pourrez utiliser %2$s pour effectuer le paiement. Vous pouvez poursuivre le paiement via %1$s, que vous soyez connecté ou non. Au cours de ce processus, nous ne voyons ni ne stockons les détails de votre carte de crédit."
 
 msgid "All Enrolled Students by Class"
-msgstr "Tous les élèves inscrits par classe"
+msgstr "Tous les étudiants inscrits par classe"
 
 msgid "All Students by Class"
-msgstr "Tous les élèves par classe"
+msgstr "Tous les étudiants par classe"
 
 msgid "Positive Count"
 msgstr "Compte positif"
@@ -20744,10 +20743,10 @@ msgid "The {gateway} payment service could not be reached. Please try again and 
 msgstr "Le service de paiement {gateway} n'a pas pu être joint. Veuillez réessayer et si l'erreur persiste, contactez l'école."
 
 msgid "Latest student start date to include."
-msgstr "Dernière date de début de l’élève à inclure."
+msgstr "Dernière date de début de l’étudiant à inclure."
 
 msgid "Earliest student start date to include."
-msgstr "La date d'entrée en fonction de l’élève la plus proche doit être incluse."
+msgstr "La date d'entrée en fonction de l’étudiant la plus proche doit être incluse."
 
 msgid "No Category"
 msgstr "Aucune catégorie"
@@ -20762,7 +20761,7 @@ msgid "Uploads folder not publicly accessible"
 msgstr "Dossier de téléchargements non accessible au public"
 
 msgid "The students listed below match the criteria above, for {type} behaviour records in the current school year. The count is updated according to the criteria above."
-msgstr "Les élèves répertoriés ci-dessous correspondent aux critères ci-dessus, pour les enregistrements de comportement {type} de l'année scolaire en cours. Le compteur est mis à jour selon les critères ci-dessus."
+msgstr "Les étudiants répertoriés ci-dessous correspondent aux critères ci-dessus, pour les enregistrements de comportement {type} de l'année scolaire en cours. Le compteur est mis à jour selon les critères ci-dessus."
 
 #, php-format
 msgid "Error with SSO Authentication. Please contact %1$s if you have any questions."
@@ -20971,7 +20970,7 @@ msgid "The form builder enables you to design application forms as well as other
 msgstr "Le générateur de formulaires vous permet de concevoir des formulaires de candidature ainsi que d'autres formulaires personnalisés pour la collecte de données utilisateur. Les fonctionnalités disponibles dans chaque formulaire dépendent des champs qui leur sont ajoutés."
 
 msgid "Enrol the student in the selected school year (as the student has been assigned to a form group)."
-msgstr "Inscrire l'élève dans l'année scolaire sélectionnée (puisque l'élève a été affecté à un classe)."
+msgstr "Inscrire l'étudiant dans l'année scolaire sélectionnée (puisque l'étudiant a été affecté à un classe)."
 
 msgid "Admissions Welcome"
 msgstr "Bienvenue aux admissions"
@@ -21145,7 +21144,7 @@ msgid "Create Parents"
 msgstr "Créer un parent"
 
 msgid "Create a Gibbon user account for one or more parents and connect them to the student's family."
-msgstr "Créez un compte utilisateur Gibbon pour un ou plusieurs parents et connectez-les à la famille de l'élève."
+msgstr "Créez un compte utilisateur Gibbon pour un ou plusieurs parents et connectez-les à la famille de l'étudiant."
 
 msgid "Create Medical Record"
 msgstr "Créer un dossier médical"
@@ -21190,13 +21189,13 @@ msgid "Create Family"
 msgstr "Créer une famille"
 
 msgid "Create a new family or add students to an existing family."
-msgstr "Créez une nouvelle famille ou ajoutez des élèves à une famille existante."
+msgstr "Créez une nouvelle famille ou ajoutez des étudiants à une famille existante."
 
 msgid "A new family was created for {familyName}."
 msgstr "Une nouvelle famille a été créée pour {familyName}."
 
 msgid "Student was linked to the existing family: {familyName}."
-msgstr "L'élève était lié à la famille existante : {familyName}."
+msgstr "L'étudiant était lié à la famille existante : {familyName}."
 
 msgid "Acceptance Email"
 msgstr "Courriel d'acceptation"
@@ -21211,7 +21210,7 @@ msgid "Enrol Student"
 msgstr "Inscrire l'étudiant"
 
 msgid "Enrol the student in the selected school year."
-msgstr "Inscrire l'élève dans l'année scolaire choisie."
+msgstr "Inscrire l'étudiant dans l'année scolaire choisie."
 
 msgid "Submission Email"
 msgstr "Courriel de soumission"
@@ -21253,7 +21252,7 @@ msgid "Generic fields can be added ad hoc to any form, however the data is not a
 msgstr "Des champs génériques peuvent être ajoutés ad hoc à n'importe quel formulaire, mais les données ne sont pas automatiquement attachées à un enregistrement dans Gibbon."
 
 msgid "Family fields enable the creation of a family record in Gibbon once an application has been accepted. Students and parents will be automatically attached to the new family."
-msgstr "Les champs familiaux permettent la création d'un dossier familial dans Gibbon une fois qu'une demande a été acceptée. Les élèves et les parents seront automatiquement rattachés à la nouvelle famille."
+msgstr "Les champs familiaux permettent la création d'un dossier familial dans Gibbon une fois qu'une demande a été acceptée. Les étudiants et les parents seront automatiquement rattachés à la nouvelle famille."
 
 msgid "Add blocks of text to your form, such as additional information or instructions for users to follow."
 msgstr "Ajoutez des blocs de texte à votre formulaire, tels que des informations supplémentaires ou des instructions à suivre par les utilisateurs."
@@ -21476,7 +21475,7 @@ msgid "Both Parents"
 msgstr "Les deux parents"
 
 msgid "Student and Parent"
-msgstr "Élève et parent"
+msgstr "Étudiant et parent"
 
 msgid "Any Recipient"
 msgstr "Tout destinataire"
@@ -21587,10 +21586,10 @@ msgid "Must be unique for this column."
 msgstr "Doit être unique pour cette colonne."
 
 msgid "This class is currently under enrolled, based on a minimum enrolment of {enrolmentMin} students."
-msgstr "Ce cours est actuellement sous-inscrit, sur la base d'un nombre minimum d'inscriptions de {enrolmentMin} élèves."
+msgstr "Ce cours est actuellement sous-inscrit, sur la base d'un nombre minimum d'inscriptions de {enrolmentMin} étudiants."
 
 msgid "This class is currently over enrolled, based on a maximum enrolment of {enrolmentMax} students."
-msgstr "Cette classe est actuellement surinscrite, sur la base d'un nombre maximal d'inscriptions de {enrolmentMax} élèves."
+msgstr "Cette classe est actuellement surinscrite, sur la base d'un nombre maximal d'inscriptions de {enrolmentMax} étudiants."
 
 msgid "Single-sided"
 msgstr "Simple face"
@@ -21694,7 +21693,7 @@ msgid "An optional list of staff to include in the follow-up contacts section."
 msgstr "Une liste facultative du personnel à inclure dans la section des contacts de suivi."
 
 msgid "Behaviour Record for IN Student"
-msgstr "Dossier de comportement de l'étudiant IN"
+msgstr "Dossier de comportement de l'Étudiant IN"
 
 msgid "{formGroup} was the last group to have their initial Form Group attendance taken (by {person} at {time})"
 msgstr "{formGroup} a été le dernier groupe à avoir une prise initiale des présences au classe (par {person} à {time})"
@@ -21748,7 +21747,7 @@ msgid "A follow up request was sent to the selected user."
 msgstr "Une demande de suivi a été envoyée à l'utilisateur sélectionné."
 
 msgid "If you are the student's teacher, please include details such as: the location & lesson, what lead up to the incident, what was the incident, what did you do."
-msgstr "Si vous êtes l'enseignant de l'élève, veuillez inclure des détails tels que : le lieu et la leçon, ce qui a conduit à l'incident, quel était l'incident, qu'avez-vous fait."
+msgstr "Si vous êtes l'enseignant de l'étudiant, veuillez inclure des détails tels que : le lieu et la leçon, ce qui a conduit à l'incident, quel était l'incident, qu'avez-vous fait."
 
 msgid "A first aid record has been created for {name} at {time}. Your follow-up has been requested. Please click below to view and enter details."
 msgstr "Un dossier de premiers secours a été créé pour {name} à {time}. Votre suivi a été demandé. Veuillez cliquer ci-dessous pour afficher et saisir les détails."
@@ -21760,7 +21759,7 @@ msgid "If selected, this user will be notified to enter follow up details about 
 msgstr "S'il est sélectionné, cet utilisateur sera invité à saisir les détails de suivi sur l'incident de premiers secours."
 
 msgid "As a staff member, your view of this rubric accounts for all current records, including those before their complete date. Parents and students will only see the rubric based on completed data."
-msgstr "En tant que membre du personnel, votre vision de cette rubrique prend en compte tous les dossiers actuels, y compris ceux antérieurs à leur date d'achèvement. Les parents et les élèves ne verront que la grille d'évaluation basée sur les données complétées."
+msgstr "En tant que membre du personnel, votre vision de cette rubrique prend en compte tous les dossiers actuels, y compris ceux antérieurs à leur date d'achèvement. Les parents et les étudiants ne verront que la grille d'évaluation basée sur les données complétées."
 
 msgid "Include Signature? (email only)"
 msgstr "Ajouter signature? (seulement courriel)"
@@ -22019,7 +22018,7 @@ msgid "Link To Other Existing Behaviour"
 msgstr "Lien vers un autre comportement existant"
 
 msgid "My Students"
-msgstr "Mes élèves"
+msgstr "Mes étudiants"
 
 msgid "Follow Up By "
 msgstr "Suivi par "
@@ -22064,7 +22063,7 @@ msgid "Birthplace"
 msgstr "Lieu de naissance"
 
 msgid "New Student ?"
-msgstr "Nouvel Etudiant"
+msgstr "Nouvel Etudiant ?"
 
 msgid "Enrolment Status"
 msgstr "Statut inscription"
@@ -22172,7 +22171,7 @@ msgid "Expected to graduate"
 msgstr "Diplôme prévu pour"
 
 msgid "Add Student Enrolment Now?"
-msgstr "Ajouter la fiche élève maintenant ?"
+msgstr "Ajouter la fiche étudiant maintenant ?"
 
 msgid "Add Staff Profile Now?"
 msgstr "Ajouter le fiche personnel maintenant ?"
