@@ -17026,28 +17026,28 @@ msgid "Include Expected and Left."
 msgstr "Inclure prévu et gauche."
 
 msgid "Afrikaans"
-msgstr "afrikaans"
+msgstr "Afrikaans"
 
 msgid "Albanian"
-msgstr "albanais"
+msgstr "Albanais"
 
 msgid "Arabic"
 msgstr "Arabe"
 
 msgid "Armenian"
-msgstr "arménien"
+msgstr "Arménien"
 
 msgid "Basque"
-msgstr "basque"
+msgstr "Basque"
 
 msgid "Bengali"
-msgstr "bengali"
+msgstr "Bengali"
 
 msgid "Bulgarian"
-msgstr "bulgare"
+msgstr "Bulgare"
 
 msgid "Catalan"
-msgstr "catalan"
+msgstr "Catalan"
 
 msgid "Cambodian"
 msgstr "Cambodgien"
@@ -17059,49 +17059,49 @@ msgid "Croation"
 msgstr "Croation"
 
 msgid "Czech"
-msgstr "tchèque"
+msgstr "Tchèque"
 
 msgid "Danish"
-msgstr "danois"
+msgstr "Danois"
 
 msgid "Estonian"
-msgstr "estonien"
+msgstr "Estonien"
 
 msgid "Fijian"
 msgstr "Fidjien"
 
 msgid "Finnish"
-msgstr "finlandais"
+msgstr "Finlandais"
 
 msgid "Georgian"
-msgstr "géorgien"
+msgstr "Géorgien"
 
 msgid "Greek"
-msgstr "grec"
+msgstr "Grec"
 
 msgid "Gujarati"
 msgstr "Gujarati"
 
 msgid "Hebrew"
-msgstr "hébreu"
+msgstr "Hébreu"
 
 msgid "Hindi"
-msgstr "hindi"
+msgstr "Hindi"
 
 msgid "Hungarian"
-msgstr "hongrois"
+msgstr "Hongrois"
 
 msgid "Icelandic"
-msgstr "islandais"
+msgstr "Islandais"
 
 msgid "Indonesian"
-msgstr "indonésien"
+msgstr "Indonésien"
 
 msgid "Irish"
-msgstr "irlandais"
+msgstr "Irlandais"
 
 msgid "Italian"
-msgstr "italien"
+msgstr "Italien"
 
 msgid "Japanese"
 msgstr "Japonais"
@@ -17110,7 +17110,7 @@ msgid "Javanese"
 msgstr "Javanais"
 
 msgid "Korean"
-msgstr "coréen"
+msgstr "Coréen"
 
 msgid "Latin"
 msgstr "Latin"
@@ -17119,19 +17119,19 @@ msgid "Latvian"
 msgstr "Letton"
 
 msgid "Lithuanian"
-msgstr "lituanien"
+msgstr "Lituanien"
 
 msgid "Macedonian"
 msgstr "Macédonien"
 
 msgid "Malay"
-msgstr "malais"
+msgstr "Malais"
 
 msgid "Malayalam"
 msgstr "Malayalam"
 
 msgid "Maltese"
-msgstr "maltais"
+msgstr "Maltais"
 
 msgid "Maori"
 msgstr "Maori"
@@ -17140,19 +17140,19 @@ msgid "Marathi"
 msgstr "Marathi"
 
 msgid "Mongolian"
-msgstr "mongol"
+msgstr "Mongol"
 
 msgid "Nepali"
-msgstr "népalais"
+msgstr "Népalais"
 
 msgid "Norwegian"
-msgstr "norvégien"
+msgstr "Norvégien"
 
 msgid "Persian"
-msgstr "persan"
+msgstr "Persan"
 
 msgid "Polish"
-msgstr "polonais"
+msgstr "Polonais"
 
 msgid "Portuguese"
 msgstr "Portugais"
@@ -17164,40 +17164,40 @@ msgid "Quechua"
 msgstr "Quechua"
 
 msgid "Romanian"
-msgstr "roumain"
+msgstr "Roumain"
 
 msgid "Russian"
-msgstr "russe"
+msgstr "Russe"
 
 msgid "Samoan"
 msgstr "Samoan"
 
 msgid "Serbian"
-msgstr "serbe"
+msgstr "Serbe"
 
 msgid "Slovak"
-msgstr "slovaque"
+msgstr "Slovaque"
 
 msgid "Slovenian"
-msgstr "slovène"
+msgstr "Slovène"
 
 msgid "Swahili"
 msgstr "Swahili"
 
 msgid "Swedish "
-msgstr "suédois"
+msgstr "Suédois"
 
 msgid "Tamil"
 msgstr "Tamil"
 
 msgid "Tatar"
-msgstr "tatar"
+msgstr "Tatar"
 
 msgid "Telugu"
 msgstr "Telugu"
 
 msgid "Thai"
-msgstr "thaïlandais"
+msgstr "Thaïlandais"
 
 msgid "Tibetan"
 msgstr "Tibétain"
@@ -17206,7 +17206,7 @@ msgid "Tongan"
 msgstr "Tongan"
 
 msgid "Turkish"
-msgstr "turc"
+msgstr "Turc"
 
 msgid "Ukranian"
 msgstr "Ukrainien"
