@@ -22115,7 +22115,7 @@ msgid "Current school year only."
 msgstr "Année actuelle uniquement."
 
 msgid "On Hold"
-msgstr "Suspendu"
+msgstr "En attente"
 
 msgid "Validated"
 msgstr "Validé"
