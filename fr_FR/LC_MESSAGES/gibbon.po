@@ -869,9 +869,8 @@ msgstr "Coordinateur"
 msgid "Assistant Coordinator"
 msgstr "Coordinateur Assistant"
 
-#. What is the difference between a Teacher and a Teacher (Curriculum) ??
 msgid "Teacher (Curriculum)"
-msgstr "Enseignant (Curriculum)"
+msgstr "Professeur Référent"
 
 msgid "Other"
 msgstr "Autre"
@@ -22793,3 +22792,33 @@ msgstr "Zambien"
 
 msgid "Zimbabwean"
 msgstr "Zimbabwéen"
+
+msgid "Superintendent"
+msgstr "Intendant"
+
+msgid "Secretary"
+msgstr "Secrétaire"
+
+msgid "Department Manager"
+msgstr "Responsable Département"
+
+msgid "Dean"
+msgstr "Doyen"
+
+msgid "Education Manager"
+msgstr "Responsable Scolarité"
+
+msgid "IT Manager"
+msgstr "Responsable Informatique"
+
+msgid "Worker"
+msgstr "Ouvrier"
+
+msgid "Chef"
+msgstr "Cuisinier"
+
+msgid "Accountant"
+msgstr "Comptable"
+
+msgid "Accounting Assistant"
+msgstr "Assitante Comptable"
