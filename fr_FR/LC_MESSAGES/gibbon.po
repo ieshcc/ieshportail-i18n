@@ -22793,6 +22793,9 @@ msgstr "Zambien"
 msgid "Zimbabwean"
 msgstr "Zimbabwéen"
 
+msgid "French Guianese"
+msgstr "Guyanais(e)"
+
 msgid "Superintendent"
 msgstr "Intendant"
 
@@ -22822,3 +22825,12 @@ msgstr "Comptable"
 
 msgid "Accounting Assistant"
 msgstr "Assitante Comptable"
+
+msgid "Quran Institute"
+msgstr "Intitut Coran"
+
+msgid "Canteen"
+msgstr "Cantine"
+
+msgid "Your request was completed successfully, but one or more images were invalid or the wrong size and so were not saved."
+msgstr "Votre demande a été effectuée avec succès, mais une ou plusieurs images étaient invalides ou de taille incorrecte et n'ont donc pas été enregistrées."
