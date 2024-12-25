@@ -22793,6 +22793,9 @@ msgstr "Zambien"
 msgid "Zimbabwean"
 msgstr "Zimbabwéen"
 
+msgid "French Guianese"
+msgstr "Guyanais(e)"
+
 msgid "Superintendent"
 msgstr "Intendant"
 
