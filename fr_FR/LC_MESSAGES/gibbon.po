@@ -4924,7 +4924,7 @@ msgid "Drama"
 msgstr "Dramaturgie"
 
 msgid "Dutch"
-msgstr "Dutch"
+msgstr "Néerlandais(e)"
 
 msgid "Economics"
 msgstr "Économie"
