@@ -3091,7 +3091,7 @@ msgid "Students highlighted in red are marked as 'Full' but have either not reac
 msgstr "Les étudiants mis en surbrillance rouge sont marqués comme 'Complet', mais n'ont soit pas leur date de début de cours, soit ont dépassé la date de fin des cours."
 
 msgid "Student Enrolment"
-msgstr "Inscrption des étudiants"
+msgstr "Inscription des étudiants"
 
 msgid "Add Student Enrolment"
 msgstr "Ajouter une inscription"
@@ -22834,3 +22834,15 @@ msgstr "Cantine"
 
 msgid "Your request was completed successfully, but one or more images were invalid or the wrong size and so were not saved."
 msgstr "Votre demande a été effectuée avec succès, mais une ou plusieurs images étaient invalides ou de taille incorrecte et n'ont donc pas été enregistrées."
+
+msgid "Bulk Add"
+msgstr "Ajout groupé"
+
+msgid "Some of the selected students does not have a valid status. Expected 'Full' or 'Expected'"
+msgstr "Certains des étudiants sélectionnés n'ont pas un statut valide dans le système. Statut attendu 'Complet' ou 'Requis'"
+
+msgid "Invalid Users"
+msgstr "Utilisateurs Invalides"
+
+msgid "Some of the selected students are already enrolled"
+msgstr "Certains des étudiants séléctionnés sont déjà inscrits"
