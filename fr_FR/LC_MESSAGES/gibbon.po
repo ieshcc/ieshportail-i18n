@@ -10484,7 +10484,7 @@ msgid "Messenger Settings"
 msgstr "Paramètres de messagerie"
 
 msgid "New Quick Wall Message"
-msgstr "Nouveau message rapide sur le mur"
+msgstr "Nouvelle Note interne"
 
 msgid "Allows for the quick posting of a Message Wall message to all users."
 msgstr "Permet de poster un message rapidement sur le mur de messagerie de tous les utilisateurs."
