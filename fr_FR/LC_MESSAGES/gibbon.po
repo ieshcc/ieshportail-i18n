@@ -7681,7 +7681,7 @@ msgid "Teaching Strategies"
 msgstr "Stratégies d'encadrement"
 
 msgid "Targets"
-msgstr "Cibles"
+msgstr "Destinataires"
 
 msgid "Alert Level"
 msgstr "Niveau d'alerte"
@@ -7981,7 +7981,7 @@ msgid "View Messages"
 msgstr "Consulter les messages"
 
 msgid "Subject"
-msgstr "Sujet"
+msgstr "Objet"
 
 msgid "Date Sent"
 msgstr "Date d'envoi"
@@ -10603,7 +10603,7 @@ msgid "Search In"
 msgstr "Rechercher dans"
 
 msgid "Subject, body."
-msgstr "Sujet, Corps"
+msgstr "Objet, Corps"
 
 msgid "Messages"
 msgstr "Messages"
@@ -18951,7 +18951,7 @@ msgid "Should the referee email address field be required?"
 msgstr "Le champ de courriel de la référence doit-il être obligatoire ?"
 
 msgid "Staff Left"
-msgstr "Personnel à gauche"
+msgstr "Départ de personnel"
 
 msgid "Use the class listing on the right to choose an Internal Assessment to edit."
 msgstr "Utilisez la liste des classes à droite pour choisir une évaluation interne à modifier."
@@ -22844,3 +22844,6 @@ msgstr "Utilisateurs Invalides"
 
 msgid "Some of the selected students are already enrolled"
 msgstr "Certains des étudiants séléctionnés sont déjà inscrits"
+
+msgid "Message Summary"
+msgstr "Récapitluatif du Message"
