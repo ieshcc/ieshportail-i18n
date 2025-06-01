@@ -12213,7 +12213,7 @@ msgid "Unusable"
 msgstr "Inutilisable"
 
 msgid "Weighting"
-msgstr "Pondération"
+msgstr "Coefficient"
 
 msgid "Attainment Weighting"
 msgstr "Pondération d'appréciation"
@@ -18696,7 +18696,7 @@ msgid "Components"
 msgstr "Composants"
 
 msgid "Place templates in your Custom Asset Path at {path} and scan the directory to update components."
-msgstr "Placez les modèles dans votre chemin d'accès aux ressources personnalisées à {chemin} et analysez le répertoire pour mettre à jour les composants."
+msgstr "Placez les modèles dans votre chemin d'accès aux ressources personnalisées à {path} et analysez le répertoire pour mettre à jour les composants."
 
 msgid "Scan Asset Directories"
 msgstr "Analyser les répertoires d'actifs"
@@ -22847,3 +22847,9 @@ msgstr "Certains des étudiants séléctionnés sont déjà inscrits"
 
 msgid "Message Summary"
 msgstr "Récapitluatif du Message"
+
+msgid "Average"
+msgstr "Moyenne"
+
+msgid "Catchup"
+msgstr "Rattrapage"
