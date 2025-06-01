@@ -3701,7 +3701,7 @@ msgid "Sub"
 msgstr "Proc"
 
 msgid "Att"
-msgstr "Pres"
+msgstr "Note"
 
 msgid "Eff"
 msgstr "Eff"
@@ -9710,7 +9710,7 @@ msgid "Target Grade"
 msgstr "Grade cible"
 
 msgid "Final Grade"
-msgstr "Grade final"
+msgstr "Note final"
 
 msgid "Scores"
 msgstr "Points"
