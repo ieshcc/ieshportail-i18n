@@ -1430,10 +1430,10 @@ msgid "Must be unique for this course."
 msgstr "Doit être unique pour ce cours."
 
 msgid "Reportable?"
-msgstr "Possibilité d'imprimer ?"
+msgstr "Ajouter au bulletin ?"
 
 msgid "Should this class show in reports?"
-msgstr "Cette leçon peut-elle être affichée dans des états ?"
+msgstr "Cette leçon peut-elle être affichée dans les bulletins ?"
 
 msgid "Edit Class"
 msgstr "Modifier la leçon"
@@ -1442,7 +1442,7 @@ msgid "Edit Classes"
 msgstr "Modifier des leçons"
 
 msgid "Reportable"
-msgstr "Possibilité d'imprimer"
+msgstr "Ajouter au bulletin"
 
 msgid "Course Enrolment by Class"
 msgstr "Inscription à un cours par classe"
@@ -22853,3 +22853,9 @@ msgstr "Moyenne"
 
 msgid "Catchup"
 msgstr "Rattrapage"
+
+msgid "Grading Options"
+msgstr "Options de Notation"
+
+msgid "Weighting of the class in the final grade"
+msgstr "Coefficient de la classe sur la note finale"
